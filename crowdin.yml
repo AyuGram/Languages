@@ -1,0 +1,3 @@
+files:
+  - source: /values/Shared.json
+    translation: /values/langs/%two_letters_code%/Shared.json
