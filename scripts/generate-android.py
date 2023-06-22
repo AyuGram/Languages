@@ -12,7 +12,7 @@ with open('./values/Shared.json') as f:
 root = et.Element('resources')
 
 for k, v in strings.items():
-    string = et.SubElement(root, 'string', {'name': k.replace('ayu_', '')})
+    string = et.SubElement(root, 'string', {'name': k})
     string.text = v
 
 tree = et.ElementTree(root)

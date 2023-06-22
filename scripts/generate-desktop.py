@@ -22,7 +22,7 @@ data += '''
 
 for k, v in strings.items():
     escaped = v.replace('"', '\\"')
-    data += f'"{k}" = "{escaped}";\n'
+    data += f'"ayu_{k}" = "{escaped}";\n'
 
 if not os.path.exists('./out'):
     os.mkdir('./out')
