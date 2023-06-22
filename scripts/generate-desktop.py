@@ -6,7 +6,7 @@ import requests
 if not os.path.exists('./values'):
     os.chdir('../')
 
-with open('./values/Shared.json') as f:
+with open('./values/langs/en/Shared.json') as f:
     strings = json.load(f)
 
 req = requests.get(
