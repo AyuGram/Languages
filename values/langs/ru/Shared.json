@@ -38,6 +38,7 @@
   "AyuSyncLastEventNever": "никогда",
   "AyuSyncUseSecureConnection": "Использовать HTTPS и WSS",
   "AyuSyncIdentifierCopied": "Идентификатор скопирован в буфер обмена.",
+  "AyuSyncRegisterStatusCode": "Register status code",
   "CleanDatabase": "Очистить базу данных",
   "WALMode": "Включить WAL режим",
   "CleanDatabaseNotification": "База сообщений AyuGram очищена",
