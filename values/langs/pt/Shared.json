@@ -38,6 +38,7 @@
   "AyuSyncLastEventNever": "never",
   "AyuSyncUseSecureConnection": "Use HTTPS & WSS",
   "AyuSyncIdentifierCopied": "Identifier copied to clipboard.",
+  "AyuSyncRegisterStatusCode": "Register status code",
   "CleanDatabase": "Limpar banco de dados",
   "WALMode": "Enable WAL mode",
   "CleanDatabaseNotification": "Banco de dados do AyuGram limpo",
