@@ -38,6 +38,7 @@
   "AyuSyncLastEventNever": "never",
   "AyuSyncUseSecureConnection": "Use HTTPS & WSS",
   "AyuSyncIdentifierCopied": "Identifier copied to clipboard.",
+  "AyuSyncRegisterStatusCode": "Register status code",
   "CleanDatabase": "Limpiar base de datos",
   "WALMode": "Habilitar el modo WAL",
   "CleanDatabaseNotification": "La base de datos Augram ha sido limpiada",
