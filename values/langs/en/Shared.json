@@ -1,5 +1,6 @@
 {
   "AyuPreferences": "AyuGram Preferences",
+
   "GhostEssentialsHeader": "Ghost essentials",
   "SendReadPackets": "Send read status",
   "SendOnlinePackets": "Send online status",
@@ -7,9 +8,11 @@
   "SendOfflinePacketAfterOnline": "Immediate offline after online",
   "MarkReadAfterSend": "Send read status after reply",
   "UseScheduledMessages": "Schedule messages",
+
   "SpyEssentialsHeader": "Spy essentials",
   "SaveDeletedMessages": "Save deleted messages",
   "SaveMessagesHistory": "Save edits history",
+
   "MessageSavingBtn": "Message saving Preferences",
   "MessageSavingMediaHeader": "Media",
   "MessageSavingSaveMedia": "Save media",
@@ -18,19 +21,27 @@
   "MessageSavingSaveMediaInPrivateChannels": "…in private channels",
   "MessageSavingSaveMediaInPublicGroups": "…in public groups",
   "MessageSavingSaveMediaInPrivateGroups": "…in private groups",
+
+  "MessageSavingOtherHeader": "Other",
   "MessageSavingSaveFormatting": "Save formatting",
   "MessageSavingSaveReactions": "Save reactions",
-  "MessageSavingOtherHeader": "Other",
+
   "QoLTogglesHeader": "Useful features",
   "ShowFromChannel": "Show \u00abchannel\u00bb label",
   "KeepAliveService": "Keep Alive Service",
   "EnableAds": "Enable ads",
   "LocalPremium": "Local Telegram Premium",
+
   "CustomizationHeader": "Customization",
   "DeletedMarkText": "Deleted mark",
   "EditedMarkText": "Edited mark",
   "ShowGhostToggleInDrawer": "Show ghost mode toggle",
   "ShowKllButtonInDrawer": "Show kill app button",
+  "SettingsShowID": "Show peer ID",
+  "SettingsShowID_Hide": "Hide",
+  "SettingsRecentStickersCount": "Recent stickers count",
+  "SettingsCustomizationHint": "After making changes to the \"Customization\" section, you must restart the application.",
+
   "RegexFilters": "Message filters",
   "RegexFiltersSubText": "filters",
   "RegexFiltersHeader": "Filters",
@@ -40,6 +51,7 @@
   "RegexFiltersEdit": "Edit filter",
   "RegexFiltersAddDescription_Android": "You can use site <![CDATA[<a href=\"https://regex101.com\">regex101.com</a>]]> to fully test your regular expression.\nYou can also use plain text, but don't forget to escape brackets.",
   "RegexFiltersAddError": "Regex syntax error",
+
   "AyuSyncHeader": "AyuSync",
   "AyuSyncStatusTitle": "Sync status",
   "AyuSyncStatusOk": "connected",
@@ -60,28 +72,50 @@
   "AyuSyncUseSecureConnection": "Use HTTPS & WSS",
   "AyuSyncIdentifierCopied": "Identifier copied to clipboard.",
   "AyuSyncRegisterStatusCode": "Register status code",
-  "CleanDatabase": "Clean database",
+  "AyuSyncOpenPreferences": "Open preferences",
+  "AyuSyncDownloadAgent": "Download agent",
+
   "WALMode": "Enable WAL mode",
+  "CleanDatabase": "Clean database",
   "CleanDatabaseNotification": "AyuGram database cleaned",
+
+  "BetaFeatures": "Beta features",
+  "StickerConfirmation": "Confirmation when sending stickers",
+  "GIFConfirmation": "Confirmation when sending GIFs",
+  "VoiceConfirmation": "Confirmation when sending voice messages",
+
   "EnableGhostMode": "Enable Ghost",
   "DisableGhostMode": "Disable Ghost",
+
   "KillApp": "Kill App",
+
+  "DrawerGhostModeToggle": "Ghost Mode",
   "GhostModeEnabled": "Ghost mode turned on",
   "GhostModeDisabled": "Ghost mode turned off",
+
   "EditsHistoryTitle": "Edits history",
   "EditsHistoryMenuText": "History",
+
   "ReadUntilMenuText": "Read until",
+
+  "BoxActionReset": "Reset",
+
+  "ReadConfirmationBoxQuestion": "Do you want to read all messages?",
+  "ReadConfirmationBoxActionText": "Read",
+
   "ForwardsRestrictedInfoDeleted": "Forwarding of a deleted message is not supported.",
+
   "DeleteDateMenuText": "Delete Date",
+
   "LikelyOfflineStatus": "offline ?",
+
   "GhostModeShortcut": "Enter with Ghost",
+
   "SettingsWatermark": "AyuGram developed and maintained by Radolyn Labs.",
-  "SettingsCustomizationHint": "After making changes to the \"Customization\" section, you must restart the application.",
-  "SettingsRecentStickersCount": "Recent stickers count",
-  "SettingsShowID": "Show peer ID",
-  "SettingsShowID_Hide": "Hide",
+
   "SettingsShowMessageSeconds": "Show message seconds",
+
   "ContextCopyID": "Copy ID",
   "IDCopiedToast": "ID copied to clipboard.",
-  "DrawerGhostModeToggle": "Ghost Mode"
+  "ContextHideMessage": "Hide"
 }
