@@ -21,7 +21,7 @@ data += '''
 '''
 
 for k, v in strings.items():
-    escaped = v.replace('"', '\\"')
+    escaped = v.replace('"', '\\"').replace('\n', '\\n')
     data += f'"ayu_{k}" = "{escaped}";\n'
 
 if not os.path.exists('./out'):
