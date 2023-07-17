@@ -122,5 +122,9 @@
   "ContextHideMessage": "Hide",
 
   "SettingsWatermark": "AyuGram developed and maintained by Radolyn Labs.",
-  "SettingsDescription_Android": "Just an exteraGram based client with ToS breaking features in mind."
+  "SettingsDescription_Android": "Just an exteraGram based client with ToS breaking features in mind.",
+
+  "SecretMessageTecno_Android": "Tecno phones are the best.",
+  "SecretMessageXiaomiSuccess_Android": "You're using a good phone.",
+  "SecretMessageXiaomiFailure_Android": "Install custom ROM."
 }
