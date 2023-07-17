@@ -13,7 +13,7 @@
   "SaveDeletedMessages": "Save deleted messages",
   "SaveMessagesHistory": "Save edits history",
 
-  "MessageSavingBtn": "Message saving Preferences",
+  "MessageSavingBtn": "Message Saving Preferences",
   "MessageSavingMediaHeader": "Media",
   "MessageSavingSaveMedia": "Save media",
   "MessageSavingSaveMediaInPrivateChats": "…in private chats",
@@ -25,10 +25,11 @@
   "MessageSavingOtherHeader": "Other",
   "MessageSavingSaveFormatting": "Save formatting",
   "MessageSavingSaveReactions": "Save reactions",
+  "MessageSavingSaveForBots": "Save in bot dialogs",
 
   "QoLTogglesHeader": "Useful features",
   "ShowFromChannel": "Show \u00abchannel\u00bb label",
-  "KeepAliveService": "Keep Alive Service",
+  "KeepAliveService": "AyuGram Push Service",
   "EnableAds": "Enable ads",
   "LocalPremium": "Local Telegram Premium",
 
@@ -42,8 +43,8 @@
   "SettingsRecentStickersCount": "Recent stickers count",
   "SettingsCustomizationHint": "After making changes to the \"Customization\" section, you must restart the application.",
 
-  "RegexFilters": "Message filters",
-  "RegexFiltersSubText": "filters",
+  "RegexFilters": "Message Filters",
+  "RegexFiltersAmount": "filters",
   "RegexFiltersHeader": "Filters",
   "RegexFiltersEnableInChats": "Enable in chats",
   "RegexFiltersCaseInsensitive": "Case insensitive expressions",
@@ -60,12 +61,12 @@
   "AyuSyncStatusErrorNoToken": "no token",
   "AyuSyncStatusErrorInvalidToken": "invalid token",
   "AyuSyncStatusErrorNoMVP": "no MVP",
-  "AyuSyncServerURL": "AyuSync URL",
-  "AyuSyncServerToken": "AyuSync token",
+  "AyuSyncServerURL": "Server URL",
+  "AyuSyncServerToken": "Access token",
   "AyuSyncEnable": "Enable synchronization",
   "AyuSyncVisitProfile": "Visit profile",
   "AyuSyncForceSync": "Force sync clients",
-  "AyuSyncDeviceIdentifier": "Device identifier",
+  "AyuSyncDeviceIdentifier": "Device ID",
   "AyuSyncLastEventSent": "Last sent event",
   "AyuSyncLastEventReceived": "Last received event",
   "AyuSyncLastEventNever": "never",
@@ -76,8 +77,9 @@
   "AyuSyncDownloadAgent": "Download agent",
 
   "WALMode": "Enable WAL mode",
-  "CleanDatabase": "Clean database",
-  "CleanDatabaseNotification": "AyuGram database cleaned",
+  "ClearAyuDatabase": "Clear Ayu Database",
+  "ClearAyuDatabaseNotification": "AyuGram database cleared",
+  "EraseLocalDatabase": "Erase Local Database",
 
   "BetaFeatures": "Beta features",
   "StickerConfirmation": "Confirmation when sending stickers",
@@ -98,6 +100,8 @@
 
   "ReadUntilMenuText": "Read until",
 
+  "DeleteKeepLocally": "Keep locally",
+
   "BoxActionReset": "Reset",
 
   "ReadConfirmationBoxQuestion": "Do you want to read all messages?",
@@ -111,11 +115,12 @@
 
   "GhostModeShortcut": "Enter with Ghost",
 
-  "SettingsWatermark": "AyuGram developed and maintained by Radolyn Labs.",
-
   "SettingsShowMessageSeconds": "Show message seconds",
 
   "ContextCopyID": "Copy ID",
   "IDCopiedToast": "ID copied to clipboard.",
-  "ContextHideMessage": "Hide"
+  "ContextHideMessage": "Hide",
+
+  "SettingsWatermark": "AyuGram developed and maintained by Radolyn Labs.",
+  "SettingsDescription_Android": "Just an exteraGram based client with ToS breaking features in mind."
 }
