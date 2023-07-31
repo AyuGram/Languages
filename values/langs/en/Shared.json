@@ -2,9 +2,10 @@
   "AyuPreferences": "AyuGram Preferences",
 
   "GhostEssentialsHeader": "Ghost essentials",
-  "SendReadPackets": "Send read status",
-  "SendOnlinePackets": "Send online status",
-  "SendUploadProgress": "Send typing & upload status",
+  "DontReadMessages": "Don't read messages",
+  "DontReadStories": "Don't read stories",
+  "DontSendOnlinePackets": "Don't send online",
+  "DontSendUploadProgress": "Don't send typing",
   "SendOfflinePacketAfterOnline": "Immediate offline after online",
   "MarkReadAfterSend": "Send read status after reply",
   "UseScheduledMessages": "Schedule messages",
@@ -16,6 +17,7 @@
   "MessageSavingBtn": "Message Saving Preferences",
   "MessageSavingMediaHeader": "Media",
   "MessageSavingSaveMedia": "Save media",
+  "MessageSavingSaveMediaHint": "Click for more",
   "MessageSavingSaveMediaInPrivateChats": "…in private chats",
   "MessageSavingSaveMediaInPublicChannels": "…in public channels",
   "MessageSavingSaveMediaInPrivateChannels": "…in private channels",
@@ -28,9 +30,8 @@
   "MessageSavingSaveForBots": "Save in bot dialogs",
 
   "QoLTogglesHeader": "Useful features",
-  "ShowFromChannel": "Show \u00abchannel\u00bb label",
   "KeepAliveService": "AyuGram Push Service",
-  "EnableAds": "Enable ads",
+  "DisableAds": "Disable ads",
   "LocalPremium": "Local Telegram Premium",
 
   "CustomizationHeader": "Customization",
@@ -50,6 +51,7 @@
   "RegexFiltersCaseInsensitive": "Case insensitive expressions",
   "RegexFiltersAdd": "Add filter",
   "RegexFiltersEdit": "Edit filter",
+  "RegexFiltersPlaceholder": "Expression",
   "RegexFiltersAddDescription_Android": "You can use site <![CDATA[<a href=\"https://regex101.com\">regex101.com</a>]]> to fully test your regular expression.\nYou can also use plain text, but don't forget to escape brackets.",
   "RegexFiltersAddError": "Regex syntax error",
 
@@ -91,7 +93,7 @@
 
   "KillApp": "Kill App",
 
-  "DrawerGhostModeToggle": "Ghost Mode",
+  "GhostModeToggle": "Ghost Mode",
   "GhostModeEnabled": "Ghost mode turned on",
   "GhostModeDisabled": "Ghost mode turned off",
 
@@ -107,7 +109,10 @@
   "ReadConfirmationBoxQuestion": "Do you want to read all messages?",
   "ReadConfirmationBoxActionText": "Read",
 
-  "ForwardsRestrictedInfoDeleted": "Forwarding of a deleted message is not supported.",
+  "AyuForwardStatusForwarding": "Forwarding messages…",
+  "AyuForwardStatusLoadingMedia": "Loading media…",
+  "AyuForwardForwardingDescription": "Please keep this window open while AyuGram is forwarding your messages.",
+  "AyuForwardLoadingMediaDescription": "Please keep this window open while AyuGram is downloading media from your messages.",
 
   "DeleteDateMenuText": "Delete Date",
 
