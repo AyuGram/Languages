@@ -6,7 +6,7 @@ import requests
 if not os.path.exists('./values'):
     os.chdir('../')
 
-with open('./values/langs/en/Shared.json') as f:
+with open('./values/langs/en/Shared.json', encoding='utf-8') as f:
     strings = json.load(f)
 
 req = requests.get(
@@ -21,6 +21,9 @@ data += '''
 '''
 
 for k, v in strings.items():
+    if k.endswith('_Android'):
+        continue
+
     escaped = v.replace('"', '\\"').replace('\n', '\\n')
     data += f'"ayu_{k}" = "{escaped}";\n'
 
