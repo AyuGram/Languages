@@ -31,8 +31,10 @@
 
   "QoLTogglesHeader": "Useful features",
   "KeepAliveService": "AyuGram Push Service",
+  "DisableStories": "Disable stories",
   "DisableAds": "Disable ads",
   "LocalPremium": "Local Telegram Premium",
+  "CopyUsernameAsLink": "Copy username as link",
 
   "CustomizationHeader": "Customization",
   "DeletedMarkText": "Deleted mark",
@@ -83,7 +85,7 @@
   "ClearAyuDatabaseNotification": "AyuGram database cleared",
   "EraseLocalDatabase": "Erase Local Database",
 
-  "BetaFeatures": "Beta features",
+  "ConfirmationsTitle": "Confirmations",
   "StickerConfirmation": "Confirmation when sending stickers",
   "GIFConfirmation": "Confirmation when sending GIFs",
   "VoiceConfirmation": "Confirmation when sending voice messages",
@@ -92,6 +94,9 @@
   "DisableGhostMode": "Disable Ghost",
 
   "KillApp": "Kill App",
+
+  "LReadMessages": "Read on Local",
+  "SReadMessages": "Read on Server",
 
   "GhostModeToggle": "Ghost Mode",
   "GhostModeEnabled": "Ghost mode turned on",
