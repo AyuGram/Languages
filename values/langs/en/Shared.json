@@ -39,6 +39,7 @@
   "CustomizationHeader": "Customization",
   "DeletedMarkText": "Deleted mark",
   "EditedMarkText": "Edited mark",
+  "HideAllChats": "Hide \"All chats\" folder",
   "ShowGhostToggleInDrawer": "Show ghost mode toggle",
   "ShowKllButtonInDrawer": "Show kill app button",
   "SettingsShowID": "Show peer ID",
