@@ -24,6 +24,9 @@
   "MessageSavingSaveMediaInPublicGroups": "…in public groups",
   "MessageSavingSaveMediaInPrivateGroups": "…in private groups",
 
+  "MaximumMediaSizeCellular": "Media size limit (cellular data)",
+  "MaximumMediaSizeWiFi": "Media size limit (WiFi)",
+
   "MessageSavingOtherHeader": "Other",
   "MessageSavingSaveFormatting": "Save formatting",
   "MessageSavingSaveReactions": "Save reactions",
@@ -39,7 +42,7 @@
   "CustomizationHeader": "Customization",
   "DeletedMarkText": "Deleted mark",
   "EditedMarkText": "Edited mark",
-  "HideAllChats": "Hide \"All chats\" folder",
+  "HideAllChats_Desktop": "Hide \"All chats\" folder",
   "ShowGhostToggleInDrawer": "Show ghost mode toggle",
   "ShowKllButtonInDrawer": "Show kill app button",
   "SettingsShowID": "Show peer ID",
