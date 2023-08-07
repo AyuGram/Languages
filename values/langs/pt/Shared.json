@@ -77,6 +77,8 @@
   "WALMode": "Ativar o modo WAL",
   "ClearAyuDatabase": "Limpar base de dados do Ayu",
   "ClearAyuDatabaseNotification": "Banco de dados do AyuGram limpo",
+  "ClearAyuAttachments": "Clear Ayu Attachments",
+  "ClearAyuAttachmentsNotification": "AyuGram attachments folder cleared",
   "EraseLocalDatabase": "Limpar Base de Dados Local",
   "ConfirmationsTitle": "Confirmações",
   "StickerConfirmation": "Confirmação do envio do autocolante",
