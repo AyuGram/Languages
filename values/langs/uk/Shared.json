@@ -77,6 +77,8 @@
   "WALMode": "Увімкнути режим WAL",
   "ClearAyuDatabase": "Очистити базу даних AyuGram",
   "ClearAyuDatabaseNotification": "Базу даних AyuGram очищено",
+  "ClearAyuAttachments": "Clear Ayu Attachments",
+  "ClearAyuAttachmentsNotification": "AyuGram attachments folder cleared",
   "EraseLocalDatabase": "Видалити локальну базу даних",
   "ConfirmationsTitle": "Підтвердження",
   "StickerConfirmation": "Підтверджувати надсилання наліпок",
