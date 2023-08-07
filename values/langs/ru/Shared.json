@@ -77,6 +77,8 @@
   "WALMode": "Включить WAL режим",
   "ClearAyuDatabase": "Очистить AyuGram БД",
   "ClearAyuDatabaseNotification": "База сообщений AyuGram очищена",
+  "ClearAyuAttachments": "Clear Ayu Attachments",
+  "ClearAyuAttachmentsNotification": "AyuGram attachments folder cleared",
   "EraseLocalDatabase": "Стереть кэш сообщений",
   "ConfirmationsTitle": "Подтверждения",
   "StickerConfirmation": "Подтверждение при отправке стикеров",
