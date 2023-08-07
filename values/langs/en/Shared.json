@@ -87,6 +87,8 @@
   "WALMode": "Enable WAL mode",
   "ClearAyuDatabase": "Clear Ayu Database",
   "ClearAyuDatabaseNotification": "AyuGram database cleared",
+  "ClearAyuAttachments": "Clear Ayu Attachments",
+  "ClearAyuAttachmentsNotification": "AyuGram attachments folder cleared",
   "EraseLocalDatabase": "Erase Local Database",
 
   "ConfirmationsTitle": "Confirmations",
