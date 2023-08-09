@@ -24,6 +24,9 @@ for k, v in strings.items():
     if k.endswith('_Android'):
         continue
 
+    if k.endswith('_Desktop'):
+        k = k.replace('_Desktop', '')
+
     escaped = v.replace('"', '\\"').replace('\n', '\\n')
     data += f'"ayu_{k}" = "{escaped}";\n'
 
