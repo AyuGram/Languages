@@ -110,6 +110,7 @@
   "ContextCopyID": "Скопіювати ID",
   "IDCopiedToast": "ID скопійовано до буфера обміну.",
   "ContextHideMessage": "Сховати",
+  "ContextCopyCallbackData_Desktop": "Copy Callback Data",
   "SettingsWatermark": "AyuGram розроблений і підтримується Radolyn Labs.",
   "SettingsDescription_Android": "Просто клієнт на основі exteraGram з функціями, які порушують ToS.",
   "SecretMessageTecno_Android": "Телефони Tecno найкращі.",
