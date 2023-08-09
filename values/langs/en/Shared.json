@@ -137,6 +137,8 @@
   "IDCopiedToast": "ID copied to clipboard.",
   "ContextHideMessage": "Hide",
 
+  "ContextCopyCallbackData_Desktop": "Copy Callback Data",
+
   "SettingsWatermark": "AyuGram developed and maintained by Radolyn Labs.",
   "SettingsDescription_Android": "Just an exteraGram based client with ToS breaking features in mind.",
 
