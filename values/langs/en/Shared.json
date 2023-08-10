@@ -139,6 +139,8 @@
 
   "ContextCopyCallbackData_Desktop": "Copy Callback Data",
 
+  "LocalPremiumNotice_Desktop": "You're using **local** Telegram Premium.\nIt **won't** give you any benefits, except translator.\n**Enjoy the star near your nickname!**",
+
   "SettingsWatermark": "AyuGram developed and maintained by Radolyn Labs.",
   "SettingsDescription_Android": "Just an exteraGram based client with ToS breaking features in mind.",
 
