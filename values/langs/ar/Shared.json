@@ -72,9 +72,9 @@
   "AyuSyncRegisterStatusCode": "تسجيل الحالة",
   "AyuSyncOpenPreferences": "فتح تفضيلات",
   "AyuSyncDownloadAgent": "تحميل عامل",
-  "IconDefault": "Default",
-  "IconAlternative": "AyuGram Alt",
-  "IconNothing": "Nothing",
+  "IconDefault": "الافتراضي",
+  "IconAlternative": "أبجرام أليت",
+  "IconNothing": "لا شيء",
   "WALMode": "تمكين الوضع التجريبي",
   "ClearAyuDatabase": "مسح قاعدة البيانات",
   "ClearAyuDatabaseNotification": "تنظيف قاعدة بيانات AyuGram",
@@ -95,7 +95,7 @@
   "GhostModeDisabled": "تم إيقاف وضع الشبح 👻",
   "EditsHistoryTitle": "سجل التعديلات",
   "EditsHistoryMenuText": "المحفوظات",
-  "ReadUntilMenuText": "Read Message",
+  "ReadUntilMenuText": "قراءة الرسائل",
   "DeleteKeepLocally": "الاحتفاظ بها محليًا",
   "BoxActionReset": "إعادة تعيين",
   "ReadConfirmationBoxQuestion": "هل تريد قراءة جميع الرسائل؟",
@@ -117,6 +117,6 @@
   "SettingsDescription_Android": "فقط عميل يستند إلى ExteraGram مع وضع ميزات ToS في الحسبان.",
   "SecretMessageTecno_Android": "هواتف التيكنو هي الأفضل.",
   "SecretMessageXiaomiSuccess_Android": "أنت تستخدم هاتفًا جيداً.",
-  "SecretMessageXiaomiWarning_Android": "Buy Pixel, don't mess with Xiaomi.",
+  "SecretMessageXiaomiWarning_Android": "اشتري بيكسل، لا تقلل من شياومي.",
   "SecretMessageXiaomiFailure_Android": "تثبيت ROM مخصص."
 }
