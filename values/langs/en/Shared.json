@@ -149,5 +149,7 @@
   "SecretMessageTecno_Android": "Tecno phones are the best.",
   "SecretMessageXiaomiSuccess_Android": "You're using a good phone.",
   "SecretMessageXiaomiWarning_Android": "Buy Pixel, don't mess with Xiaomi.",
-  "SecretMessageXiaomiFailure_Android": "Install custom ROM."
+  "SecretMessageXiaomiFailure_Android": "Install custom ROM.",
+
+  "UtilityRestartRequired": "App will close in 5 seconds."
 }
