@@ -118,5 +118,6 @@
   "SecretMessageTecno_Android": "Телефони Tecno найкращі.",
   "SecretMessageXiaomiSuccess_Android": "Ви використовуєте гарний телефон.",
   "SecretMessageXiaomiWarning_Android": "Buy Pixel, don't mess with Xiaomi.",
-  "SecretMessageXiaomiFailure_Android": "Встановіть кастомну прошивку."
+  "SecretMessageXiaomiFailure_Android": "Встановіть кастомну прошивку.",
+  "UtilityRestartRequired": "App will close in 5 seconds."
 }
