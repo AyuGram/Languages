@@ -56,10 +56,8 @@
   "AyuSyncStatusTitle": "حالة المزامنة",
   "AyuSyncStatusOk": "تم الاتصال",
   "AyuSyncStatusErrorDisconnected": "تم قطع الإتصال",
-  "AyuSyncStatusErrorNotRegistered": "غير مسجّل",
   "AyuSyncStatusErrorNoToken": "لا رمز",
   "AyuSyncStatusErrorInvalidToken": "الرمز غير صالح",
-  "AyuSyncStatusErrorNoMVP": "لا يوجد MVP",
   "AyuSyncServerURL": "رابط الخادم",
   "AyuSyncServerToken": "الرمز المميز للوصول",
   "AyuSyncEnable": "تفعيل المزامنة",
@@ -74,6 +72,9 @@
   "AyuSyncRegisterStatusCode": "تسجيل الحالة",
   "AyuSyncOpenPreferences": "فتح تفضيلات",
   "AyuSyncDownloadAgent": "تحميل عامل",
+  "IconDefault": "Default",
+  "IconAlternative": "AyuGram Alt",
+  "IconNothing": "Nothing",
   "WALMode": "تمكين الوضع التجريبي",
   "ClearAyuDatabase": "مسح قاعدة البيانات",
   "ClearAyuDatabaseNotification": "تنظيف قاعدة بيانات AyuGram",
@@ -94,7 +95,7 @@
   "GhostModeDisabled": "تم إيقاف وضع الشبح 👻",
   "EditsHistoryTitle": "سجل التعديلات",
   "EditsHistoryMenuText": "المحفوظات",
-  "ReadUntilMenuText": "القراءة",
+  "ReadUntilMenuText": "Read Message",
   "DeleteKeepLocally": "الاحتفاظ بها محليًا",
   "BoxActionReset": "إعادة تعيين",
   "ReadConfirmationBoxQuestion": "هل تريد قراءة جميع الرسائل؟",
@@ -116,5 +117,6 @@
   "SettingsDescription_Android": "فقط عميل يستند إلى ExteraGram مع وضع ميزات ToS في الحسبان.",
   "SecretMessageTecno_Android": "هواتف التيكنو هي الأفضل.",
   "SecretMessageXiaomiSuccess_Android": "أنت تستخدم هاتفًا جيداً.",
+  "SecretMessageXiaomiWarning_Android": "Buy Pixel, don't mess with Xiaomi.",
   "SecretMessageXiaomiFailure_Android": "تثبيت ROM مخصص."
 }
