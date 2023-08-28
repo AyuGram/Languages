@@ -72,7 +72,7 @@
   "AyuSyncRegisterStatusCode": "Статус регистрации",
   "AyuSyncOpenPreferences": "Открыть настройки",
   "AyuSyncDownloadAgent": "Скачать клиент",
-  "IconDefault": "Default",
+  "IconDefault": "Обычная",
   "IconAlternative": "AyuGram Alt",
   "IconNothing": "Nothing",
   "WALMode": "Включить WAL режим",
@@ -95,7 +95,7 @@
   "GhostModeDisabled": "Режим Призрака выключен",
   "EditsHistoryTitle": "История редактирования",
   "EditsHistoryMenuText": "История",
-  "ReadUntilMenuText": "Read Message",
+  "ReadUntilMenuText": "Прочитать",
   "DeleteKeepLocally": "Сохранить у себя",
   "BoxActionReset": "Сбросить",
   "ReadConfirmationBoxQuestion": "Прочитать все сообщения?",
@@ -117,6 +117,6 @@
   "SettingsDescription_Android": "Просто клиент на базе exteraGram с запретным функционалом.",
   "SecretMessageTecno_Android": "Телефоны от Tecno - лучшие.",
   "SecretMessageXiaomiSuccess_Android": "У тебя хороший телефон.",
-  "SecretMessageXiaomiWarning_Android": "Buy Pixel, don't mess with Xiaomi.",
+  "SecretMessageXiaomiWarning_Android": "Купите Pixel, не ебитесь с Xiaomi.",
   "SecretMessageXiaomiFailure_Android": "Установи кастомную прошивку."
 }
