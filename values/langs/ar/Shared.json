@@ -118,5 +118,6 @@
   "SecretMessageTecno_Android": "هواتف التيكنو هي الأفضل.",
   "SecretMessageXiaomiSuccess_Android": "أنت تستخدم هاتفًا جيداً.",
   "SecretMessageXiaomiWarning_Android": "اشتري بيكسل، لا تقلل من شياومي.",
-  "SecretMessageXiaomiFailure_Android": "تثبيت ROM مخصص."
+  "SecretMessageXiaomiFailure_Android": "تثبيت ROM مخصص.",
+  "UtilityRestartRequired": "App will close in 5 seconds."
 }
