@@ -118,5 +118,6 @@
   "SecretMessageTecno_Android": "Os telefones técnicos são os melhores.",
   "SecretMessageXiaomiSuccess_Android": "Você está usando um bom celular.",
   "SecretMessageXiaomiWarning_Android": "Buy Pixel, don't mess with Xiaomi.",
-  "SecretMessageXiaomiFailure_Android": "Instalar ROM personalizada."
+  "SecretMessageXiaomiFailure_Android": "Instalar ROM personalizada.",
+  "UtilityRestartRequired": "App will close in 5 seconds."
 }
