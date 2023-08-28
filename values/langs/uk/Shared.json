@@ -72,7 +72,7 @@
   "AyuSyncRegisterStatusCode": "Код статусу реєстрації",
   "AyuSyncOpenPreferences": "Відкрити налаштування",
   "AyuSyncDownloadAgent": "Завантажити клієнт",
-  "IconDefault": "Default",
+  "IconDefault": "За замовчуванням",
   "IconAlternative": "AyuGram Alt",
   "IconNothing": "Nothing",
   "WALMode": "Увімкнути режим WAL",
@@ -95,7 +95,7 @@
   "GhostModeDisabled": "Режим привида вимкнено",
   "EditsHistoryTitle": "Історія редагувань",
   "EditsHistoryMenuText": "Історія",
-  "ReadUntilMenuText": "Read Message",
+  "ReadUntilMenuText": "Прочитати",
   "DeleteKeepLocally": "Зберігати локально",
   "BoxActionReset": "Скинути",
   "ReadConfirmationBoxQuestion": "Ви хочете прочитати всі повідомлення?",
@@ -117,7 +117,7 @@
   "SettingsDescription_Android": "Просто клієнт на основі exteraGram з функціями, які порушують ToS.",
   "SecretMessageTecno_Android": "Телефони Tecno найкращі.",
   "SecretMessageXiaomiSuccess_Android": "Ви використовуєте гарний телефон.",
-  "SecretMessageXiaomiWarning_Android": "Buy Pixel, don't mess with Xiaomi.",
+  "SecretMessageXiaomiWarning_Android": "Купуйте Pixel, не возіться з Xiaomi.",
   "SecretMessageXiaomiFailure_Android": "Встановіть кастомну прошивку.",
-  "UtilityRestartRequired": "App will close in 5 seconds."
+  "UtilityRestartRequired": "Додаток закриється через 5 секунд."
 }
