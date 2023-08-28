@@ -118,5 +118,6 @@
   "SecretMessageTecno_Android": "Тэлефоны Тэкна найлепшыя.",
   "SecretMessageXiaomiSuccess_Android": "Ты выкарыстоўваеш добры тэлефон.",
   "SecretMessageXiaomiWarning_Android": "Buy Pixel, don't mess with Xiaomi.",
-  "SecretMessageXiaomiFailure_Android": "Прашый ты свой Хлаомі, будзь ласка."
+  "SecretMessageXiaomiFailure_Android": "Прашый ты свой Хлаомі, будзь ласка.",
+  "UtilityRestartRequired": "App will close in 5 seconds."
 }
