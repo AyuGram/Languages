@@ -85,14 +85,19 @@
   "StickerConfirmation": "تأكيد عند إرسال الملصقات",
   "GIFConfirmation": "تأكيد عند إرسال GIFs",
   "VoiceConfirmation": "تأكيد عند إرسال الرسائل الصوتية",
-  "EnableGhostMode": "تفعيل وضع الشبح 👻",
-  "DisableGhostMode": "تفعيل وضع الشبح 👻",
   "KillApp": "إنهاء التطبيق",
   "LReadMessages": "القراءة على المحلية",
   "SReadMessages": "القراءة على السيرفر",
   "GhostModeToggle": "وضع الشبح 👻",
+  "EnableGhostMode": "تفعيل وضع الشبح 👻",
+  "DisableGhostMode": "تفعيل وضع الشبح 👻",
+  "EnableGhostModeTray": "Enable Ghost Mode",
+  "DisableGhostModeTray": "Disable Ghost Mode",
   "GhostModeEnabled": "تم تفعيل وضع الشبح 👻",
   "GhostModeDisabled": "تم إيقاف وضع الشبح 👻",
+  "StreamerModeToggle": "Streamer Mode",
+  "EnableStreamerModeTray": "Enable Streamer Mode",
+  "DisableStreamerModeTray": "Disable Streamer Mode",
   "EditsHistoryTitle": "سجل التعديلات",
   "EditsHistoryMenuText": "المحفوظات",
   "ReadUntilMenuText": "قراءة الرسائل",
