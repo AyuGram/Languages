@@ -98,17 +98,22 @@
   "GIFConfirmation": "Confirmation when sending GIFs",
   "VoiceConfirmation": "Confirmation when sending voice messages",
 
-  "EnableGhostMode": "Enable Ghost",
-  "DisableGhostMode": "Disable Ghost",
-
   "KillApp": "Kill App",
 
   "LReadMessages": "Read on Local",
   "SReadMessages": "Read on Server",
 
   "GhostModeToggle": "Ghost Mode",
+  "EnableGhostMode": "Enable Ghost",
+  "DisableGhostMode": "Disable Ghost",
+  "EnableGhostModeTray": "Enable Ghost Mode",
+  "DisableGhostModeTray": "Disable Ghost Mode",
   "GhostModeEnabled": "Ghost mode turned on",
   "GhostModeDisabled": "Ghost mode turned off",
+
+  "StreamerModeToggle": "Streamer Mode",
+  "EnableStreamerModeTray": "Enable Streamer Mode",
+  "DisableStreamerModeTray": "Disable Streamer Mode",
 
   "EditsHistoryTitle": "Edits history",
   "EditsHistoryMenuText": "History",
