@@ -9,11 +9,15 @@ if not os.path.exists('./values'):
     os.chdir('../')
 
 langs = [
-    'en',
-    'ru',
+    'ar',
     'be',
-    'pt',
+    'de',
+    'en',
     'es',
+    'fa',
+    'pt',
+    'ru',
+    'tr',
     'uk'
 ]
 

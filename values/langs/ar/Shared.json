@@ -1,0 +1,128 @@
+{
+  "AyuPreferences": "التفضيلات",
+  "GhostEssentialsHeader": "وضع الشبح",
+  "DontReadMessages": "إخفاء قراءة الرسائل",
+  "DontReadStories": "إخفاء مشاهدة القصص",
+  "DontSendOnlinePackets": "إخفاء أنك متصل",
+  "DontSendUploadProgress": "إخفاء \"جاري الكتابة...\"",
+  "SendOfflinePacketAfterOnline": "إخفاء أنك متصل بعد الخروج فورا",
+  "MarkReadAfterSend": "أظهر أني شاهدت القصة بعد الرد عليها",
+  "UseScheduledMessages": "جدولة الرسائل",
+  "SpyEssentialsHeader": "الرسائل المعدلة والمحذوفة",
+  "SaveDeletedMessages": "الاحتفاظ بالرسائل المحذوفة",
+  "SaveMessagesHistory": "الاحتفاظ بسجل التعديلات",
+  "MessageSavingBtn": "إعدادات حفظ الرسائل",
+  "MessageSavingMediaHeader": "الوسائط",
+  "MessageSavingSaveMedia": "حفظ الوسائط",
+  "MessageSavingSaveMediaHint": "انقر للحصول على المزيد",
+  "MessageSavingSaveMediaInPrivateChats": "في المحادثة الخاصة",
+  "MessageSavingSaveMediaInPublicChannels": "في القنوات العامة",
+  "MessageSavingSaveMediaInPrivateChannels": "في القنوات الخاصة",
+  "MessageSavingSaveMediaInPublicGroups": "في المجموعات العامة",
+  "MessageSavingSaveMediaInPrivateGroups": "في المجموعات الخاصة",
+  "MaximumMediaSizeCellular": "الحد الأقصى لحجم الوسائط (عند استعمال البيانات)",
+  "MaximumMediaSizeWiFi": "الحد الأقصى لحجم الوسائط (عند استخدام الواي فاي)",
+  "MessageSavingOtherHeader": "الاُخْرَى",
+  "MessageSavingSaveFormatting": "احفظ التنسيق",
+  "MessageSavingSaveReactions": "حفظ التفاعلات",
+  "MessageSavingSaveForBots": "الاحتفاظ بمربعات الحوارات من البوت",
+  "QoLTogglesHeader": "ميزات مفيدة",
+  "KeepAliveService": "خدمة دفع ايوجرام",
+  "DisableStories": "إخفاء القصص",
+  "DisableAds": "إخفاء الإعلانات",
+  "LocalPremium": "تفعيل الإصدار المدفوع من تيليجرام (بعض المميزات)",
+  "CopyUsernameAsLink": "نسخ الاسم المستخدم كرابط",
+  "CustomizationHeader": "التخصيص",
+  "DeletedMarkText": "الأيقونة الدالة على حذف الرسالة",
+  "EditedMarkText": "الأيقونة الدالة على تعديل الرسالة",
+  "HideAllChats_Desktop": "أخفي مجلد \"كل المحاثات\"",
+  "ShowGhostToggleInDrawer": "أظهر زر للتبديل إلى وضع الشبح",
+  "ShowKllButtonInDrawer": "إظهار زر إيقاف التطبيق",
+  "SettingsShowID": "إظهار معرف ID الطرف الآخر",
+  "SettingsShowID_Hide": "الإخفاء",
+  "SettingsRecentStickersCount": "عدد الملصقات الأخيرة",
+  "SettingsCustomizationHint": "بعد إجراء تغييرات على قسم \"التخصيص\"، يجب عليك إعادة تشغيل التطبيق.",
+  "RegexFilters": "مصنف الرسائل",
+  "RegexFiltersAmount": "تصنيف",
+  "RegexFiltersHeader": "تصنيف",
+  "RegexFiltersEnableInChats": "تفعيل في المحادثات ",
+  "RegexFiltersCaseInsensitive": "تعبيرات غير حساسة للحالة",
+  "RegexFiltersAdd": "إضافة تصنيف",
+  "RegexFiltersEdit": "تعديل تصنيف",
+  "RegexFiltersPlaceholder": "التعبيرات",
+  "RegexFiltersAddDescription_Android": "يمكنك استخدام الموقع <![CDATA[<a href=\"https://regex101.com\">regex101.com</a>]]> لاختبار التعبير العادي الخاص بك بشكل كامل.\nيمكنك أيضًا استخدام نص عادي، ولكن لا تنسى أن تخرج من الأقواس المعقوفة.",
+  "RegexFiltersAddError": "خطأ في صيغة Regex",
+  "AyuSyncHeader": "AyuSync",
+  "AyuSyncStatusTitle": "حالة المزامنة",
+  "AyuSyncStatusOk": "تم الاتصال",
+  "AyuSyncStatusErrorDisconnected": "تم قطع الإتصال",
+  "AyuSyncStatusErrorNoToken": "لا رمز",
+  "AyuSyncStatusErrorInvalidToken": "الرمز غير صالح",
+  "AyuSyncServerURL": "رابط الخادم",
+  "AyuSyncServerToken": "الرمز المميز للوصول",
+  "AyuSyncEnable": "تفعيل المزامنة",
+  "AyuSyncVisitProfile": "زيارة الملف الشخصي",
+  "AyuSyncForceSync": "إجبار المستخدمين على المزامنة",
+  "AyuSyncDeviceIdentifier": "معرف الجهاز",
+  "AyuSyncLastEventSent": "آخر حدث تم إرساله",
+  "AyuSyncLastEventReceived": "آخر شيء تم استلامه",
+  "AyuSyncLastEventNever": "مطلقاً",
+  "AyuSyncUseSecureConnection": "استخدام HTTPS & WSS",
+  "AyuSyncIdentifierCopied": "تم النسخ إلى الحافظة",
+  "AyuSyncRegisterStatusCode": "تسجيل الحالة",
+  "AyuSyncOpenPreferences": "فتح تفضيلات",
+  "AyuSyncDownloadAgent": "تحميل عامل",
+  "IconDefault": "الافتراضي",
+  "IconAlternative": "أبجرام أليت",
+  "IconNothing": "لا شيء",
+  "WALMode": "تمكين الوضع التجريبي",
+  "ClearAyuDatabase": "مسح قاعدة البيانات",
+  "ClearAyuDatabaseNotification": "تنظيف قاعدة بيانات AyuGram",
+  "ClearAyuAttachments": "مسح مرفقات آيوجرام",
+  "ClearAyuAttachmentsNotification": "تم مسح مجلد مرفقات AyuGram",
+  "EraseLocalDatabase": "مسح قاعدة البيانات المحلية",
+  "ConfirmationsTitle": "تأكيد",
+  "StickerConfirmation": "تأكيد عند إرسال الملصقات",
+  "GIFConfirmation": "تأكيد عند إرسال GIFs",
+  "VoiceConfirmation": "تأكيد عند إرسال الرسائل الصوتية",
+  "KillApp": "إنهاء التطبيق",
+  "LReadMessages": "القراءة على المحلية",
+  "SReadMessages": "القراءة على السيرفر",
+  "GhostModeToggle": "وضع الشبح 👻",
+  "EnableGhostMode": "تفعيل وضع الشبح 👻",
+  "DisableGhostMode": "تفعيل وضع الشبح 👻",
+  "EnableGhostModeTray": "Enable Ghost Mode",
+  "DisableGhostModeTray": "Disable Ghost Mode",
+  "GhostModeEnabled": "تم تفعيل وضع الشبح 👻",
+  "GhostModeDisabled": "تم إيقاف وضع الشبح 👻",
+  "StreamerModeToggle": "Streamer Mode",
+  "EnableStreamerModeTray": "Enable Streamer Mode",
+  "DisableStreamerModeTray": "Disable Streamer Mode",
+  "EditsHistoryTitle": "سجل التعديلات",
+  "EditsHistoryMenuText": "المحفوظات",
+  "ReadUntilMenuText": "قراءة الرسائل",
+  "DeleteKeepLocally": "الاحتفاظ بها محليًا",
+  "BoxActionReset": "إعادة تعيين",
+  "ReadConfirmationBoxQuestion": "هل تريد قراءة جميع الرسائل؟",
+  "ReadConfirmationBoxActionText": "قراءة",
+  "AyuForwardStatusForwarding": "إعادة توجيه الرسائل...",
+  "AyuForwardStatusLoadingMedia": "جار تحميل الوسائط ...",
+  "AyuForwardForwardingDescription": "الرجاء إبقاء هذه النافذة مفتوحة بينما يقوم ayuGram بإعادة توجيه رسائلك.",
+  "AyuForwardLoadingMediaDescription": "الرجاء إبقاء هذه النافذة مفتوحة بينما يقوم ayuGram بإعادة توجيه رسائلك.",
+  "DeleteDateMenuText": "تاريخ الحذف",
+  "LikelyOfflineStatus": "غير متصل؟",
+  "GhostModeShortcut": "ادخل في وضع الشبح",
+  "SettingsShowMessageSeconds": "عرض الرسالة لثواني",
+  "ContextCopyID": "نسخ المعرف الشخصي",
+  "IDCopiedToast": "تم نسخ المعرف إلى الحافظة",
+  "ContextHideMessage": "إخفاء ",
+  "ContextCopyCallbackData_Desktop": "نسخ معلومات معاودة الاتصال",
+  "LocalPremiumNotice_Desktop": "أنت تستعمل الإصدار المدفوع من تيليجرام لكن فقط المميزات المحلية التي لا تسمل أي مِيزة مدفوعة باستثناء المترجم\nاستمتع بالنجوم بالقرب من اسمك ",
+  "SettingsWatermark": "آيوغرام بواسطة كيرا، رادولين.",
+  "SettingsDescription_Android": "فقط عميل يستند إلى ExteraGram مع وضع ميزات ToS في الحسبان.",
+  "SecretMessageTecno_Android": "هواتف التيكنو هي الأفضل.",
+  "SecretMessageXiaomiSuccess_Android": "أنت تستخدم هاتفًا جيداً.",
+  "SecretMessageXiaomiWarning_Android": "اشتري بيكسل، لا تقلل من شياومي.",
+  "SecretMessageXiaomiFailure_Android": "تثبيت ROM مخصص.",
+  "UtilityRestartRequired": "App will close in 5 seconds."
+}
