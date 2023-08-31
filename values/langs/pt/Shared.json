@@ -72,7 +72,7 @@
   "AyuSyncRegisterStatusCode": "Código de estado do registo",
   "AyuSyncOpenPreferences": "Abrir preferências",
   "AyuSyncDownloadAgent": "Descarregar cliente",
-  "IconDefault": "Default",
+  "IconDefault": "Padrão",
   "IconAlternative": "AyuGram Alt",
   "IconNothing": "Nothing",
   "WALMode": "Ativar o modo WAL",
@@ -100,7 +100,7 @@
   "DisableStreamerModeTray": "Disable Streamer Mode",
   "EditsHistoryTitle": "Histórico de edições",
   "EditsHistoryMenuText": "Histórico",
-  "ReadUntilMenuText": "Read Message",
+  "ReadUntilMenuText": "Ler Mensagem",
   "DeleteKeepLocally": "Manter localmente",
   "BoxActionReset": "Redefinir",
   "ReadConfirmationBoxQuestion": "Ler todas as mensagens?",
@@ -122,7 +122,7 @@
   "SettingsDescription_Android": "Apenas um cliente baseado em exterGram com quebra de Termos de Serviço em mente.",
   "SecretMessageTecno_Android": "Os telefones técnicos são os melhores.",
   "SecretMessageXiaomiSuccess_Android": "Você está usando um bom celular.",
-  "SecretMessageXiaomiWarning_Android": "Buy Pixel, don't mess with Xiaomi.",
+  "SecretMessageXiaomiWarning_Android": "Compre Pixel, evite problemas com a Xiaomi.",
   "SecretMessageXiaomiFailure_Android": "Instalar ROM personalizada.",
-  "UtilityRestartRequired": "App will close in 5 seconds."
+  "UtilityRestartRequired": "O aplicativo será fechado em 5 segundos."
 }
