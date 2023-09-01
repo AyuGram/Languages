@@ -124,5 +124,6 @@
   "SecretMessageXiaomiSuccess_Android": "У тебя хороший телефон.",
   "SecretMessageXiaomiWarning_Android": "Купите Pixel, не ебитесь с Xiaomi.",
   "SecretMessageXiaomiFailure_Android": "Установи кастомную прошивку.",
+  "UpdateAyuGram": "Update AyuGram",
   "UtilityRestartRequired": "Приложение закроется через 5 секунд."
 }
