@@ -156,5 +156,7 @@
   "SecretMessageXiaomiWarning_Android": "Buy Pixel, don't mess with Xiaomi.",
   "SecretMessageXiaomiFailure_Android": "Install custom ROM.",
 
+  "UpdateAyuGram": "Update AyuGram",
+
   "UtilityRestartRequired": "App will close in 5 seconds."
 }
