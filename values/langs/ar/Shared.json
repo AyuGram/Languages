@@ -124,5 +124,6 @@
   "SecretMessageXiaomiSuccess_Android": "أنت تستخدم هاتفًا جيداً.",
   "SecretMessageXiaomiWarning_Android": "اشتري بيكسل، لا تقلل من شياومي.",
   "SecretMessageXiaomiFailure_Android": "تثبيت ROM مخصص.",
+  "UpdateAyuGram": "Update AyuGram",
   "UtilityRestartRequired": "App will close in 5 seconds."
 }
