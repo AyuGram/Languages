@@ -124,5 +124,6 @@
   "SecretMessageXiaomiSuccess_Android": "Estás usando un buen teléfono.",
   "SecretMessageXiaomiWarning_Android": "Buy Pixel, don't mess with Xiaomi.",
   "SecretMessageXiaomiFailure_Android": "Instalar custom ROM.",
+  "UpdateAyuGram": "Update AyuGram",
   "UtilityRestartRequired": "App will close in 5 seconds."
 }
