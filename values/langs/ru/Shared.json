@@ -95,9 +95,9 @@
   "DisableGhostModeTray": "Отключить режим призрака",
   "GhostModeEnabled": "Режим Призрака включен",
   "GhostModeDisabled": "Режим Призрака выключен",
-  "StreamerModeToggle": "Streamer Mode",
-  "EnableStreamerModeTray": "Enable Streamer Mode",
-  "DisableStreamerModeTray": "Disable Streamer Mode",
+  "StreamerModeToggle": "Режим стримера",
+  "EnableStreamerModeTray": "Включить режим стримера",
+  "DisableStreamerModeTray": "Выключить режим стримера",
   "EditsHistoryTitle": "История редактирования",
   "EditsHistoryMenuText": "История",
   "ReadUntilMenuText": "Прочитать",
@@ -124,6 +124,6 @@
   "SecretMessageXiaomiSuccess_Android": "У тебя хороший телефон.",
   "SecretMessageXiaomiWarning_Android": "Купите Pixel, не ебитесь с Xiaomi.",
   "SecretMessageXiaomiFailure_Android": "Установи кастомную прошивку.",
-  "UpdateAyuGram": "Update AyuGram",
+  "UpdateAyuGram": "Обновить AyuGram",
   "UtilityRestartRequired": "Приложение закроется через 5 секунд."
 }
