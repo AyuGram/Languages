@@ -91,7 +91,7 @@
   "GhostModeToggle": "وضع الشبح 👻",
   "EnableGhostMode": "تفعيل وضع الشبح 👻",
   "DisableGhostMode": "تفعيل وضع الشبح 👻",
-  "EnableGhostModeTray": "Enable Ghost Mode",
+  "EnableGhostModeTray": "تفعيل وضع الشبح 👻",
   "DisableGhostModeTray": "Disable Ghost Mode",
   "GhostModeEnabled": "تم تفعيل وضع الشبح 👻",
   "GhostModeDisabled": "تم إيقاف وضع الشبح 👻",
@@ -125,5 +125,5 @@
   "SecretMessageXiaomiWarning_Android": "اشتري بيكسل، لا تقلل من شياومي.",
   "SecretMessageXiaomiFailure_Android": "تثبيت ROM مخصص.",
   "UpdateAyuGram": "Update AyuGram",
-  "UtilityRestartRequired": "App will close in 5 seconds."
+  "UtilityRestartRequired": "سيتم إغلاق التطبيق في 5 ثوان."
 }
