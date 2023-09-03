@@ -53,6 +53,7 @@
   "RegexFilters": "Message Filters",
   "RegexFiltersAmount": "filters",
   "RegexFiltersHeader": "Filters",
+  "FiltersHideFromBlocked": "Hide from blocked users",
   "RegexFiltersEnableInChats": "Enable in chats",
   "RegexFiltersCaseInsensitive": "Case insensitive expressions",
   "RegexFiltersAdd": "Add filter",
@@ -117,6 +118,8 @@
 
   "EditsHistoryTitle": "Edits history",
   "EditsHistoryMenuText": "History",
+
+  "ClearDeletedMenuText": "Clear Deleted",
 
   "ReadUntilMenuText": "Read Message",
 
