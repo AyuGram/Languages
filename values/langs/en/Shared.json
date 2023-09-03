@@ -139,6 +139,10 @@
   "SuggestGhostModeStoryText": "Do you want to enable Ghost Mode before viewing the story?",
   "SuggestGhostModeStoryActionText": "Enable",
 
+  "HideNextViewsDescriptionAyu": "Hide my views forever, until Ghost Mode disabled.",
+  "EnableGhostModeStories": "Enable Ghost Mode",
+  "GhostModeIsActive": "Ghost Mode Is Active",
+
   "AyuForwardStatusForwarding": "Forwarding messages…",
   "AyuForwardStatusLoadingMedia": "Loading media…",
   "AyuForwardForwardingDescription": "Please keep this window open while AyuGram is forwarding your messages.",
