@@ -9,6 +9,7 @@
   "SendOfflinePacketAfterOnline": "Immediate offline after online",
   "MarkReadAfterSend": "Send read status after reply",
   "UseScheduledMessages": "Schedule messages",
+  "SuggestGhostModeBeforeViewingStory": "Alert before opening story",
 
   "SpyEssentialsHeader": "Spy essentials",
   "SaveDeletedMessages": "Save deleted messages",
@@ -129,6 +130,14 @@
 
   "ReadConfirmationBoxQuestion": "Do you want to read all messages?",
   "ReadConfirmationBoxActionText": "Read",
+
+  "ClearDeletedMessagesTitle": "Clear deleted messages",
+  "ClearDeletedMessagesText": "Are you sure you want to clear all deleted messages in this chat?",
+  "ClearDeletedMessagesActionText": "Clear",
+
+  "SuggestGhostModeTitle": "Ghost Mode",
+  "SuggestGhostModeStoryText": "Do you want to enable Ghost Mode before viewing the story?",
+  "SuggestGhostModeStoryActionText": "Enable",
 
   "AyuForwardStatusForwarding": "Forwarding messages…",
   "AyuForwardStatusLoadingMedia": "Loading media…",
