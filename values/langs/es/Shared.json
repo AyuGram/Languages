@@ -6,7 +6,10 @@
   "DontSendOnlinePackets": "No enviar en línea",
   "DontSendUploadProgress": "No enviar \"escribiendo...\"",
   "SendOfflinePacketAfterOnline": "En línea y luego fuera de línea",
-  "MarkReadAfterSend": "Enviar estado de lectura tras responder",
+  "MarkReadAfterAction": "Mark read after actions",
+  "MarkReadAfterSend": "Send",
+  "MarkReadAfterReaction": "Reaction",
+  "MarkReadAfterPoll": "Poll",
   "UseScheduledMessages": "Programar mensajes",
   "SuggestGhostModeBeforeViewingStory": "Alert before opening story",
   "SpyEssentialsHeader": "Esenciales de espionaje",
@@ -136,6 +139,8 @@
   "SecretMessageXiaomiSuccess_Android": "Estás usando un buen teléfono.",
   "SecretMessageXiaomiWarning_Android": "Buy Pixel, don't mess with Xiaomi.",
   "SecretMessageXiaomiFailure_Android": "Instalar custom ROM.",
+  "IntroAbout_Desktop": "Welcome to the AyuGram Desktop.\nIt's cool and looks less ugly.",
+  "AboutText1": "Just a cool Telegram client based on {api_link}.",
   "UpdateAyuGram": "Update AyuGram",
   "UtilityRestartRequired": "App will close in 5 seconds."
 }
