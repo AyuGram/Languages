@@ -6,7 +6,10 @@
   "DontSendOnlinePackets": "إخفاء أنك متصل",
   "DontSendUploadProgress": "إخفاء \"جاري الكتابة...\"",
   "SendOfflinePacketAfterOnline": "إخفاء أنك متصل بعد الخروج فورا",
-  "MarkReadAfterSend": "أظهر أني شاهدت القصة بعد الرد عليها",
+  "MarkReadAfterAction": "Mark read after actions",
+  "MarkReadAfterSend": "Send",
+  "MarkReadAfterReaction": "Reaction",
+  "MarkReadAfterPoll": "Poll",
   "UseScheduledMessages": "جدولة الرسائل",
   "SuggestGhostModeBeforeViewingStory": "تنبيه قبل فتح القصة",
   "SpyEssentialsHeader": "الرسائل المعدلة والمحذوفة",
@@ -136,6 +139,8 @@
   "SecretMessageXiaomiSuccess_Android": "أنت تستخدم هاتفًا جيداً.",
   "SecretMessageXiaomiWarning_Android": "اشتري بيكسل، لا تقلل من شياومي.",
   "SecretMessageXiaomiFailure_Android": "تثبيت ROM مخصص.",
+  "IntroAbout_Desktop": "Welcome to the AyuGram Desktop.\nIt's cool and looks less ugly.",
+  "AboutText1": "Just a cool Telegram client based on {api_link}.",
   "UpdateAyuGram": "تحديث AyuGram",
   "UtilityRestartRequired": "سيتم إغلاق التطبيق في 5 ثوان."
 }
