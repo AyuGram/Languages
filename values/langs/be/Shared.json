@@ -6,7 +6,10 @@
   "DontSendOnlinePackets": "Не адпраўляць статус \"анлайн\"",
   "DontSendUploadProgress": "Не адпраўляць статус друкавання",
   "SendOfflinePacketAfterOnline": "Неадкладны пераход у рэжым афлайн пасля статусу анлайн",
-  "MarkReadAfterSend": "Адпраўляць статус \"прачытана\" пасля адказу",
+  "MarkReadAfterAction": "Mark read after actions",
+  "MarkReadAfterSend": "Send",
+  "MarkReadAfterReaction": "Reaction",
+  "MarkReadAfterPoll": "Poll",
   "UseScheduledMessages": "Адкладваць адпраўку паведамленняў",
   "SuggestGhostModeBeforeViewingStory": "Паведамляць перад адкрываннем гісторыі",
   "SpyEssentialsHeader": "Налады шпіянажу",
@@ -136,6 +139,8 @@
   "SecretMessageXiaomiSuccess_Android": "Ты выкарыстоўваеш добры тэлефон.",
   "SecretMessageXiaomiWarning_Android": "Buy Pixel, don't mess with Xiaomi.",
   "SecretMessageXiaomiFailure_Android": "Прашый ты свой Хлаомі, будзь ласка.",
+  "IntroAbout_Desktop": "Welcome to the AyuGram Desktop.\nIt's cool and looks less ugly.",
+  "AboutText1": "Just a cool Telegram client based on {api_link}.",
   "UpdateAyuGram": "Абнавіць AyuGram",
   "UtilityRestartRequired": "App will close in 5 seconds."
 }
