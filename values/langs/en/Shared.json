@@ -57,13 +57,17 @@
   "RegexFilters": "Message Filters",
   "RegexFiltersAmount": "filters",
   "RegexFiltersHeader": "Filters",
+  "RegexFiltersShared": "Shared filters",
   "FiltersHideFromBlocked": "Hide from blocked users",
-  "RegexFiltersEnableInChats": "Enable in chats",
+  "RegexFiltersEnableSharedInChats": "Enable shared filters in chats",
   "RegexFiltersCaseInsensitive": "Case insensitive expressions",
   "RegexFiltersAdd": "Add filter",
   "RegexFiltersEdit": "Edit filter",
   "RegexFiltersPlaceholder": "Expression",
-  "RegexFiltersAddDescription_Android": "You can use site <![CDATA[<a href=\"https://regex101.com\">regex101.com</a>]]> to fully test your regular expression.\nYou can also use plain text, but don't forget to escape brackets.",
+  "EnableExpression": "Enable expression",
+  "CaseInsensitiveExpression": "Case insensitive expression",
+  "RegexFiltersAddDescription_Android": "You can use site <![CDATA[<a href=\"https://regex101.com/r/3XHb17\">regex101.com</a>]]> to test and debug your regular expression.",
+  "RegexFiltersAddAction_Android": "Open regex101",
   "RegexFiltersAddError": "Regex syntax error",
 
   "AyuSyncHeader": "AyuSync",
@@ -124,6 +128,7 @@
   "EditsHistoryMenuText": "History",
 
   "ClearDeletedMenuText": "Clear Deleted",
+  "ViewFiltersMenuText": "View Filters",
 
   "ReadUntilMenuText": "Read Message",
 
