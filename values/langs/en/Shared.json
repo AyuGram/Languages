@@ -60,7 +60,6 @@
   "RegexFiltersShared": "Shared filters",
   "FiltersHideFromBlocked": "Hide from blocked users",
   "RegexFiltersEnableSharedInChats": "Enable shared filters in chats",
-  "RegexFiltersCaseInsensitive": "Case insensitive expressions",
   "RegexFiltersAdd": "Add filter",
   "RegexFiltersEdit": "Edit filter",
   "RegexFiltersPlaceholder": "Expression",
@@ -96,6 +95,7 @@
   "IconNothing": "Nothing",
 
   "WALMode": "Enable WAL mode",
+  "PushNotificationCount": "FCM notifications received",
   "ClearAyuDatabase": "Clear Ayu Database",
   "ClearAyuDatabaseNotification": "AyuGram database cleared",
   "ClearAyuAttachments": "Clear Ayu Attachments",
@@ -129,6 +129,8 @@
 
   "ClearDeletedMenuText": "Clear Deleted",
   "ViewFiltersMenuText": "View Filters",
+
+  "OneViewTTL": "one view",
 
   "ReadUntilMenuText": "Read Message",
 
