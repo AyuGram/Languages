@@ -51,6 +51,7 @@
   "RegexFiltersHeader": "تصنيف",
   "RegexFiltersShared": "Shared filters",
   "FiltersHideFromBlocked": "إخفاء من المستخدمين المحظورين",
+  "FiltersHideFromBlockedNote": "Message filters were enabled.",
   "RegexFiltersEnableSharedInChats": "Enable shared filters in chats",
   "RegexFiltersAdd": "إضافة تصنيف",
   "RegexFiltersEdit": "تعديل تصنيف",
