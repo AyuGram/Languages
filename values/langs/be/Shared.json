@@ -51,6 +51,7 @@
   "RegexFiltersHeader": "Фільтры",
   "RegexFiltersShared": "Shared filters",
   "FiltersHideFromBlocked": "Хаваць ад заблакаваных карыстальнікаў",
+  "FiltersHideFromBlockedNote": "Message filters were enabled.",
   "RegexFiltersEnableSharedInChats": "Enable shared filters in chats",
   "RegexFiltersAdd": "Дабавіць фільтр",
   "RegexFiltersEdit": "Адрэгадаваць фільтр",
