@@ -51,6 +51,7 @@
   "RegexFiltersHeader": "Фільтри",
   "RegexFiltersShared": "Shared filters",
   "FiltersHideFromBlocked": "Сховати від заблокованих користувачів",
+  "FiltersHideFromBlockedNote": "Message filters were enabled.",
   "RegexFiltersEnableSharedInChats": "Enable shared filters in chats",
   "RegexFiltersAdd": "Додати фільтр",
   "RegexFiltersEdit": "Змінити фільтр",
