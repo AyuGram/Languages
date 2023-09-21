@@ -51,6 +51,7 @@
   "RegexFiltersHeader": "فیلتر ها",
   "RegexFiltersShared": "Shared filters",
   "FiltersHideFromBlocked": "Hide from blocked users",
+  "FiltersHideFromBlockedNote": "Message filters were enabled.",
   "RegexFiltersEnableSharedInChats": "Enable shared filters in chats",
   "RegexFiltersAdd": "اضافه کردن فیلتر",
   "RegexFiltersEdit": "ویرایش فیلتر",
