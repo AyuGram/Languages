@@ -8,14 +8,8 @@ import os.path
 if not os.path.exists('./values'):
     os.chdir('../')
 
-langs = [
-    'en',
-    'ru',
-    'be',
-    'pt',
-    'es',
-    'uk'
-]
+langs = [f for f in os.listdir('./values/langs') if os.path.isdir(f'./values/langs/{f}')]
+langs.sort()
 
 if not os.path.exists('./out'):
     os.mkdir('./out')
