@@ -51,7 +51,7 @@
   "RegexFiltersHeader": "Filtreler",
   "RegexFiltersShared": "Paylaşılan filtreler",
   "FiltersHideFromBlocked": "Engellenen kullanıcılardan gizle",
-  "FiltersHideFromBlockedNote": "Message filters were enabled.",
+  "FiltersHideFromBlockedNote": "Mesaj filtreleri etkinleştirildi.",
   "RegexFiltersEnableSharedInChats": "Sohbetlerde paylaşılan filtreleri etkinleştir",
   "RegexFiltersAdd": "Filtre ekle",
   "RegexFiltersEdit": "Filtreyi düzenle",
