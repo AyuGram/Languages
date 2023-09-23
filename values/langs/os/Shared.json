@@ -6,7 +6,7 @@
   "DontSendOnlinePackets": "Ма ӕрвит «онлайн»",
   "DontSendUploadProgress": "Ма ӕрвит «фыссы»",
   "SendOfflinePacketAfterOnline": "«Онлайн»-ы хӕдфӕстӕ «офлайн»",
-  "MarkReadAfterAction": "Кӕс-иу архӕйдтыты фӕстӕ",
+  "MarkReadAfterAction": "Mark read after actions",
   "MarkReadAfterSend": "Send",
   "MarkReadAfterReaction": "Reaction",
   "MarkReadAfterPoll": "Poll",
