@@ -154,6 +154,11 @@
   "EnableGhostModeStories": "Enable Ghost Mode",
   "GhostModeIsActive": "Ghost Mode Is Active",
 
+  "MainFont": "Application font",
+  "MonospaceFont": "Monospace font",
+  "FontDefault": "Default",
+  "CustomizeFontTitle": "Customize font",
+
   "AyuForwardStatusForwarding": "Forwarding messages…",
   "AyuForwardStatusLoadingMedia": "Loading media…",
   "AyuForwardForwardingDescription": "Please keep this window open while AyuGram is forwarding your messages.",
