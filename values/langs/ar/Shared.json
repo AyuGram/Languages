@@ -127,6 +127,10 @@
   "HideNextViewsDescriptionAyu": "إخفاء مشاهدتي إلى الأبد، حتى يتم تعطيل وضع الشبح.",
   "EnableGhostModeStories": "تفعيل وضع الشبح 👻",
   "GhostModeIsActive": "وضع الشبح نشط",
+  "MainFont": "Application font",
+  "MonospaceFont": "Monospace font",
+  "FontDefault": "الافتراضي",
+  "CustomizeFontTitle": "Customize font",
   "AyuForwardStatusForwarding": "إعادة توجيه الرسائل...",
   "AyuForwardStatusLoadingMedia": "جار تحميل الوسائط ...",
   "AyuForwardForwardingDescription": "الرجاء إبقاء هذه النافذة مفتوحة بينما يقوم ayuGram بإعادة توجيه رسائلك.",
