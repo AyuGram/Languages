@@ -143,7 +143,7 @@
   "IDCopiedToast": "Kimlik panoya kopyalandı.",
   "ContextHideMessage": "Gizle",
   "ContextCopyCallbackData_Desktop": "Geri Arama Verilerini Kopyala",
-  "LocalPremiumNotice_Desktop": "**Yerel** Telegram Premium kullanıyorsunuz.\nÇevirmen dışında size herhangi bir fayda **sağlamaz**.\n**Takma adınızın yanındaki yıldızın tadını çıkarın!**",
+  "LocalPremiumNotice_Desktop": "You're using **local** Telegram Premium.\nIt **won't** give you any benefits, except translator.\n**Enjoy the star near your nickname!**",
   "SettingsWatermark": "AyuGram, Radolyn Labs tarafından geliştirilmekte ve sürdürülmektedir.",
   "SettingsDescription_Android": "Sadece ToS kırıcı özellikleri göz önünde bulunduran exteraGram tabanlı bir istemci.",
   "SecretMessageTecno_Android": "Tecno telefonları en iyisidir.",
