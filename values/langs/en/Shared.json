@@ -188,6 +188,10 @@
   "SecretMessageXiaomiWarning_Android": "Buy Pixel, don't mess with Xiaomi.",
   "SecretMessageXiaomiFailure_Android": "Install custom ROM.",
 
+  "ConfirmationSticker": "Do you want to send this sticker?",
+  "ConfirmationGIF": "Do you want to send this GIF?",
+  "ConfirmationVoice": "Do you want to send this voice message?",
+
   "IntroAbout_Desktop": "Welcome to the AyuGram Desktop.\nIt's cool and looks less ugly.",
 
   "AboutText1": "Just a cool Telegram client based on {api_link}.",
