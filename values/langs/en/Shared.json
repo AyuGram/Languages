@@ -38,8 +38,9 @@
 
   "QoLTogglesHeader": "Useful features",
   "KeepAliveService": "AyuGram Push Service",
-  "DisableStories": "Disable stories",
   "DisableAds": "Disable ads",
+  "DisableStories": "Disable stories",
+  "DisableNotificationsDelay": "Disable notify delay",
   "LocalPremium": "Local Telegram Premium",
   "CopyUsernameAsLink": "Copy username as link",
 
