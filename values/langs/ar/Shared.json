@@ -53,7 +53,7 @@
   "RegexFiltersShared": "خيارات المشاركة",
   "FiltersHideFromBlocked": "إخفاء من المستخدمين المحظورين",
   "FiltersHideFromBlockedNote": "تم تمكين فلاتر الرسالة.",
-  "RegexFiltersEnableSharedInChats": "Enable shared filters in chats",
+  "RegexFiltersEnableSharedInChats": "تمكين الفلاتر المشتركة في المحادثة",
   "RegexFiltersAdd": "إضافة تصنيف",
   "RegexFiltersEdit": "تعديل تصنيف",
   "RegexFiltersPlaceholder": "التعبيرات",
