@@ -105,9 +105,9 @@
   "EraseLocalDatabase": "Erase Local Database",
 
   "ConfirmationsTitle": "Confirmations",
-  "StickerConfirmation": "Confirmation when sending stickers",
-  "GIFConfirmation": "Confirmation when sending GIFs",
-  "VoiceConfirmation": "Confirmation when sending voice messages",
+  "StickerConfirmation": "For stickers",
+  "GIFConfirmation": "For GIFs",
+  "VoiceConfirmation": "For voice messages",
 
   "KillApp": "Kill App",
 
