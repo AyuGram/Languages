@@ -34,7 +34,7 @@
   "KeepAliveService": "Работать в фоне",
   "DisableAds": "Отключить рекламу",
   "DisableStories": "Скрыть сторис",
-  "DisableNotificationsDelay": "Disable notify delay",
+  "DisableNotificationsDelay": "Выключить задержку уведомлений",
   "LocalPremium": "Локальный Telegram Premium",
   "CopyUsernameAsLink": "Копировать юзернейм как ссылку",
   "CustomizationHeader": "Персонализация",
