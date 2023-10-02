@@ -123,8 +123,9 @@
   "ClearDeletedMessagesText": "هل أنت متأكد من أنك تريد مسح جميع الرسائل المحذوفة في هذه المحادثة؟",
   "ClearDeletedMessagesActionText": "مسح",
   "SuggestGhostModeTitle": "وضع الشبح 👻",
-  "SuggestGhostModeStoryText": "هل تريد تمكين وضع الشبح قبل مشاهدة القصة؟",
-  "SuggestGhostModeStoryActionText": "تمكين",
+  "SuggestGhostModeStoryText": "Do you want to enable **Ghost Mode** before viewing the story?",
+  "SuggestGhostModeStoryActionTextYes": "Yes",
+  "SuggestGhostModeStoryActionTextNo": "No",
   "HideNextViewsDescriptionAyu": "إخفاء مشاهدتي إلى الأبد، حتى يتم تعطيل وضع الشبح.",
   "EnableGhostModeStories": "تفعيل وضع الشبح 👻",
   "GhostModeIsActive": "وضع الشبح نشط",
