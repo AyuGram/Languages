@@ -57,7 +57,7 @@
   "RegexFiltersAdd": "إضافة تصنيف",
   "RegexFiltersEdit": "تعديل تصنيف",
   "RegexFiltersPlaceholder": "التعبيرات",
-  "EnableExpression": "Enable expression",
+  "EnableExpression": "تمكين التعبير",
   "CaseInsensitiveExpression": "Case insensitive expression",
   "RegexFiltersAddDescription_Android": "You can use site <![CDATA[<a href=\"https://regex101.com/r/3XHb17\">regex101.com</a>]]> to test and debug your regular expression.",
   "RegexFiltersAddAction_Android": "Open regex101",
