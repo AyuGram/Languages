@@ -70,6 +70,7 @@
   "RegexFiltersAddDescription_Android": "You can use site <![CDATA[<a href=\"https://regex101.com/r/3XHb17\">regex101.com</a>]]> to test and debug your regular expression.",
   "RegexFiltersAddAction_Android": "Open regex101",
   "RegexFiltersAddError": "Regex syntax error",
+  "RegexFilterQuickAdd": "Add filter",
 
   "AyuSyncHeader": "AyuSync",
   "AyuSyncStatusTitle": "Sync status",
@@ -167,6 +168,8 @@
   "AyuForwardLoadingMediaDescription": "Please keep this window open while AyuGram is downloading media from your messages.",
 
   "DeleteDateMenuText": "Delete Date",
+  "ForwardableMenuText": "Forwardable",
+  "ForwardableMenuTextNo": "No",
 
   "LikelyOfflineStatus": "offline ?",
 
