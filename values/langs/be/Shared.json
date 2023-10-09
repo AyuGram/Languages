@@ -139,7 +139,7 @@
   "AyuForwardForwardingDescription": "Калі ласка, трымайце гэта акно адчыненым, пакуль AyuGram перасылае вашыя паведамленні.",
   "AyuForwardLoadingMediaDescription": "Калі ласка, трымайце гэтае акно адчыненым, пакуль AyuGram спампоўвае медыя з вашых паведамленняў.",
   "DeleteDateMenuText": "Дата выдалення",
-  "ForwardableMenuText": "Forwardable",
+  "ForwardableMenuText": "Перасылаемае",
   "ForwardableMenuTextNo": "Не",
   "LikelyOfflineStatus": "афлайн ?",
   "GhostModeShortcut": "Увайсці з рэжымам Прывіду",
@@ -161,5 +161,5 @@
   "IntroAbout_Desktop": "Вітаем у AyuGram Desktop!\nЁн круты і выглядае менш гадка.",
   "AboutText1": "Проста круты кліент Тэлеграм, заснаваны на {api_link}.",
   "UpdateAyuGram": "Абнавіць AyuGram",
-  "UtilityRestartRequired": "App will close in 5 seconds."
+  "UtilityRestartRequired": "Праграма закрыецца праз 5 секунд."
 }
