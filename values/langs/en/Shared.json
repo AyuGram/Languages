@@ -95,7 +95,12 @@
 
   "IconDefault": "Default",
   "IconAlternative": "AyuGram Alt",
+  "IconDiscord": "Discord",
+  "IconSpotify": "Spotify",
+  "IconExtera": "extera",
   "IconNothing": "Nothing",
+  "IconBard": "Google Bard",
+  "IconYaPlus": "Yandex Plus",
 
   "WALMode": "Enable WAL mode",
   "PushNotificationCount": "FCM notifications received",
@@ -130,8 +135,11 @@
   "EditsHistoryTitle": "Edits history",
   "EditsHistoryMenuText": "History",
 
+  "PeekOnlineMenuText": "Peek Online",
   "ClearDeletedMenuText": "Clear Deleted",
   "ViewFiltersMenuText": "View Filters",
+
+  "PeekOnlineSuccess": "Peaked via",
 
   "OneViewTTL": "one view",
 
