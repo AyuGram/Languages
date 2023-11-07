@@ -47,7 +47,7 @@
   "SettingsShowID": "Ӕвдис ӕмныхасы ID",
   "SettingsShowID_Hide": "Бабмӕхс",
   "SettingsRecentStickersCount": "Ӕрдӕбонон ныхӕстӕджыты нымӕц",
-  "SettingsCustomizationHint": "«Персонализаци» хайы арӕзты фӕстӕ хъӕуы ракусын кӕнын ӕфтуан.",
+  "SettingsCustomizationHint": "After making changes to the \"Customization\" section, you must restart the application.",
   "RegexFilters": "Фыстӕджыты фӕрсудзӕнтӕ",
   "RegexFiltersAmount": "фӕрсудзӕн(ты)",
   "RegexFiltersHeader": "Фӕрсудзӕнтӕ",
@@ -103,7 +103,7 @@
   "StickerConfirmation": "Ныхӕстӕджытӕн",
   "GIFConfirmation": "GIF'тӕн",
   "VoiceConfirmation": "Хъӕлӕсон фыстӕджытӕн",
-  "KillApp": "Сӕхгӕн ӕфтуан",
+  "KillApp": "Kill App",
   "LReadMessages": "Бакӕс алцыдӕр локалы",
   "SReadMessages": "Бакӕс алцыдӕр серверы",
   "GhostModeToggle": "Гамхуды режим",
@@ -139,7 +139,7 @@
   "EnableGhostModeStories": "Баргъӕв гамхуды режим",
   "GhostModeIsActive": "Гамхуды режим кусы",
   "SimpleQuotesAndReplies": "Simple quotes & replies",
-  "MainFont": "Ӕфтуаны шрифт",
+  "MainFont": "Application font",
   "MonospaceFont": "Иууӕрӕх шрифт",
   "FontDefault": "Равгон",
   "CustomizeFontTitle": "Шрифты арӕзт",
@@ -170,5 +170,5 @@
   "IntroAbout_Desktop": "Феввӕрсут уӕлыстъол AyuGram'мӕ.\nМах кӕнӕм Telegram иумур хуыдӕр.",
   "AboutText1": "Ӕхсызгон Telegram-клиент {api_link}-(й)ы бындурыл.",
   "UpdateAyuGram": "Сног кӕн AyuGram",
-  "UtilityRestartRequired": "Ӕфтуан сӕхгӕндзӕн 5 сикъунды фӕстӕ."
+  "UtilityRestartRequired": "App will close in 5 seconds."
 }
