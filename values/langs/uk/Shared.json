@@ -48,6 +48,8 @@
   "SettingsShowID_Hide": "Сховати",
   "SettingsRecentStickersCount": "Кількість останніх стікерів",
   "SettingsCustomizationHint": "Після внесення змін до розділу \"Персоналізація\", необхідно перезапустити програму.",
+  "DrawerElementsHeader": "Drawer Elements",
+  "TrayElementsHeader": "Tray Elements",
   "RegexFilters": "Фільтри повідомлень",
   "RegexFiltersAmount": "фільтри(-ів)",
   "RegexFiltersHeader": "Фільтри",
