@@ -48,6 +48,8 @@
   "SettingsShowID_Hide": "Бабмӕхс",
   "SettingsRecentStickersCount": "Ӕрдӕбонон ныхӕстӕджыты нымӕц",
   "SettingsCustomizationHint": "After making changes to the \"Customization\" section, you must restart the application.",
+  "DrawerElementsHeader": "Drawer Elements",
+  "TrayElementsHeader": "Tray Elements",
   "RegexFilters": "Фыстӕджыты фӕрсудзӕнтӕ",
   "RegexFiltersAmount": "фӕрсудзӕн(ты)",
   "RegexFiltersHeader": "Фӕрсудзӕнтӕ",
