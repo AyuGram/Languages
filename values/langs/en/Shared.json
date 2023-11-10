@@ -57,6 +57,9 @@
   "SettingsRecentStickersCount": "Recent stickers count",
   "SettingsCustomizationHint": "After making changes to the \"Customization\" section, you must restart the application.",
 
+  "DrawerElementsHeader": "Drawer Elements",
+  "TrayElementsHeader": "Tray Elements",
+
   "RegexFilters": "Message Filters",
   "RegexFiltersAmount": "filters",
   "RegexFiltersHeader": "Filters",
