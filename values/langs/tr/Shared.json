@@ -48,6 +48,8 @@
   "SettingsShowID_Hide": "Gizle",
   "SettingsRecentStickersCount": "Son çıkartmaların sayısı",
   "SettingsCustomizationHint": "\"Özelleştirme\" bölümünde değişiklikler yapıldıktan sonra uygulamayı yeniden başlatmanız gereklidir.",
+  "DrawerElementsHeader": "Drawer Elements",
+  "TrayElementsHeader": "Tray Elements",
   "RegexFilters": "Mesaj filtreleri",
   "RegexFiltersAmount": "filtreler",
   "RegexFiltersHeader": "Filtreler",
