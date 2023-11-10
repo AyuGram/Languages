@@ -48,6 +48,8 @@
   "SettingsShowID_Hide": "Ocultar",
   "SettingsRecentStickersCount": "Recuento de stickers recientes",
   "SettingsCustomizationHint": "Después de realizar cambios en la sección \"Personalización\", debe reiniciar la aplicación.",
+  "DrawerElementsHeader": "Drawer Elements",
+  "TrayElementsHeader": "Tray Elements",
   "RegexFilters": "Filtros de mensajes",
   "RegexFiltersAmount": "filtros",
   "RegexFiltersHeader": "Filtros",
