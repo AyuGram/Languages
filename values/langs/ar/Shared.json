@@ -48,6 +48,8 @@
   "SettingsShowID_Hide": "الإخفاء",
   "SettingsRecentStickersCount": "عدد الملصقات الأخيرة",
   "SettingsCustomizationHint": "بعد إجراء تغييرات على قسم \"التخصيص\"، يجب عليك إعادة تشغيل التطبيق.",
+  "DrawerElementsHeader": "Drawer Elements",
+  "TrayElementsHeader": "Tray Elements",
   "RegexFilters": "مصنف الرسائل",
   "RegexFiltersAmount": "تصنيف",
   "RegexFiltersHeader": "تصنيف",
