@@ -48,6 +48,8 @@
   "SettingsShowID_Hide": "Verstecken",
   "SettingsRecentStickersCount": "Anzahl verwendeter Sticker",
   "SettingsCustomizationHint": "Nachdem du Änderungen im Abschnitt \"Personalisieren\" vorgenommen hast, sollst du die Anwendung neu starten.",
+  "DrawerElementsHeader": "Drawer Elements",
+  "TrayElementsHeader": "Tray Elements",
   "RegexFilters": "Nachrichtenfilter",
   "RegexFiltersAmount": "Filter",
   "RegexFiltersHeader": "Filter",
