@@ -48,6 +48,8 @@
   "SettingsShowID_Hide": "Ẩn",
   "SettingsRecentStickersCount": "Số lượng nhãn dán gần đây",
   "SettingsCustomizationHint": "Sau khi thực hiện thay đổi ở phần \"Tùy chỉnh\", bạn phải khởi động lại ứng dụng.",
+  "DrawerElementsHeader": "Drawer Elements",
+  "TrayElementsHeader": "Tray Elements",
   "RegexFilters": "Bộ lọc tin nhắn",
   "RegexFiltersAmount": "bộ lọc",
   "RegexFiltersHeader": "Bộ lọc",
