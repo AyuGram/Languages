@@ -48,6 +48,8 @@
   "SettingsShowID_Hide": "مخفی کردن",
   "SettingsRecentStickersCount": "تعداد استیکر های اخیر",
   "SettingsCustomizationHint": "بعد از اعمال تغییرات در بخش \"شخصی سازی\" ، شما باید برنامه رو دوباره اجرا کنید.",
+  "DrawerElementsHeader": "Drawer Elements",
+  "TrayElementsHeader": "Tray Elements",
   "RegexFilters": "فیلتر های پیام",
   "RegexFiltersAmount": "فیلتر ها",
   "RegexFiltersHeader": "فیلتر ها",
