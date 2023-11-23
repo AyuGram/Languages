@@ -95,7 +95,7 @@
   "IconBard": "Google Bard",
   "IconYaPlus": "Yandex Plus",
   "WALMode": "WAL modunu etkinleştir",
-  "PushNotificationCount": "FCM notifications received",
+  "PushNotificationCount": "Alınan FCM bildirimleri",
   "ClearAyuDatabase": "Ayu Veritabanını Temizle",
   "ClearAyuDatabaseNotification": "AyuGram veritabanı temizlendi",
   "ClearAyuAttachments": "Ayu Eklerini Temizle",
