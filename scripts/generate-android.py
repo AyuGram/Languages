@@ -27,9 +27,6 @@ for lang in langs:
         if k + '_Android' in strings:
             continue
 
-        if k.endswith('_Desktop'):
-            continue
-
         if k.endswith('_Android'):
             k = k.replace('_Android', '')
 

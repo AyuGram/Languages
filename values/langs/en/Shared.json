@@ -49,7 +49,7 @@
   "CustomizationHeader": "Customization",
   "DeletedMarkText": "Deleted mark",
   "EditedMarkText": "Edited mark",
-  "HideAllChats_Desktop": "Hide \"All chats\" folder",
+  "HideAllChats": "Hide \"All chats\" folder",
   "ShowGhostToggleInDrawer": "Show ghost mode toggle",
   "ShowKllButtonInDrawer": "Show kill app button",
   "SettingsShowID": "Show peer ID",
@@ -170,7 +170,11 @@
   "EnableGhostModeStories": "Enable Ghost Mode",
   "GhostModeIsActive": "Ghost Mode Is Active",
 
-  "SimpleQuotesAndReplies": "Simple quotes & replies",
+  "SimpleQuotesAndReplies": "Disable colorful replies",
+
+  "DisableSimilarChannels": "Disable similar channels",
+  "CollapseSimilarChannels": "Collapse similar channels",
+  "HideSimilarChannelsTab": "Hide similar channels tab",
 
   "MainFont": "Application font",
   "MonospaceFont": "Monospace font",
@@ -196,9 +200,9 @@
   "IDCopiedToast": "ID copied to clipboard.",
   "ContextHideMessage": "Hide",
 
-  "ContextCopyCallbackData_Desktop": "Copy Callback Data",
+  "ContextCopyCallbackData": "Copy Callback Data",
 
-  "LocalPremiumNotice_Desktop": "You're using **local** Telegram Premium.\nIt **won't** give you any benefits, except translator.\n**Enjoy the star near your nickname!**",
+  "LocalPremiumNotice": "You're using **local** Telegram Premium.\nIt **won't** give you any benefits, except translator.\n**Enjoy the star near your nickname!**",
 
   "SettingsWatermark": "AyuGram developed and maintained by Radolyn Labs.",
   "SettingsDescription_Android": "Just an exteraGram based client with ToS breaking features in mind.",
@@ -212,7 +216,7 @@
   "ConfirmationGIF": "Do you want to send this GIF?",
   "ConfirmationVoice": "Do you want to send this voice message?",
 
-  "IntroAbout_Desktop": "Welcome to the AyuGram Desktop.\nIt's cool and looks less ugly.",
+  "IntroAbout": "Welcome to the AyuGram Desktop.\nIt's cool and looks less ugly.",
 
   "AboutText1": "Just a cool Telegram client based on {api_link}.",
 
