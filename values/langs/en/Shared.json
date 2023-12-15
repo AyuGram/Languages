@@ -76,6 +76,8 @@
   "RegexFiltersAddAction_Android": "Open regex101",
   "RegexFiltersAddError": "Regex syntax error",
   "RegexFilterQuickAdd": "Add filter",
+  "RegexFilterBulletinText": "Filter added to the **Shared filters**.",
+  "RegexFilterBulletinAction": "Move to current chat",
 
   "AyuSyncHeader": "AyuSync",
   "AyuSyncStatusTitle": "Sync status",
