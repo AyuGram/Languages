@@ -20,7 +20,9 @@
   "SaveDeletedMessages": "Save deleted messages",
   "SaveMessagesHistory": "Save edits history",
 
-  "MessageSavingBtn": "Message Saving Preferences",
+  "MessageSavingActionBarHeader": "Message Saving Preferences",
+  "MessageSavingBtn": "Preferences",
+  "MessageSavingSubTitle": "Configure media & per dialog saving",
   "MessageSavingMediaHeader": "Media",
   "MessageSavingSaveMedia": "Save media",
   "MessageSavingSaveMediaHint": "Click for more",
@@ -37,6 +39,10 @@
   "MessageSavingSaveFormatting": "Save formatting",
   "MessageSavingSaveReactions": "Save reactions",
   "MessageSavingSaveForBots": "Save in bot dialogs",
+
+  "SpyAllToggle": "Spy on people",
+  "SpySaveReadMarks": "Save read date",
+  "SpySaveLastActivity": "Save last activity",
 
   "QoLTogglesHeader": "Useful features",
   "KeepAliveService": "AyuGram Push Service",
@@ -189,6 +195,8 @@
   "AyuForwardLoadingMediaDescription": "Please keep this window open while AyuGram is downloading media from your messages.",
 
   "DeleteDateMenuText": "Delete Date",
+  "ReadDateMenuText": "Read Date",
+  "ContentsReadDateMenuText": "Contents Read Date",
   "ForwardableMenuText": "Forwardable",
   "ForwardableMenuTextNo": "No",
 

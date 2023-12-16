@@ -30,6 +30,9 @@ for lang in langs:
         if k.endswith('_Android'):
             k = k.replace('_Android', '')
 
+        if k == 'HideAllChats':
+            continue
+
         string = et.SubElement(root, 'string', {'name': k})
         string.text = v.replace('\'', '\\\'')
 
