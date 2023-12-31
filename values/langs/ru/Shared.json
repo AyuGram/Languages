@@ -68,7 +68,7 @@
   "RegexFiltersAmount": "фильтров",
   "RegexFiltersHeader": "Фильтры",
   "RegexFiltersShared": "Общие фильтры",
-  "RegexFiltersExcluded": "Excluded filters",
+  "RegexFiltersExcluded": "Исключённые фильтры",
   "FiltersHideFromBlocked": "Скрывать от заблокированных пользователей",
   "FiltersHideFromBlockedNote": "Фильтры сообщений включены.",
   "RegexFiltersEnableSharedInChats": "Включить общие фильтры в чатах",
