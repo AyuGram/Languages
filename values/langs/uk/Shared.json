@@ -68,6 +68,7 @@
   "RegexFiltersAmount": "фільтри(-ів)",
   "RegexFiltersHeader": "Фільтри",
   "RegexFiltersShared": "Загальні фільтри",
+  "RegexFiltersExcluded": "Excluded filters",
   "FiltersHideFromBlocked": "Сховати від заблокованих користувачів",
   "FiltersHideFromBlockedNote": "Увімкнено фільтри повідомлень.",
   "RegexFiltersEnableSharedInChats": "Увімкнути загальні фільтри у чатах",
