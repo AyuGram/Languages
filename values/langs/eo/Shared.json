@@ -68,6 +68,7 @@
   "RegexFiltersAmount": "filtriloj",
   "RegexFiltersHeader": "Filtriloj",
   "RegexFiltersShared": "Kundividitaj filtriloj",
+  "RegexFiltersExcluded": "Excluded filters",
   "FiltersHideFromBlocked": "Kaŝi de blokitaj uzantoj",
   "FiltersHideFromBlockedNote": "Mesaĝaj filtriloj estis enŝaltitaj.",
   "RegexFiltersEnableSharedInChats": "Enŝalti kundividitajn filtrilojn en babilejoj",
