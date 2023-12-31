@@ -68,6 +68,7 @@
   "RegexFiltersAmount": "bộ lọc",
   "RegexFiltersHeader": "Bộ lọc",
   "RegexFiltersShared": "Chia sẻ Bộ lọc",
+  "RegexFiltersExcluded": "Excluded filters",
   "FiltersHideFromBlocked": "Ẩn khỏi người dùng bị chặn",
   "FiltersHideFromBlockedNote": "Bộ lọc tin nhắn đã được bật.",
   "RegexFiltersEnableSharedInChats": "Bật bộ lọc được chia sẻ trong cuộc trò chuyện",
