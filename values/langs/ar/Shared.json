@@ -68,6 +68,7 @@
   "RegexFiltersAmount": "تصنيف",
   "RegexFiltersHeader": "تصنيف",
   "RegexFiltersShared": "خيارات المشاركة",
+  "RegexFiltersExcluded": "Excluded filters",
   "FiltersHideFromBlocked": "إخفاء من المستخدمين المحظورين",
   "FiltersHideFromBlockedNote": "تم تمكين فلاتر الرسالة.",
   "RegexFiltersEnableSharedInChats": "تمكين الفلاتر المشتركة في المحادثة",
