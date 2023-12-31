@@ -68,6 +68,7 @@
   "RegexFiltersAmount": "過濾器",
   "RegexFiltersHeader": "過濾器",
   "RegexFiltersShared": "共享過濾器",
+  "RegexFiltersExcluded": "Excluded filters",
   "FiltersHideFromBlocked": "從被封鎖的用戶中隱藏",
   "FiltersHideFromBlockedNote": "訊息過濾器已啟用。",
   "RegexFiltersEnableSharedInChats": "在聊天中啟用共享過濾器",
