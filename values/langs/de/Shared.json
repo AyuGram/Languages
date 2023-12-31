@@ -68,6 +68,7 @@
   "RegexFiltersAmount": "Filter",
   "RegexFiltersHeader": "Filter",
   "RegexFiltersShared": "Gemeinsame Filter",
+  "RegexFiltersExcluded": "Excluded filters",
   "FiltersHideFromBlocked": "Vor gesperrten Benutzern ausblenden",
   "FiltersHideFromBlockedNote": "Nachrichtenfilter wurden aktiviert.",
   "RegexFiltersEnableSharedInChats": "Gemeinsame Filter in Chats aktivieren",
