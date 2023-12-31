@@ -36,9 +36,10 @@
   "MaximumMediaSizeWiFi": "Media size limit (WiFi)",
 
   "MessageSavingOtherHeader": "Other",
-  "MessageSavingSaveFormatting": "Save formatting",
   "MessageSavingSaveReactions": "Save reactions",
   "MessageSavingSaveForBots": "Save in bot dialogs",
+  "MessageSavingSavePath": "Attachments folder",
+  "MessageSavingSavePathTitle": "Choose folder",
 
   "SpyAllToggle": "Spy on people",
   "SpySaveReadMarks": "Save read date",
@@ -249,6 +250,7 @@
   "SecretMessageXiaomiSuccess_Android": "You're using a good phone.",
   "SecretMessageXiaomiWarning_Android": "Buy Pixel, don't mess with Xiaomi.",
   "SecretMessageXiaomiFailure_Android": "Install custom ROM.",
+  "SecretMessageNekogram_Android": "Sorry, but it's not Nekogram.",
 
   "ConfirmationSticker": "Do you want to send this sticker?",
   "ConfirmationGIF": "Do you want to send this GIF?",
