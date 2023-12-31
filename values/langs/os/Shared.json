@@ -68,6 +68,7 @@
   "RegexFiltersAmount": "фӕрсудзӕн(ты)",
   "RegexFiltersHeader": "Фӕрсудзӕнтӕ",
   "RegexFiltersShared": "Иумӕйаг фӕрсудзӕнтӕ",
+  "RegexFiltersExcluded": "Excluded filters",
   "FiltersHideFromBlocked": "Бамбӕхс фӕблокгонд архайджыты",
   "FiltersHideFromBlockedNote": "Фыстӕджыты фӕрсудзӕнтӕ уыдысты баргъӕвд.",
   "RegexFiltersEnableSharedInChats": "Скусын кӕн иумӕйаг фӕрсудзӕнтӕ",
