@@ -47,6 +47,7 @@
   "CustomizationHeader": "التخصيص",
   "DeletedMarkText": "الأيقونة الدالة على حذف الرسالة",
   "EditedMarkText": "الأيقونة الدالة على تعديل الرسالة",
+  "HideNotificationCounters": "Hide notification counters",
   "HideAllChats": "Hide \"All chats\" folder",
   "ShowGhostToggleInDrawer": "أظهر زر للتبديل إلى وضع الشبح",
   "ShowKllButtonInDrawer": "إظهار زر إيقاف التطبيق",
