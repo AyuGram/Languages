@@ -47,6 +47,7 @@
   "CustomizationHeader": "自訂",
   "DeletedMarkText": "已刪除標記",
   "EditedMarkText": "已編輯標記",
+  "HideNotificationCounters": "Hide notification counters",
   "HideAllChats": "Hide \"All chats\" folder",
   "ShowGhostToggleInDrawer": "顯示幽靈模式開關",
   "ShowKllButtonInDrawer": "顯示終止應用程式按鈕",
