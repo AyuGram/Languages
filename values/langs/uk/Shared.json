@@ -47,6 +47,7 @@
   "CustomizationHeader": "Персоналізація",
   "DeletedMarkText": "Позначка «видалено»",
   "EditedMarkText": "Позначка «ред.»",
+  "HideNotificationCounters": "Hide notification counters",
   "HideAllChats": "Сховати теку «Усі чати»",
   "ShowGhostToggleInDrawer": "Показати перемикач режиму примари",
   "ShowKllButtonInDrawer": "Показувати кнопку «Закрити додаток»",
