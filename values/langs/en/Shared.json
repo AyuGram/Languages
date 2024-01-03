@@ -215,6 +215,8 @@
   "CollapseSimilarChannels": "Collapse similar channels",
   "HideSimilarChannelsTab": "Hide similar channels tab",
 
+  "UploadSpeedBoostPC": "Upload speed boost",
+
   "MainFont": "Application font",
   "MonospaceFont": "Monospace font",
   "FontDefault": "Default",
