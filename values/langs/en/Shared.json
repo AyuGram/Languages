@@ -185,6 +185,7 @@
   "PeekOnlineSuccess": "Peeked via",
 
   "OneViewTTL": "one view",
+  "OnePlayTTL": "one play",
 
   "UserMessagesMenuText": "User Messages",
   "ReadUntilMenuText": "Read Message",
@@ -226,6 +227,8 @@
   "AyuForwardStatusLoadingMedia": "Loading media…",
   "AyuForwardForwardingDescription": "Please keep this window open while AyuGram is forwarding your messages.",
   "AyuForwardLoadingMediaDescription": "Please keep this window open while AyuGram is downloading media from your messages.",
+
+  "UserNotFoundMessage": "User not found.",
 
   "DeleteDateMenuText": "Delete Date",
   "ReadDateMenuText": "Read Date",
