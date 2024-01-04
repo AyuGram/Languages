@@ -189,6 +189,8 @@
   "AyuForwardStatusLoadingMedia": "بارگذاری رسانه…",
   "AyuForwardForwardingDescription": "لطفا این پنجره رو وقتی AyuGram در حال هدایت پیام های شماست باز نگه دارید.",
   "AyuForwardLoadingMediaDescription": "لطفا این پنجره رو وقتی AyuGram در حال بارگذاری رسانه ها از پیام شماست باز نگه دارید.",
+  "ExpireMediaContextMenuText": "Burn",
+  "ExpiringVoiceMessageNote": "This voice message can be played as many times as you want.",
   "UserNotFoundMessage": "User not found.",
   "DeleteDateMenuText": "حذف تاریخ",
   "ReadDateMenuText": "Read Date",
