@@ -189,6 +189,8 @@
   "AyuForwardStatusLoadingMedia": "Завантаження медіа…",
   "AyuForwardForwardingDescription": "Будь ласка, тримайте це вікно відкритим, поки AyuGram пересилає повідомлення.",
   "AyuForwardLoadingMediaDescription": "Будь ласка, тримайте це вікно відкритим, поки AyuGram завантажує медіа з повідомлень.",
+  "ExpireMediaContextMenuText": "Burn",
+  "ExpiringVoiceMessageNote": "This voice message can be played as many times as you want.",
   "UserNotFoundMessage": "User not found.",
   "DeleteDateMenuText": "Дата видалення",
   "ReadDateMenuText": "Дата прочитання",
