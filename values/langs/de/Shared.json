@@ -189,6 +189,8 @@
   "AyuForwardStatusLoadingMedia": "Laden der Dateien…",
   "AyuForwardForwardingDescription": "Bitte halte dieses Fenster offen, während AyuGram deine Nachrichten weiterleitet.",
   "AyuForwardLoadingMediaDescription": "Bitte halte dieses Fenster offen, während AyuGram Dateien aus deinen Nachrichten herunterlädt.",
+  "ExpireMediaContextMenuText": "Burn",
+  "ExpiringVoiceMessageNote": "This voice message can be played as many times as you want.",
   "UserNotFoundMessage": "User not found.",
   "DeleteDateMenuText": "Löschdatum",
   "ReadDateMenuText": "Read Date",
