@@ -228,6 +228,7 @@
   "AyuForwardForwardingDescription": "Please keep this window open while AyuGram is forwarding your messages.",
   "AyuForwardLoadingMediaDescription": "Please keep this window open while AyuGram is downloading media from your messages.",
 
+  "ExpireMediaContextMenuText": "Burn",
   "ExpiringVoiceMessageNote": "This voice message can be played as many times as you want.",
 
   "UserNotFoundMessage": "User not found.",
