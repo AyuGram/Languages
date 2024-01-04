@@ -189,6 +189,8 @@
   "AyuForwardStatusLoadingMedia": "加载媒体…",
   "AyuForwardForwardingDescription": "AyuGram 转发您的消息时，请保持此窗口打开。",
   "AyuForwardLoadingMediaDescription": "AyuGram 从您的消息下载媒体时，请保持此窗口打开。",
+  "ExpireMediaContextMenuText": "Burn",
+  "ExpiringVoiceMessageNote": "This voice message can be played as many times as you want.",
   "UserNotFoundMessage": "User not found.",
   "DeleteDateMenuText": "删除日期",
   "ReadDateMenuText": "阅读日期",
