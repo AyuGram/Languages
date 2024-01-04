@@ -189,6 +189,8 @@
   "AyuForwardStatusLoadingMedia": "Cargando multimedia…",
   "AyuForwardForwardingDescription": "Por favor, mantén esta ventana abierta mientras AyuGram reenvía tus mensajes.",
   "AyuForwardLoadingMediaDescription": "Por favor, mantén esta ventana abierta mientras AyuGram está descargando la multimedia de tus mensajes.",
+  "ExpireMediaContextMenuText": "Burn",
+  "ExpiringVoiceMessageNote": "This voice message can be played as many times as you want.",
   "UserNotFoundMessage": "User not found.",
   "DeleteDateMenuText": "Eliminar fecha",
   "ReadDateMenuText": "Fecha de lectura",
