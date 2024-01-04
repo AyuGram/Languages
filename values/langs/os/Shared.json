@@ -189,6 +189,8 @@
   "AyuForwardStatusLoadingMedia": "Файлты ӕвгӕд…",
   "AyuForwardForwardingDescription": "Ма сӕхгӕн AyuGram, цалынмӕ цӕуы фыстӕджыты рарвыст.",
   "AyuForwardLoadingMediaDescription": "Ма сӕхгӕн AyuGram, цалынмӕ цӕуы файлты арбавгӕд.",
+  "ExpireMediaContextMenuText": "Burn",
+  "ExpiringVoiceMessageNote": "This voice message can be played as many times as you want.",
   "UserNotFoundMessage": "User not found.",
   "DeleteDateMenuText": "Схафты датӕ",
   "ReadDateMenuText": "Read Date",
