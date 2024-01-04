@@ -189,6 +189,8 @@
   "AyuForwardStatusLoadingMedia": "جار تحميل الوسائط ...",
   "AyuForwardForwardingDescription": "الرجاء إبقاء هذه النافذة مفتوحة بينما يقوم ayuGram بإعادة توجيه رسائلك.",
   "AyuForwardLoadingMediaDescription": "الرجاء إبقاء هذه النافذة مفتوحة بينما يقوم ayuGram بإعادة توجيه رسائلك.",
+  "ExpireMediaContextMenuText": "Burn",
+  "ExpiringVoiceMessageNote": "This voice message can be played as many times as you want.",
   "UserNotFoundMessage": "User not found.",
   "DeleteDateMenuText": "تاريخ الحذف",
   "ReadDateMenuText": "Read Date",
