@@ -5,6 +5,11 @@ from lxml import etree as et
 import json
 import os.path
 
+mappings = {
+    'zh-hans': 'zh-rCN',
+    'zh-hant': 'zh-rTW'
+}
+
 if not os.path.exists('./values'):
     os.chdir('../')
 
@@ -38,6 +43,7 @@ for lang in langs:
 
     tree = et.ElementTree(root)
 
+    lang = mappings.get(lang, lang)
     suffix = f'-{lang}' if lang != 'en' else ''
 
     if not os.path.exists(f'./out/android/values{suffix}'):
