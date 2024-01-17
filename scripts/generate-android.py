@@ -5,21 +5,16 @@ from lxml import etree as et
 import json
 import os.path
 
+mappings = {
+    'zh-hans': 'zh-rCN',
+    'zh-hant': 'zh-rTW'
+}
+
 if not os.path.exists('./values'):
     os.chdir('../')
 
-langs = [
-    'ar',
-    'be',
-    'de',
-    'en',
-    'es',
-    'fa',
-    'pt',
-    'ru',
-    'tr',
-    'uk'
-]
+langs = [f for f in os.listdir('./values/langs') if os.path.isdir(f'./values/langs/{f}')]
+langs.sort()
 
 if not os.path.exists('./out'):
     os.mkdir('./out')
@@ -37,17 +32,18 @@ for lang in langs:
         if k + '_Android' in strings:
             continue
 
-        if k.endswith('_Desktop'):
-            continue
-
         if k.endswith('_Android'):
             k = k.replace('_Android', '')
+
+        if k == 'HideAllChats':
+            continue
 
         string = et.SubElement(root, 'string', {'name': k})
         string.text = v.replace('\'', '\\\'')
 
     tree = et.ElementTree(root)
 
+    lang = mappings.get(lang, lang)
     suffix = f'-{lang}' if lang != 'en' else ''
 
     if not os.path.exists(f'./out/android/values{suffix}'):
