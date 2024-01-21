@@ -234,6 +234,14 @@
   "FontDefault": "Default",
   "CustomizeFontTitle": "Customize font",
 
+  "MessageShotTopBarText": "Shot",
+  "MessageShotCopy": "Copy",
+  "MessageShotSave": "Save",
+  "MessageShotTheme": "Theme",
+  "MessageShotThemeDefault": "Default",
+  "MessageShotShowDate": "Show date",
+  "MessageShotShowReactions": "Show reactions",
+
   "AyuForwardStatusForwarding": "Forwarding messages…",
   "AyuForwardStatusLoadingMedia": "Loading media…",
   "AyuForwardForwardingDescription": "Please keep this window open while AyuGram is forwarding your messages.",
