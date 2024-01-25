@@ -239,8 +239,10 @@
   "MessageShotSave": "Save",
   "MessageShotTheme": "Theme",
   "MessageShotThemeDefault": "Default",
+  "MessageShotThemeSelectTitle": "Select message theme",
   "MessageShotShowDate": "Show date",
   "MessageShotShowReactions": "Show reactions",
+  "MessageShotShowColorfulReplies": "Show colorful replies",
 
   "AyuForwardStatusForwarding": "Forwarding messages…",
   "AyuForwardStatusLoadingMedia": "Loading media…",
