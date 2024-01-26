@@ -247,6 +247,8 @@
   "MessageShotShowReactions": "Show reactions",
   "MessageShotShowColorfulReplies": "Show colorful replies",
 
+  "SendAsSticker": "Send as Sticker",
+
   "AyuForwardStatusForwarding": "Forwarding messages…",
   "AyuForwardStatusLoadingMedia": "Loading media…",
   "AyuForwardForwardingDescription": "Please keep this window open while AyuGram is forwarding your messages.",
