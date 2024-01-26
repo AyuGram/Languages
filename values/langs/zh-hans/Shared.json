@@ -208,6 +208,7 @@
   "MessageShotShowDate": "Show date",
   "MessageShotShowReactions": "Show reactions",
   "MessageShotShowColorfulReplies": "Show colorful replies",
+  "SendAsSticker": "Send as Sticker",
   "AyuForwardStatusForwarding": "正在转发消息…",
   "AyuForwardStatusLoadingMedia": "加载媒体…",
   "AyuForwardForwardingDescription": "AyuGram 转发您的消息时，请保持此窗口打开。",
