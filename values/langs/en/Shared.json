@@ -191,6 +191,7 @@
 
   "PeekOnlineMenuText": "Peek Online",
   "ClearDeletedMenuText": "Clear Deleted",
+  "ViewDeletedMenuText": "View Deleted",
   "ViewFiltersMenuText": "View Filters",
 
   "PeekOnlineSuccess": "Peeked via",
@@ -243,6 +244,8 @@
   "MessageShotThemeDefault": "Default",
   "MessageShotThemeSelectTitle": "Select message theme",
   "MessageShotThemeApply": "Apply",
+  "MessageShotBackground": "Background",
+  "MessageShotBackgroundSelected": "Selected",
   "MessageShotShowDate": "Show date",
   "MessageShotShowReactions": "Show reactions",
   "MessageShotShowColorfulReplies": "Show colorful replies",
