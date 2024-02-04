@@ -232,6 +232,7 @@
   "IDCopiedToast": "ID đã được sao chép vào bộ nhớ tạm",
   "ContextHideMessage": "Ẩn",
   "ContextCopyCallbackData": "Copy Callback Data",
+  "RegisterURLScheme": "Register URL scheme",
   "LocalPremiumNotice": "You're using **local** Telegram Premium.\nIt **won't** give you any benefits, except translator.\n**Enjoy the star near your nickname!**",
   "SettingsWatermark": "AyuGram được phát triển và duy trì bởi Radolyn Labs.",
   "SettingsDescription_Android": "Chỉ là một ứng dụng khách dựa trên exteraGram có lưu ý đến các tính năng đột phá của ToS.",
