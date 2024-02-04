@@ -232,6 +232,7 @@
   "IDCopiedToast": "ID copiado al portapapeles.",
   "ContextHideMessage": "Esconder",
   "ContextCopyCallbackData": "Copiar datos de llamada",
+  "RegisterURLScheme": "Register URL scheme",
   "LocalPremiumNotice": "Estás usando Telegram Premium **local**.\n**No** te dará ningún beneficio, excepto el traductor.\n**¡Disfruta de la estrella cerca de tu nombre!**",
   "SettingsWatermark": "AyuGram desarrollado y mantenido por Radolyn Labs.",
   "SettingsDescription_Android": "Solo un cliente basado en exteraGram con funciones que rompen ToS en mente.",
