@@ -62,6 +62,7 @@
   "ShowKllButtonInDrawer": "Show kill app button",
   "SettingsShowID": "Show peer ID",
   "SettingsShowID_Hide": "Hide",
+  "SettingsShowMessageShot": "Show message shot",
   "SettingsRecentStickersCount": "Recent stickers count",
   "SettingsCustomizationHint": "After making changes to the \"Customization\" section, you must restart the application.",
 
@@ -280,6 +281,8 @@
   "ContextHideMessage": "Hide",
 
   "ContextCopyCallbackData": "Copy Callback Data",
+
+  "RegisterURLScheme": "Register URL scheme",
 
   "LocalPremiumNotice": "You're using **local** Telegram Premium.\nIt **won't** give you any benefits, except translator.\n**Enjoy the star near your nickname!**",
 
