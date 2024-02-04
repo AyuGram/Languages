@@ -53,6 +53,7 @@
   "ShowKllButtonInDrawer": "Кнопка закрытия приложения",
   "SettingsShowID": "Показывать ID диалога",
   "SettingsShowID_Hide": "Скрыть",
+  "SettingsShowMessageShot": "Show message shot",
   "SettingsRecentStickersCount": "Количество недавних стикеров",
   "SettingsCustomizationHint": "После внесения изменений в раздел «Персонализация» необходимо перезапустить приложение.",
   "SettingsContextMenuTitle": "Выберите тип показа элемента",
