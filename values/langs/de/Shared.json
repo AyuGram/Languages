@@ -53,6 +53,7 @@
   "ShowKllButtonInDrawer": "\"App beenden\" - Taste",
   "SettingsShowID": "Peer-ID anzeigen",
   "SettingsShowID_Hide": "Verstecken",
+  "SettingsShowMessageShot": "Show message shot",
   "SettingsRecentStickersCount": "Anzahl verwendeter Sticker",
   "SettingsCustomizationHint": "Nachdem du Änderungen im Abschnitt \"Personalisieren\" vorgenommen hast, sollst du die Anwendung neu starten.",
   "SettingsContextMenuTitle": "Select item show type",
