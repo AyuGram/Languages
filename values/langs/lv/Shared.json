@@ -53,6 +53,7 @@
   "ShowKllButtonInDrawer": "Show kill app button",
   "SettingsShowID": "Show peer ID",
   "SettingsShowID_Hide": "Hide",
+  "SettingsShowMessageShot": "Show message shot",
   "SettingsRecentStickersCount": "Recent stickers count",
   "SettingsCustomizationHint": "After making changes to the \"Customization\" section, you must restart the application.",
   "SettingsContextMenuTitle": "Select item show type",
