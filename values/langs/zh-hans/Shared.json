@@ -232,6 +232,7 @@
   "IDCopiedToast": "ID 已复制到剪贴板",
   "ContextHideMessage": "隐藏",
   "ContextCopyCallbackData": "复制回调数据",
+  "RegisterURLScheme": "Register URL scheme",
   "LocalPremiumNotice": "你正在使用**本地**的Telegram高级版。\n它**不会**为你提供任何额外的好处，除了翻译功能。\n**享受你昵称旁边的星星吧！**",
   "SettingsWatermark": "AyuGram 由 Radolyn Labs 开发和维护。",
   "SettingsDescription_Android": "只是一个基于 exteraGram 的客户端，带有大量惊人功能。",
