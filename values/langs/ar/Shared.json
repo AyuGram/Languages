@@ -232,6 +232,7 @@
   "IDCopiedToast": "تم نسخ المعرف إلى الحافظة",
   "ContextHideMessage": "إخفاء ",
   "ContextCopyCallbackData": "Copy Callback Data",
+  "RegisterURLScheme": "Register URL scheme",
   "LocalPremiumNotice": "You're using **local** Telegram Premium.\nIt **won't** give you any benefits, except translator.\n**Enjoy the star near your nickname!**",
   "SettingsWatermark": "آيوغرام بواسطة كيرا، رادولين.",
   "SettingsDescription_Android": "فقط عميل يستند إلى ExteraGram مع وضع ميزات ToS في الحسبان.",
