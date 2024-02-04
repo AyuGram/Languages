@@ -53,6 +53,7 @@
   "ShowKllButtonInDrawer": "显示终止应用按钮",
   "SettingsShowID": "显示节点ID",
   "SettingsShowID_Hide": "隐藏",
+  "SettingsShowMessageShot": "Show message shot",
   "SettingsRecentStickersCount": "最近的贴纸计数",
   "SettingsCustomizationHint": "修改“自定义”部分后，您必须重启应用程序。",
   "SettingsContextMenuTitle": "选择项目显示类型",
