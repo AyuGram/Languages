@@ -232,6 +232,7 @@
   "IDCopiedToast": "ID баивды буфермӕ афӕзмыд.",
   "ContextHideMessage": "Бабмӕхс",
   "ContextCopyCallbackData": "Copy Callback Data",
+  "RegisterURLScheme": "Register URL scheme",
   "LocalPremiumNotice": "You're using **local** Telegram Premium.\nIt **won't** give you any benefits, except translator.\n**Enjoy the star near your nickname!**",
   "SettingsWatermark": "AyuGram бакуыста ӕмӕ цары Radolyn Labs.",
   "SettingsDescription_Android": "Дӕлӕмӕдӕр ӕмӕ уӕлӕмӕдӕр exteraGram'ы бындурыл клиент тобӕгонд функционалимӕ.",
