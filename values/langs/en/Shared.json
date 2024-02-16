@@ -55,7 +55,12 @@
 
   "CustomizationHeader": "Customization",
   "DeletedMarkText": "Deleted mark",
+  "DeletedMarkNothing": "Nothing",
+  "DeletedMarkTrashBin": "Trash Bin",
+  "DeletedMarkCross": "Cross",
+  "DeletedMarkEyeCrossed": "Eye crossed",
   "EditedMarkText": "Edited mark",
+  "SemiTransparentDeletedMessages": "Semi-transparent deleted messages",
   "HideNotificationCounters": "Hide notification counters",
   "HideAllChats": "Hide \"All chats\" folder",
   "ShowGhostToggleInDrawer": "Show ghost mode toggle",
