@@ -41,6 +41,7 @@
   "KeepAliveService": "Serviço de Push AyuGram",
   "DisableAds": "Desativar anúncios",
   "DisableStories": "Desativar stories",
+  "DisableCustomBackgrounds": "Disable custom backgrounds",
   "DisableNotificationsDelay": "Desativar atraso de notificação",
   "LocalPremium": "Premium do Telegram local",
   "CopyUsernameAsLink": "Copiar nome de usuário como link",
