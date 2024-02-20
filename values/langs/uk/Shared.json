@@ -41,6 +41,7 @@
   "KeepAliveService": "Push-сервіс AyuGram",
   "DisableAds": "Вимкнути рекламу",
   "DisableStories": "Вимкнути історії",
+  "DisableCustomBackgrounds": "Disable custom backgrounds",
   "DisableNotificationsDelay": "Вимкнути затримку сповіщень",
   "LocalPremium": "Локальний Telegram Преміум",
   "CopyUsernameAsLink": "Копіювати ім'я користувача як посилання",
