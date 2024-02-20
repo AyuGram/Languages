@@ -41,6 +41,7 @@
   "KeepAliveService": "Im Hintergrund laufen lassen",
   "DisableAds": "Werbung deaktivieren",
   "DisableStories": "Geschichten deaktivieren",
+  "DisableCustomBackgrounds": "Disable custom backgrounds",
   "DisableNotificationsDelay": "Benachrichtigungsverzögerung deaktivieren",
   "LocalPremium": "Lokale Telegram Premium",
   "CopyUsernameAsLink": "Benutzernamen als Link kopieren",
