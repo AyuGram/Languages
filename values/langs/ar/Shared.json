@@ -41,6 +41,7 @@
   "KeepAliveService": "خدمة دفع ايوجرام",
   "DisableAds": "إخفاء الإعلانات",
   "DisableStories": "إخفاء القصص",
+  "DisableCustomBackgrounds": "Disable custom backgrounds",
   "DisableNotificationsDelay": "تعطيل تأخير الإشعارات",
   "LocalPremium": "تفعيل الإصدار المدفوع من تيليجرام (بعض المميزات)",
   "CopyUsernameAsLink": "نسخ الاسم المستخدم كرابط",
