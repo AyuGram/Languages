@@ -41,6 +41,7 @@
   "KeepAliveService": "AyuGram 推送服务",
   "DisableAds": "禁用广告",
   "DisableStories": "禁用动态",
+  "DisableCustomBackgrounds": "Disable custom backgrounds",
   "DisableNotificationsDelay": "禁用通知延迟",
   "LocalPremium": "本地 Telegram 高级版",
   "CopyUsernameAsLink": "复制用户名为链接",
