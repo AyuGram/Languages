@@ -41,6 +41,7 @@
   "KeepAliveService": "AyuGram bildirim hizmeti",
   "DisableAds": "Reklamları devre dışı bırak",
   "DisableStories": "Hikayeleri devre dışı bırak",
+  "DisableCustomBackgrounds": "Disable custom backgrounds",
   "DisableNotificationsDelay": "Bildirim gecikmesini devre dışı bırak",
   "LocalPremium": "Yerel telegram premium",
   "CopyUsernameAsLink": "Kullanıcı adını bağlantı olarak kopyala",
