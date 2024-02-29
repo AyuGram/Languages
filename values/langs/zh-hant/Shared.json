@@ -12,6 +12,7 @@
   "MarkReadAfterReaction": "回應",
   "MarkReadAfterPoll": "調查",
   "UseScheduledMessages": "定時訊息",
+  "SendWithoutSoundByDefault": "Send without sound",
   "SuggestGhostModeBeforeViewingStory": "打開動態前警告",
   "SpyEssentialsHeader": "間諜必要值",
   "SaveDeletedMessages": "保留已刪除的訊息",
