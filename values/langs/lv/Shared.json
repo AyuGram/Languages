@@ -12,6 +12,7 @@
   "MarkReadAfterReaction": "Reaction",
   "MarkReadAfterPoll": "Poll",
   "UseScheduledMessages": "Schedule messages",
+  "SendWithoutSoundByDefault": "Send without sound",
   "SuggestGhostModeBeforeViewingStory": "Alert before opening story",
   "SpyEssentialsHeader": "Spy essentials",
   "SaveDeletedMessages": "Save deleted messages",
