@@ -12,6 +12,7 @@
   "MarkReadAfterReaction": "تفاعل",
   "MarkReadAfterPoll": "إستفتاء",
   "UseScheduledMessages": "جدولة الرسائل",
+  "SendWithoutSoundByDefault": "Send without sound",
   "SuggestGhostModeBeforeViewingStory": "تنبيه قبل فتح القصة",
   "SpyEssentialsHeader": "الرسائل المعدلة والمحذوفة",
   "SaveDeletedMessages": "الاحتفاظ بالرسائل المحذوفة",
