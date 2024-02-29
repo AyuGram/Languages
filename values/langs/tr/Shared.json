@@ -12,6 +12,7 @@
   "MarkReadAfterReaction": "Tepki bıraktıktan sonra",
   "MarkReadAfterPoll": "Anket oyladıktan sonra",
   "UseScheduledMessages": "Mesajları planla",
+  "SendWithoutSoundByDefault": "Send without sound",
   "SuggestGhostModeBeforeViewingStory": "Hikayeyi açmadan önce uyar",
   "SpyEssentialsHeader": "Casusluk temelleri",
   "SaveDeletedMessages": "Silinen mesajları kaydet",
