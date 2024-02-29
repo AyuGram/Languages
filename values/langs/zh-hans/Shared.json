@@ -12,6 +12,7 @@
   "MarkReadAfterReaction": "回应",
   "MarkReadAfterPoll": "投票",
   "UseScheduledMessages": "定时发送消息",
+  "SendWithoutSoundByDefault": "Send without sound",
   "SuggestGhostModeBeforeViewingStory": "打开动态前警告",
   "SpyEssentialsHeader": "间谍必要值",
   "SaveDeletedMessages": "保留已删除的消息",
