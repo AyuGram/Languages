@@ -12,6 +12,7 @@
   "MarkReadAfterReaction": "При реакции",
   "MarkReadAfterPoll": "При голосе",
   "UseScheduledMessages": "Использовать отложку",
+  "SendWithoutSoundByDefault": "Send without sound",
   "SuggestGhostModeBeforeViewingStory": "Алерт перед открытием сторис",
   "SpyEssentialsHeader": "Режим шпиона",
   "SaveDeletedMessages": "Сохранять удалённые сообщения",
