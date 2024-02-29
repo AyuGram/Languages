@@ -12,6 +12,7 @@
   "MarkReadAfterReaction": "Reacción",
   "MarkReadAfterPoll": "Encuesta",
   "UseScheduledMessages": "Programar mensajes",
+  "SendWithoutSoundByDefault": "Send without sound",
   "SuggestGhostModeBeforeViewingStory": "Alerta antes de abrir una historia",
   "SpyEssentialsHeader": "Esenciales de espionaje",
   "SaveDeletedMessages": "Guardar mensajes borrados",
