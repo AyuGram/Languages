@@ -342,8 +342,8 @@
   "DeleteDateMenuText": "Delete Date",
   "ReadDateMenuText": "Read Date",
   "ContentsReadDateMenuText": "Contents Read Date",
-  "ForwardableMenuText": "Forwardable",
-  "ForwardableMenuTextNo": "No",
+
+  "UnforwardableContextMenuText": "Plain forwarding is not allowed.",
 
   "LikelyOfflineStatus": "offline ?",
 
