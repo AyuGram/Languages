@@ -287,7 +287,7 @@
   "DeleteDateMenuText": "Дата удаления",
   "ReadDateMenuText": "Дата прочтения",
   "ContentsReadDateMenuText": "Дата прочтения содержимого",
-  "UnforwardableContextMenuText": "Plain forwarding is not allowed.",
+  "UnforwardableContextMenuText": "Обычная пересылка запрещена.",
   "LikelyOfflineStatus": "офлайн ?",
   "GhostModeShortcut": "Войти с призраком",
   "SettingsShowMessageSeconds": "Показывать секунды у сообщений",
