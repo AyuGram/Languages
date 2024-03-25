@@ -287,7 +287,7 @@
   "DeleteDateMenuText": "删除日期",
   "ReadDateMenuText": "阅读日期",
   "ContentsReadDateMenuText": "内容阅读日期",
-  "UnforwardableContextMenuText": "Plain forwarding is not allowed.",
+  "UnforwardableContextMenuText": "不允许直接转发。",
   "LikelyOfflineStatus": "离线？",
   "GhostModeShortcut": "以幽灵模式进入",
   "SettingsShowMessageSeconds": "显示消息的秒",
