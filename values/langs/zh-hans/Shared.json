@@ -37,7 +37,7 @@
   "MaximumMediaSizeWiFi": "媒体大小限制 (WiFi)",
   "MessageSavingOtherHeader": "其他",
   "MessageSavingSaveReactions": "保存反应",
-  "MessageSavingSaveForBots": "保存在机器人对话记录中",
+  "MessageSavingSaveForBots": "保存 Bot 对话记录",
   "MessageSavingSavePath": "附件文件夹",
   "MessageSavingSavePathTitle": "选择文件夹",
   "SpySaveReadMarks": "保存阅读日期",
