@@ -1,5 +1,5 @@
 {
-  "AyuPreferences": "التفضيلات",
+  "AyuPreferences": "تفضيلات أيوجرام",
   "DocsText": "تَوْثِيقْ",
   "CategoryGhostMode": "وضع الشبح 👻",
   "CategorySpy": "التجسس",
@@ -224,16 +224,16 @@
   "StreamerModeToggle": "وضع البث",
   "EnableStreamerModeTray": "تمكين وضع البث",
   "DisableStreamerModeTray": "تعطيل وضع البث",
-  "EditsHistoryTitle": "Edits History",
+  "EditsHistoryTitle": "سِجِلّ التعديلات",
   "EditsHistoryMenuText": "المحفوظات",
   "PeekOnlineMenuText": "متصل الآن",
   "ClearDeletedMenuText": "مسح المحذوفة",
   "ViewDeletedMenuText": "مشاهدة محذوفة",
   "ViewFiltersMenuText": "عرض الفلاتر",
-  "PeekOnlineSuccess": "Peeked via",
-  "OneViewTTL": "one view",
-  "OnePlayTTL": "one play",
-  "UserMessagesMenuText": "User Messages",
+  "PeekOnlineSuccess": "خروج عبر",
+  "OneViewTTL": "مشاهدة واحدة",
+  "OnePlayTTL": "مشغل واحد",
+  "UserMessagesMenuText": "رسائل المستخدم",
   "ReadUntilMenuText": "قراءة الرسائل",
   "DeleteKeepLocally": "الاحتفاظ بها محليًا",
   "BoxActionReset": "إعادة تعيين",
@@ -243,22 +243,22 @@
   "ClearDeletedMessagesText": "هل أنت متأكد من أنك تريد مسح جميع الرسائل المحذوفة في هذه المحادثة؟",
   "ClearDeletedMessagesActionText": "مسح",
   "SuggestGhostModeTitle": "وضع الشبح 👻",
-  "SuggestGhostModeStoryText": "Do you want to enable **Ghost Mode** before viewing the story?",
-  "SuggestGhostModeStoryActionTextYes": "Yes",
-  "SuggestGhostModeStoryActionTextNo": "No",
+  "SuggestGhostModeStoryText": "هل تريد تمكين وضع الشبح قبل مشاهدة القصة؟",
+  "SuggestGhostModeStoryActionTextYes": "نعم",
+  "SuggestGhostModeStoryActionTextNo": "لا",
   "HideNextViewsDescriptionAyu": "إخفاء مشاهدتي إلى الأبد، حتى يتم تعطيل وضع الشبح.",
   "EnableGhostModeStories": "تفعيل وضع الشبح 👻",
   "GhostModeIsActive": "وضع الشبح نشط",
-  "SimpleQuotesAndReplies": "Disable Colorful Replies",
-  "DisableSimilarChannels": "Disable Similar Channels",
-  "CollapseSimilarChannels": "Collapse Similar Channels",
-  "HideSimilarChannelsTab": "Hide Similar Channels Tab",
-  "UploadSpeedBoostPC": "Upload Speed Boost",
-  "MainFont": "Application Font",
-  "MonospaceFont": "Monospace Font",
+  "SimpleQuotesAndReplies": "تعطيل الردود الملونة",
+  "DisableSimilarChannels": "تعطيل قنوات مماثلة",
+  "CollapseSimilarChannels": "طي قنوات مماثلة",
+  "HideSimilarChannelsTab": "إخفاء تبويب القنوات المشابهة",
+  "UploadSpeedBoostPC": "زيادة سرعة رفع الملفات",
+  "MainFont": "خط التطبيق",
+  "MonospaceFont": "خط Monospace",
   "FontDefault": "الافتراضي",
-  "CustomizeFontTitle": "Customize Font",
-  "MessageShotTopBarText": "Shot",
+  "CustomizeFontTitle": "خط مخصص",
+  "MessageShotTopBarText": "اطلق",
   "MessageShotPreview": "معاينة",
   "MessageShotPreferences": "التفضيلات",
   "MessageShotCopy": "نسخ",
@@ -276,31 +276,31 @@
   "AyuForwardStatusLoadingMedia": "جار تحميل الوسائط ...",
   "AyuForwardForwardingDescription": "الرجاء إبقاء هذه النافذة مفتوحة بينما يقوم ayuGram بإعادة توجيه رسائلك.",
   "AyuForwardLoadingMediaDescription": "الرجاء إبقاء هذه النافذة مفتوحة بينما يقوم ayuGram بإعادة توجيه رسائلك.",
-  "ExpireMediaContextMenuText": "Burn",
-  "ExpiringVoiceMessageNote": "This voice message can be played as many times as you want.",
+  "ExpireMediaContextMenuText": "حرق",
+  "ExpiringVoiceMessageNote": "يمكن تشغيل هذه الرسالة الصوتية أكثر من مرة كما تريد.",
   "ExpiringVideoMessageNote": "يمكن تشغيل رسالة الفيديو هذه بقدر ما تريد من المرات.",
-  "UserNotFoundMessage": "User not found.",
+  "UserNotFoundMessage": "لم يتم العثور على المستخدم.",
   "DeleteDateMenuText": "تاريخ الحذف",
-  "ReadDateMenuText": "Read Date",
-  "ContentsReadDateMenuText": "Contents Read Date",
+  "ReadDateMenuText": "تاريخ القراءة",
+  "ContentsReadDateMenuText": "تاريخ قراءة المحتوى",
   "UnforwardableContextMenuText": "إعادة التحويل الصريح غير مسموح.",
   "LikelyOfflineStatus": "غير متصل؟",
   "GhostModeShortcut": "ادخل في وضع الشبح",
-  "SettingsShowMessageSeconds": "Show Message Seconds",
+  "SettingsShowMessageSeconds": "إظهار ثواني الرسالة",
   "ContextCopyID": "نسخ المعرف الشخصي",
   "IDCopiedToast": "تم نسخ المعرف إلى الحافظة",
   "ContextHideMessage": "إخفاء ",
-  "ContextCopyCallbackData": "Copy Callback Data",
-  "RegisterURLScheme": "Register URL Scheme",
-  "LocalPremiumNotice": "You're using **local** Telegram Premium.\nIt **won't** give you any benefits, except translator.\n**Enjoy the star near your nickname!**",
+  "ContextCopyCallbackData": "نسخ معلومات معاودة الاتصال",
+  "RegisterURLScheme": "نظام تسجيل URL",
+  "LocalPremiumNotice": "أنت تستعمل الإصدار المدفوع من تيليجرام لكن فقط المميزات المحلية التي لا تسمل أي مِيزة مدفوعة باستثناء المترجم\nاستمتع بالنجوم بالقرب من اسمك ",
   "SettingsWatermark": "آيوغرام بواسطة كيرا، رادولين.",
   "SettingsDescription_Android": "فقط عميل يستند إلى ExteraGram مع وضع ميزات ToS في الحسبان.",
   "SecretMessageTecno_Android": "هواتف التيكنو هي الأفضل.",
   "SecretMessageXiaomiSuccess_Android": "أنت تستخدم هاتفًا جيداً.",
   "SecretMessageXiaomiWarning_Android": "اشتري بيكسل، لا تقلل من شياومي.",
   "SecretMessageXiaomiFailure_Android": "تثبيت ROM مخصص.",
-  "SecretMessageNekogram_Android": "Sorry, but it's not Nekogram.",
-  "ConfirmationSticker": "Do you want to send this sticker?",
+  "SecretMessageNekogram_Android": "عذراً، لكنه ليس نيكوغرام.",
+  "ConfirmationSticker": "هل تريد إرسال هذا الملصق؟",
   "ConfirmationGIF": "هل تريد إرسال GIF؟",
   "ConfirmationVoice": "هل تريد إرسال هذه الرسالة الصوتية؟",
   "IntroAbout": "أهلا في ايو جرام",
