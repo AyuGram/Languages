@@ -89,6 +89,11 @@
   "DrawerElementsHeader": "Drawer Elements",
   "TrayElementsHeader": "Tray Elements",
 
+  "SettingsSpoofWebviewAsAndroid": "Spoof Client as Android",
+  "SettingsBiggerWindow": "Bigger Window",
+  "SettingsIncreaseWebviewHeight": "Increase Content Height",
+  "SettingsIncreaseWebviewWidth": "Increase Content Width",
+
   "ExportDataTitle": "Export AyuGram Database?",
   "ExportDataDescription": "It will be exported to the public folder, to Saved Attachments.",
   "ExportDataConfirm": "Yes, export",
