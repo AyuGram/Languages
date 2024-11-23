@@ -87,6 +87,7 @@
   "MessageFieldElementVoice": "Voice",
   "DrawerElementsHeader": "Éléments du tiroir",
   "TrayElementsHeader": "Éléments de la zone de notification",
+  "SettingsWideMultiplier": "Wide Messages Multiplier",
   "SettingsSpoofWebviewAsAndroid": "Usurper l'identité du client en tant qu'Android",
   "SettingsBiggerWindow": "Fenêtre plus grande",
   "SettingsIncreaseWebviewHeight": "Augmenter la hauteur du contenu",
