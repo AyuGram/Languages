@@ -87,6 +87,7 @@
   "MessageFieldElementVoice": "Voice",
   "DrawerElementsHeader": "Елементи меню",
   "TrayElementsHeader": "Склад лотка",
+  "SettingsWideMultiplier": "Wide Messages Multiplier",
   "SettingsSpoofWebviewAsAndroid": "Імітувати Android",
   "SettingsBiggerWindow": "Збільшене вікно",
   "SettingsIncreaseWebviewHeight": "Збільшити висоту контенту",
