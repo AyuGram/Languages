@@ -87,6 +87,7 @@
   "MessageFieldElementVoice": "Voice",
   "DrawerElementsHeader": "Çekmece öğeleri",
   "TrayElementsHeader": "Çekmece öğeleri",
+  "SettingsWideMultiplier": "Wide Messages Multiplier",
   "SettingsSpoofWebviewAsAndroid": "İstemciyi Android olarak taklit et",
   "SettingsBiggerWindow": "Daha büyük pencere",
   "SettingsIncreaseWebviewHeight": "İçerik yüksekliğini artır",
