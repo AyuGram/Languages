@@ -87,6 +87,7 @@
   "MessageFieldElementVoice": "语音",
   "DrawerElementsHeader": "菜单项",
   "TrayElementsHeader": "菜单项",
+  "SettingsWideMultiplier": "Wide Messages Multiplier",
   "SettingsSpoofWebviewAsAndroid": "伪装客户端为 Android",
   "SettingsBiggerWindow": "更大的窗口",
   "SettingsIncreaseWebviewHeight": "增加内容高度",
