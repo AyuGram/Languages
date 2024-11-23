@@ -87,6 +87,7 @@
   "MessageFieldElementVoice": "Voice",
   "DrawerElementsHeader": "אלמנטים למגירה",
   "TrayElementsHeader": "רכיבי מגש",
+  "SettingsWideMultiplier": "Wide Messages Multiplier",
   "SettingsSpoofWebviewAsAndroid": "לקוח זיוף כאנדרואיד",
   "SettingsBiggerWindow": "חלון גדול יותר",
   "SettingsIncreaseWebviewHeight": "הגדל את גובה התוכן",
