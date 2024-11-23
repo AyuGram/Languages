@@ -87,6 +87,7 @@
   "MessageFieldElementVoice": "Voice",
   "DrawerElementsHeader": "Στοιχεία Συρταριού",
   "TrayElementsHeader": "Στοιχεία Συρταριού Γραμμής Εργασιών",
+  "SettingsWideMultiplier": "Wide Messages Multiplier",
   "SettingsSpoofWebviewAsAndroid": "Παραποίηση προγράμματος ως Android",
   "SettingsBiggerWindow": "Μεγαλύτερο παράθυρο",
   "SettingsIncreaseWebviewHeight": "Αύξηση Ύψους Περιεχομένου",
