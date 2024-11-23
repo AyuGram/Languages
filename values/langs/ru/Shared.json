@@ -87,6 +87,7 @@
   "MessageFieldElementVoice": "Запись голосового сообщения",
   "DrawerElementsHeader": "Боковое меню",
   "TrayElementsHeader": "Трей",
+  "SettingsWideMultiplier": "Wide Messages Multiplier",
   "SettingsSpoofWebviewAsAndroid": "Подменять платформу как Android",
   "SettingsBiggerWindow": "Увеличить размер окна",
   "SettingsIncreaseWebviewHeight": "Увеличить высоту",
