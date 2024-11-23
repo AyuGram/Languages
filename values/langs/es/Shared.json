@@ -87,6 +87,7 @@
   "MessageFieldElementVoice": "Voice",
   "DrawerElementsHeader": "Elementos del cajón",
   "TrayElementsHeader": "Elementos de bandeja",
+  "SettingsWideMultiplier": "Wide Messages Multiplier",
   "SettingsSpoofWebviewAsAndroid": "Spoof Client as Android",
   "SettingsBiggerWindow": "Bigger Window",
   "SettingsIncreaseWebviewHeight": "Increase Content Height",
