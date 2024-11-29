@@ -17,7 +17,7 @@
   "MarkReadAfterReaction": "تفاعل",
   "MarkReadAfterPoll": "إستفتاء",
   "UseScheduledMessages": "الرسائل المجدولة",
-  "UseScheduledMessagesDescription": "جدولة الرسائل الصادرة تلقائياً ل ~12 ثانية، وأكثر من ذلك للإعلام. لا تستخدم على الشبكات السيئة.",
+  "UseScheduledMessagesDescription": "Automatically schedules outgoing messages for ~12 seconds, and more for media. Sending messages this way, you won't appear online.\nDon't use on bad networks.",
   "SendWithoutSoundByDefault": "إرسال بدون صوت",
   "SendWithoutSoundByDefaultDescription": "يرسل تلقائياً رسائل صادرة بدون صوت.",
   "SuggestGhostModeBeforeViewingStory": "تنبيه وضع الشبح للقصة",
@@ -49,6 +49,7 @@
   "DisableCustomBackgrounds": "تعطيل الخلفيات المخصصة",
   "DisableNotificationsDelay": "تعطيل تأخير الإشعارات",
   "LocalPremium": "تفعيل الإصدار المدفوع من تيليجرام (بعض المميزات)",
+  "DisplayGhostStatus": "Display Ghost Mode Status",
   "CopyUsernameAsLink": "نسخ الاسم المستخدم كرابط",
   "CustomizationHeader": "التخصيص",
   "DeletedMarkText": "الأيقونة الدالة على حذف الرسالة",
@@ -239,6 +240,10 @@
   "DisableGhostModeTray": "تعطيل وضع الشبح",
   "GhostModeEnabled": "تم تفعيل وضع الشبح 👻",
   "GhostModeDisabled": "تم إيقاف وضع الشبح 👻",
+  "GhostModeGlobalSettings": "Global Settings",
+  "GhostModeGlobalSettingsDescription": "Same for all accounts",
+  "GhostModeSwitchedToGlobalSettings": "Switched to same settings for all accounts.",
+  "GhostModeSwitchedToIndividualSettings": "Switched to individual settings for each account.",
   "StreamerModeToggle": "وضع البث",
   "EnableStreamerModeTray": "تمكين وضع البث",
   "DisableStreamerModeTray": "تعطيل وضع البث",
@@ -269,7 +274,7 @@
   "ClearTelegramDatabaseWarning": "Are you sure you want to clear the **Telegram internal database**? This action cannot be undone.",
   "HideNextViewsDescriptionAyu": "إخفاء مشاهدتي إلى الأبد، حتى يتم تعطيل وضع الشبح.",
   "EnableGhostModeStories": "تفعيل وضع الشبح 👻",
-  "GhostModeIsActive": "وضع الشبح نشط",
+  "GhostModeIsActive": "Ghost Mode is Active",
   "SimpleQuotesAndReplies": "تعطيل الردود الملونة",
   "DisableSimilarChannels": "تعطيل قنوات مماثلة",
   "CollapseSimilarChannels": "طي قنوات مماثلة",
@@ -316,7 +321,9 @@
   "ContextHideMessage": "إخفاء ",
   "ContextCopyCallbackData": "نسخ معلومات معاودة الاتصال",
   "RegisterURLScheme": "نظام تسجيل URL",
-  "LocalPremiumNotice": "أنت تستعمل الإصدار المدفوع من تيليجرام لكن فقط المميزات المحلية التي لا تسمل أي مِيزة مدفوعة باستثناء المترجم\nاستمتع بالنجوم بالقرب من اسمك ",
+  "LocalPremiumNotice_PC": "You're using **local** Telegram Premium.\nIt **won't** give you any benefits.\n**Enjoy the star near your nickname!**",
+  "LocalPremiumNotice_Android": "You're using **local** Telegram Premium.\nYou may use it for a rate-limited translator and some **local** Telegram Premium stuff.",
+  "LocalPremiumAlert": "With local Telegram Premium you won't have increased limits and won't be able to send animated emojis. Other users won't see your premium emoji and quote color.",
   "SettingsWatermark": "آيوغرام بواسطة كيرا، رادولين.",
   "SettingsDescription_Android": "فقط عميل يستند إلى ExteraGram مع وضع ميزات ToS في الحسبان.",
   "SecretMessageTecno_Android": "هواتف التيكنو هي الأفضل.",
