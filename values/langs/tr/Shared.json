@@ -138,6 +138,7 @@
   "RegexFilterQuickAdd": "Filtre ekle",
   "RegexFilterBulletinText": "Filtre **Paylaşılan filtreler** sekmesine eklendi.",
   "RegexFilterBulletinAction": "Mevcut sohbete",
+  "RegexFiltersListEmpty": "No filters here yet.",
   "FiltersMenuSelectChat": "Sohbet seç",
   "FiltersMenuImport": "İçe aktar",
   "FiltersMenuExport": "Dışa aktar",
