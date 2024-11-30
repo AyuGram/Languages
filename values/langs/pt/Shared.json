@@ -138,6 +138,7 @@
   "RegexFilterQuickAdd": "Adicionar filtro",
   "RegexFilterBulletinText": "Filtro adicionado aos **Filtros Compartilhados**.",
   "RegexFilterBulletinAction": "Para o chat atual",
+  "RegexFiltersListEmpty": "No filters here yet.",
   "FiltersMenuSelectChat": "Selecione um Chat",
   "FiltersMenuImport": "Importar",
   "FiltersMenuExport": "Exportar",
