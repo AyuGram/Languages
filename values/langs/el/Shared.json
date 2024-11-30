@@ -138,6 +138,7 @@
   "RegexFilterQuickAdd": "Προσθήκη Φίλτρου",
   "RegexFilterBulletinText": "Το φίλτρο προστέθηκε στα **Κοινόχρηστα φίλτρα**.",
   "RegexFilterBulletinAction": "Στην Τρέχουσα Συνομιλία",
+  "RegexFiltersListEmpty": "No filters here yet.",
   "FiltersMenuSelectChat": "Επιλέξτε Συνομιλία",
   "FiltersMenuImport": "Εισαγωγή",
   "FiltersMenuExport": "Εξαγωγή",
