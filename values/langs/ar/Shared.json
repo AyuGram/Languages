@@ -138,6 +138,7 @@
   "RegexFilterQuickAdd": "إضافة فلتر",
   "RegexFilterBulletinText": "تمت إضافة الفلتر إلى **الفلاتر المشتركة**.",
   "RegexFilterBulletinAction": "إلى الدردشة الحالية",
+  "RegexFiltersListEmpty": "No filters here yet.",
   "FiltersMenuSelectChat": "اختيار المحادثة",
   "FiltersMenuImport": "إستيراد",
   "FiltersMenuExport": "تصدير",
