@@ -138,6 +138,7 @@
   "RegexFilterQuickAdd": "הוסף פילטר",
   "RegexFilterBulletinText": "מסנן נוסף ל**מסננים משותפים**.",
   "RegexFilterBulletinAction": "לצ'אט נוכחי",
+  "RegexFiltersListEmpty": "No filters here yet.",
   "FiltersMenuSelectChat": "בחר שיחה",
   "FiltersMenuImport": "ייבוא",
   "FiltersMenuExport": "ייצוא",
