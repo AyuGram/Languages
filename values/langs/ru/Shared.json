@@ -138,6 +138,7 @@
   "RegexFilterQuickAdd": "Добавить фильтр",
   "RegexFilterBulletinText": "Фильтр добавлен в **Общие фильтры**.",
   "RegexFilterBulletinAction": "Перенести",
+  "RegexFiltersListEmpty": "No filters here yet.",
   "FiltersMenuSelectChat": "Выбрать чат",
   "FiltersMenuImport": "Импорт",
   "FiltersMenuExport": "Экспорт",
