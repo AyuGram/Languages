@@ -138,6 +138,7 @@
   "RegexFilterQuickAdd": "Додати фільтр",
   "RegexFilterBulletinText": "Фільтр доданий до **спільних фільтрів**.",
   "RegexFilterBulletinAction": "До поточного чату",
+  "RegexFiltersListEmpty": "No filters here yet.",
   "FiltersMenuSelectChat": "Обрати чат",
   "FiltersMenuImport": "Імпорт",
   "FiltersMenuExport": "Експорт",
