@@ -156,6 +156,7 @@
   "RegexFilterQuickAdd": "Add Filter",
   "RegexFilterBulletinText": "Filter added to the **Shared filters**.",
   "RegexFilterBulletinAction": "To Current Chat",
+  "RegexFiltersListEmpty": "No filters here yet.",
 
   "FiltersMenuSelectChat": "Select Chat",
   "FiltersMenuImport": "Import",
