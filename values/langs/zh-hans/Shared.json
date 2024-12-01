@@ -138,7 +138,7 @@
   "RegexFilterQuickAdd": "添加过滤器",
   "RegexFilterBulletinText": "过滤器已添加到 **共享过滤器**中",
   "RegexFilterBulletinAction": "应用于当前聊天",
-  "RegexFiltersListEmpty": "No filters here yet.",
+  "RegexFiltersListEmpty": "这里还没有过滤器。",
   "FiltersMenuSelectChat": "选择聊天",
   "FiltersMenuImport": "导入",
   "FiltersMenuExport": "导出",
