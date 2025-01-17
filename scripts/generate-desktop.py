@@ -39,6 +39,21 @@ for k, v in strings.items():
     if k.endswith('_PC'):
         k = k.replace('_PC', '')
 
+    if any(item in k for item in ["_zero", "_two", "_few", "_many"]):
+        continue
+
+    if k.endswith('_one'):
+        k = k.replace('_one', '#one')
+    elif k.endswith('_other'):
+        k = k.replace('_other', '#other')
+
+    if '%1$d' in v and not '%2$d' in v:
+        v = v.replace('%1$d', '{count}')
+    elif '%1$d' in v and '%2$d' in v:
+        v = v.replace('%1$d', '{count1}').replace('%2$d', '{count2}')
+    elif '%1$s' in v:
+        v = v.replace('%1$s', '{item}')
+
     escaped = v.replace('"', '\\"').replace('\n', '\\n')
     data += f'"ayu_{k}" = "{escaped}";\n'
 
