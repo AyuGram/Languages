@@ -141,7 +141,7 @@
   "RegexFilterBulletinText": "Фильтр добавлен в **Общие фильтры**.",
   "RegexFilterBulletinAction": "Перенести",
   "RegexFiltersListEmpty": "Здесь пока нет фильтров.",
-  "FiltersMenuSelectChat": "Выбрать чат",
+  "FiltersMenuSelectChat": "Select Chat",
   "FiltersMenuImport": "Импорт",
   "FiltersMenuExport": "Экспорт",
   "FiltersMenuClear": "Очистить",
