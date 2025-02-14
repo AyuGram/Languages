@@ -313,7 +313,7 @@
   "MessageShotShowColorfulReplies": "Показывать цветные ответы",
   "SendAsSticker": "Отправить как стикер",
   "AyuForwardStatusPreparing": "Пересылка сообщений",
-  "AyuForwardStatusLoadingMedia": "Загрузка файлов",
+  "AyuForwardStatusLoadingMedia": "Loading media",
   "AyuForwardStatusForwarding": "Пересылка сообщений",
   "AyuForwardStatusFinished": "Готово",
   "AyuForwardStatusSentCount": "отправлено %1$d из %2$d",
