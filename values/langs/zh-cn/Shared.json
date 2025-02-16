@@ -1,0 +1,440 @@
+{
+  "AyuPreferences": "AyuGram 偏好设置",
+
+  "DocsText": "文档",
+
+  "CategoryGhostMode": "隐身模式",
+  "CategorySpy": "间谍",
+  "CategoryFilters": "过滤器",
+  "CategoryCustomization": "自定义",
+
+  "GhostEssentialsHeader": "隐身基本功能",
+  "DontReadMessages": "不读取消息",
+  "DontReadStories": "不读取故事",
+  "DontSendOnlinePackets": "不发送在线状态",
+  "DontSendUploadProgress": "不发送输入状态",
+  "SendOfflinePacketAfterOnline": "自动下线",
+  "GhostModeOptionLongTapDescription": "长按任意选项以防止在切换隐身模式时更改。",
+  "MarkReadAfterAction": "互动后标记为已读",
+  "MarkReadAfterActionDescription": "当您发送新消息或点击反应时自动读取消息。",
+  "MarkReadAfterSend": "发送",
+  "MarkReadAfterReaction": "反应",
+  "MarkReadAfterPoll": "投票",
+  "UseScheduledMessages": "计划消息",
+  "UseScheduledMessagesDescription": "自动计划发送消息约12秒，媒体则更长。以这种方式发送消息，您不会显示为在线。\n不要在不良网络中使用。",
+  "SendWithoutSoundByDefault": "默认静音发送",
+  "SendWithoutSoundByDefaultDescription": "自动静音发送消息。",
+  "SuggestGhostModeBeforeViewingStory": "故事隐身模式提醒",
+  "SuggestGhostModeBeforeViewingStoryDescription": "在打开故事前显示提醒，建议开启隐身模式。",
+
+  "SpyEssentialsHeader": "间谍基本功能",
+  "SaveDeletedMessages": "保存已删除消息",
+  "SaveMessagesHistory": "保存编辑历史",
+
+  "MessageSavingActionBarHeader": "消息保存偏好",
+  "MessageSavingSaveMedia": "保存媒体",
+  "MessageSavingSaveMediaHint": "点击查看更多",
+  "MessageSavingSaveMediaInPrivateChats": "…在私人聊天中",
+  "MessageSavingSaveMediaInPublicChannels": "…在公共频道中",
+  "MessageSavingSaveMediaInPrivateChannels": "…在私人频道中",
+  "MessageSavingSaveMediaInPublicGroups": "…在公共群组中",
+  "MessageSavingSaveMediaInPrivateGroups": "…在私人群组中",
+
+  "MaximumMediaSizeCellular": "媒体大小限制（蜂窝数据）",
+  "MaximumMediaSizeWiFi": "媒体大小限制（WiFi）",
+
+  "MessageSavingOtherHeader": "其他",
+  "MessageSavingSaveReactions": "保存反应",
+  "MessageSavingSaveForBots": "在机器人对话中保存",
+  "MessageSavingSavePath": "附件文件夹",
+  "MessageSavingSavePathTitle": "选择文件夹",
+
+  "SpySaveReadMarks": "保存阅读日期",
+  "SpySaveReadMarksDescription": "本地保存阅读消息的数据。如果Telegram不提供阅读日期，将显示此数据。",
+
+  "QoLTogglesHeader": "实用功能",
+  "KeepAliveService": "AyuGram 推送服务",
+  "DisableAds": "禁用广告",
+  "DisableStories": "禁用故事",
+  "DisableCustomBackgrounds": "禁用自定义背景",
+  "DisableNotificationsDelay": "禁用通知延迟",
+  "LocalPremium": "本地Telegram高级版",
+  "DisplayGhostStatus": "显示隐身模式状态",
+  "CopyUsernameAsLink": "复制用户名为链接",
+
+  "CustomizationHeader": "自定义",
+  "DeletedMarkText": "删除标记",
+  "DeletedMarkNothing": "无",
+  "DeletedMarkTrashBin": "垃圾桶",
+  "DeletedMarkCross": "叉号",
+  "DeletedMarkEyeCrossed": "交叉眼",
+  "EditedMarkText": "编辑标记",
+  "ReplaceMarksWithIcons": "用图标替换",
+  "SemiTransparentDeletedMessages": "半透明已删除消息",
+  "HideNotificationCounters": "隐藏通知计数器",
+  "HideNotificationBadge": "隐藏通知徽章",
+  "HideAllChats": "隐藏“所有聊天”标签",
+  "ChannelBottomButton": "频道底部按钮",
+  "ChannelBottomButtonHide": "隐藏",
+  "ChannelBottomButtonMute": "静音",
+  "ChannelBottomButtonDiscuss": "讨论",
+  "SettingsShowID": "显示对等ID",
+  "SettingsShowID_Hide": "隐藏",
+  "SettingsShowMessageShot": "显示消息截图",
+  "SettingsRecentStickersCount": "最近贴纸数量",
+  "SettingsCustomizationHint": "在“自定义”部分进行更改后，您必须重新启动应用程序。",
+
+  "SettingsContextMenuTitle": "选择何时显示项目",
+  "SettingsContextMenuDescription": "如果您在右键单击消息时按住CTRL或SHIFT，将显示扩展菜单项。",
+  "SettingsContextMenuItemHidden": "隐藏",
+  "SettingsContextMenuItemShown": "显示",
+  "SettingsContextMenuItemExtended": "扩展菜单",
+
+  "SettingsContextMenuReactionsPanel": "反应面板",
+  "SettingsContextMenuViewsPanel": "查看面板",
+
+  "ContextMenuElementsHeader": "上下文菜单元素",
+  "MessageFieldElementsHeader": "消息字段元素",
+  "MessageFieldPopupsHeader": "消息字段弹出窗口",
+  "MessageFieldElementAttach": "附件",
+  "MessageFieldElementCommands": "命令",
+  "MessageFieldElementTTL": "TTL",
+  "MessageFieldElementEmoji": "表情符号",
+  "MessageFieldElementVoice": "语音",
+  "DrawerElementsHeader": "抽屉元素",
+  "TrayElementsHeader": "托盘元素",
+
+  "SettingsWideMultiplier": "宽消息倍增器",
+
+  "SettingsSpoofWebviewAsAndroid": "伪装客户端为Android",
+  "SettingsBiggerWindow": "更大窗口",
+  "SettingsIncreaseWebviewHeight": "增加内容高度",
+  "SettingsIncreaseWebviewWidth": "增加内容宽度",
+
+  "ExportDataTitle": "导出AyuGram数据库？",
+  "ExportDataDescription": "它将被导出到公共文件夹，保存的附件中。",
+  "ExportDataConfirm": "是，导出",
+  "ExportDataCancel": "否，关闭窗口",
+  "ExportDataSuccess": "数据库导出成功。",
+  "ExportDataFailure": "导出数据库失败。",
+
+  "ImportDataNotFound": "没有要导入的数据库。",
+  "ImportDataTitle": "导入AyuGram数据库？",
+  "ImportDataDescription": "它将替换当前数据库。",
+  "ImportDataConfirm": "是，替换现有的",
+  "ImportDataCancel": "否，关闭窗口",
+  "ImportDataSuccess": "数据库导入成功。",
+  "ImportDataFailure": "导入数据库失败。",
+
+  "RegexFilters": "消息过滤器",
+  "RegexFiltersAmount_zero": "%1$d 个过滤器",
+  "RegexFiltersAmount_one": "1 个过滤器",
+  "RegexFiltersAmount_two": "%1$d 个过滤器",
+  "RegexFiltersAmount_few": "%1$d 个过滤器",
+  "RegexFiltersAmount_many": "%1$d 个过滤器",
+  "RegexFiltersAmount_other": "%1$d 个过滤器",
+  "RegexFiltersExcludedAmount_zero": "%1$d 个排除",
+  "RegexFiltersExcludedAmount_one": "1 个排除",
+  "RegexFiltersExcludedAmount_two": "%1$d 个排除",
+  "RegexFiltersExcludedAmount_few": "%1$d 个排除",
+  "RegexFiltersExcludedAmount_many": "%1$d 个排除",
+  "RegexFiltersExcludedAmount_other": "%1$d 个排除",
+  "RegexFiltersHeader": "过滤器",
+  "RegexFiltersShared": "共享过滤器",
+  "RegexFiltersExcluded": "排除过滤器",
+  "RegexFiltersEnable": "启用过滤器",
+  "FiltersHideFromBlocked": "从被阻止用户中隐藏",
+  "FiltersHideFromBlockedNote": "消息过滤器已启用。",
+  "RegexFiltersEnableSharedInChats": "在聊天中启用共享过滤器",
+  "RegexFiltersAdd": "添加过滤器",
+  "RegexFiltersEdit": "编辑过滤器",
+  "RegexFiltersPlaceholder": "表达式",
+  "EnableExpression": "启用过滤器",
+  "CaseInsensitiveExpression": "不区分大小写",
+  "ReversedExpression": "反向",
+  "RegexFiltersAddDescription_Android": "您可以使用网站 <![CDATA[<a href=\"https://regex101.com/r/3XHb17\">regex101.com</a>]]> 来测试和调试您的正则表达式。",
+  "RegexFiltersAddAction_Android": "打开 regex101",
+  "RegexFiltersAddError": "正则表达式语法错误",
+  "RegexFilterQuickAdd": "快速添加过滤器",
+  "RegexFilterBulletinText": "过滤器已添加到 **共享过滤器**。",
+  "RegexFilterBulletinAction": "到当前聊天",
+  "RegexFiltersListEmpty": "这里还没有过滤器。",
+
+  "FiltersMenuSelectChat": "选择聊天",
+  "FiltersMenuImport": "导入",
+  "FiltersMenuExport": "导出",
+  "FiltersMenuClear": "清除",
+
+  "FiltersImportTitle": "选择导入过滤器的方式",
+  "FiltersImportClipboard": "从剪贴板粘贴",
+  "FiltersImportURL": "从URL导入",
+  "FiltersImportAction": "导入",
+
+  "FiltersExportTitle": "选择导出过滤器的方式",
+  "FiltersExportClipboard": "复制到剪贴板",
+  "FiltersExportURL": "发布到 dpaste.com",
+
+  "FiltersToastFailPublish": "发布过滤器失败。",
+  "FiltersToastFailFetch": "获取过滤器失败。",
+  "FiltersToastFailImport": "导入过滤器失败。",
+  "FiltersToastFailNoChanges": "过滤器与当前相同。",
+  "FiltersToastSuccess": "过滤器成功导入。",
+
+  "FiltersSheetTitle": "应用过滤器更改？",
+
+  "FiltersSheetNewFilters_zero": "**%1$d** 个新过滤器",
+  "FiltersSheetNewFilters_one": "**1** 个新过滤器",
+  "FiltersSheetNewFilters_two": "**%1$d** 个新过滤器",
+  "FiltersSheetNewFilters_few": "**%1$d** 个新过滤器",
+  "FiltersSheetNewFilters_many": "**%1$d** 个新过滤器",
+  "FiltersSheetNewFilters_other": "**%1$d** 个新过滤器",
+
+  "FiltersSheetRemovedFilters_zero": "**%1$d** 个已移除过滤器",
+  "FiltersSheetRemovedFilters_one": "**1** 个已移除过滤器",
+  "FiltersSheetRemovedFilters_two": "**%1$d** 个已移除过滤器",
+  "FiltersSheetRemovedFilters_few": "**%1$d** 个已移除过滤器",
+  "FiltersSheetRemovedFilters_many": "**%1$d** 个已移除过滤器",
+  "FiltersSheetRemovedFilters_other": "**%1$d** 个已移除过滤器",
+
+  "FiltersSheetUpdatedFilters_zero": "**%1$d** 个已更新过滤器",
+  "FiltersSheetUpdatedFilters_one": "**1** 个已更新过滤器",
+  "FiltersSheetUpdatedFilters_two": "**%1$d** 个已更新过滤器",
+  "FiltersSheetUpdatedFilters_few": "**%1$d** 个已更新过滤器",
+  "FiltersSheetUpdatedFilters_many": "**%1$d** 个已更新过滤器",
+  "FiltersSheetUpdatedFilters_other": "**%1$d** 个已更新过滤器",
+
+  "FiltersSheetNewExclusions_zero": "**%1$d** 个新排除",
+  "FiltersSheetNewExclusions_one": "**1** 个新排除",
+  "FiltersSheetNewExclusions_two": "**%1$d** 个新排除",
+  "FiltersSheetNewExclusions_few": "**%1$d** 个新排除",
+  "FiltersSheetNewExclusions_many": "**%1$d** 个新排除",
+  "FiltersSheetNewExclusions_other": "**%1$d** 个新排除",
+
+  "FiltersSheetRemovedExclusions_zero": "**%1$d** 个已移除排除",
+  "FiltersSheetRemovedExclusions_one": "**1** 个已移除排除",
+  "FiltersSheetRemovedExclusions_two": "**%1$d** 个已移除排除",
+  "FiltersSheetRemovedExclusions_few": "**%1$d** 个已移除排除",
+  "FiltersSheetRemovedExclusions_many": "**%1$d** 个已移除排除",
+  "FiltersSheetRemovedExclusions_other": "**%1$d** 个已移除排除",
+
+  "FiltersSheetDialogsToResolve_zero": "**%1$d** 个对话需要解决",
+  "FiltersSheetDialogsToResolve_one": "**1** 个对话需要解决",
+  "FiltersSheetDialogsToResolve_two": "**%1$d** 个对话需要解决",
+  "FiltersSheetDialogsToResolve_few": "**%1$d** 个对话需要解决",
+  "FiltersSheetDialogsToResolve_many": "**%1$d** 个对话需要解决",
+  "FiltersSheetDialogsToResolve_other": "**%1$d** 个对话需要解决",
+
+  "FiltersClearPopupTitle": "清除过滤器",
+  "FiltersClearPopupText": "您确定要清除所有过滤器吗？",
+  "FiltersClearPopupActionText": "清除",
+  "FiltersClearPopupAltActionText": "清除未知",
+
+  "IconDefault": "默认",
+  "IconAlternative": "AyuGram 替代",
+  "IconDiscord": "Discord",
+  "IconSpotify": "Spotify",
+  "IconExtera": "extera",
+  "IconNothing": "无",
+  "IconBard": "Google Bard",
+  "IconYaPlus": "Yandex Plus",
+
+  "WALMode": "启用 WAL 模式",
+  "PushNotificationCount": "收到的 FCM 通知",
+  "ClearAyuDatabase": "清除消息数据库",
+  "ClearAyuAttachmentsNotification": "AyuGram 附件文件夹已清除",
+  "ClearTelegramDatabase": "清除 Telegram 数据库",
+  "ClearAyuDatabaseNotification": "AyuGram 数据库已清除",
+  "ClearAyuAttachments": "清除附件文件夹",
+
+  "ConfirmationsTitle": "确认",
+  "StickerConfirmation": "对于贴纸",
+  "GIFConfirmation": "对于 GIF",
+  "VoiceConfirmation": "对于语音消息",
+
+  "MessageDetailsPC": "详情",
+  "MessageDetailsViewsPC": "查看",
+  "MessageDetailsSharesPC": "分享",
+  "MessageDetailsDatePC": "日期",
+  "MessageDetailsEditedDatePC": "编辑日期",
+  "MessageDetailsForwardedDatePC": "转发日期",
+  "MessageDetailsFileSizePC": "文件大小",
+  "MessageDetailsFileNamePC": "文件名",
+  "MessageDetailsFilePathPC": "文件路径",
+  "MessageDetailsResolutionPC": "分辨率",
+  "MessageDetailsBitratePC": "比特率",
+  "MessageDetailsMimeTypePC": "MIME 类型",
+  "MessageDetailsDatacenterPC": "数据中心",
+  "MessageDetailsPackOwnerPC": "包所有者",
+  "MessageDetailsPackOwnerFetchingPC": "获取中...",
+  "MessageDetailsPackOwnerNotFoundPC": "未找到",
+
+  "KillApp": "关闭应用",
+
+  "LReadMessages": "本地读取",
+  "SReadMessages": "服务器读取",
+
+  "GhostModeToggle": "隐身模式",
+  "EnableGhostMode": "启用隐身",
+  "DisableGhostMode": "禁用隐身",
+  "EnableGhostModeTray": "启用隐身模式",
+  "DisableGhostModeTray": "禁用隐身模式",
+  "GhostModeEnabled": "隐身模式已开启",
+  "GhostModeDisabled": "隐身模式已关闭",
+
+  "GhostModeGlobalSettings": "全局设置",
+  "GhostModeGlobalSettingsDescription": "适用于所有账户",
+  "GhostModeSwitchedToGlobalSettings": "切换为所有账户相同设置。",
+  "GhostModeSwitchedToIndividualSettings": "切换为每个账户单独设置。",
+
+  "StreamerModeToggle": "主播模式",
+  "EnableStreamerModeTray": "启用主播模式",
+  "DisableStreamerModeTray": "禁用主播模式",
+
+  "EditsHistoryTitle": "编辑历史",
+  "EditsHistoryMenuText": "历史",
+
+  "PeekOnlineMenuText": "在线查看",
+  "ClearDeletedMenuText": "清除已删除",
+  "ViewDeletedMenuText": "查看已删除",
+  "ViewFiltersMenuText": "查看过滤器",
+  "ReadExclusionMenuText": "阅读排除",
+  "TypingExclusionMenuText": "输入排除",
+
+  "ExclusionTitle": "选择排除类型",
+  "ExclusionUseDefault": "默认",
+  "ExclusionDontRead": "从不读取",
+  "ExclusionAlwaysRead": "总是读取",
+  "ExclusionDontType": "从不输入",
+  "ExclusionAlwaysType": "总是输入",
+
+  "PeekOnlineSuccess": "通过查看",
+
+  "OneViewTTL": "一次查看",
+  "OnePlayTTL": "一次播放",
+
+  "UserMessagesMenuText": "用户消息",
+  "ReadUntilMenuText": "读取消息",
+
+  "DeleteKeepLocally": "本地保留",
+
+  "BoxActionReset": "重置",
+
+  "ReadConfirmationBoxQuestion": "您想要读取所有消息吗？",
+  "ReadConfirmationBoxActionText": "读取",
+
+  "ClearDeletedMessagesTitle": "清除已删除消息",
+  "ClearDeletedMessagesText": "您确定要清除此聊天中的所有已删除消息吗？",
+  "ClearDeletedMessagesActionText": "清除",
+
+  "SuggestGhostModeTitle": "隐身模式",
+  "SuggestGhostModeStoryText": "您想在查看故事前启用 **隐身模式** 吗？",
+  "SuggestGhostModeStoryActionTextYes": "是",
+  "SuggestGhostModeStoryActionTextNo": "否",
+
+  "ClearAttachmentsFolderWarning": "您确定要清除 **附件文件夹** 吗？此操作无法撤销。",
+  "ClearMessagesDatabaseWarning": "您确定要清除 **所有已删除和编辑的消息** 吗？此操作无法撤销。",
+  "ClearTelegramDatabaseWarning": "您确定要清除 **Telegram 内部数据库** 吗？此操作无法撤销。",
+
+  "FirstLaunchAlert": "AyuGram 是 **免费** 软件，只应从我们的 **官方来源** 获取。使用此应用程序与您的账户时，您承担 **全部责任**。",
+  "LocalPremiumAlert": "使用本地 Telegram 高级版，您将无法获得增加的限制，也无法发送动画表情符号。其他用户将看不到您的高级表情符号和引用颜色。",
+  "ExteraChatsAlert": "不要在 **exteraGram** 聊天中询问与 **AyuGram** 相关的问题。如果您需要帮助，请在官方 **AyuGram** 聊天中询问。",
+
+  "HideNextViewsDescriptionAyu": "隐藏我的查看，直到禁用隐身模式。",
+  "EnableGhostModeStories": "启用隐身模式",
+  "GhostModeIsActive": "隐身模式已激活",
+
+  "SimpleQuotesAndReplies": "禁用彩色回复",
+
+  "DisableSimilarChannels": "禁用相似频道",
+  "CollapseSimilarChannels": "折叠相似频道",
+  "HideSimilarChannelsTab": "隐藏相似频道标签",
+
+  "UploadSpeedBoostPC": "上传速度提升",
+
+  "MainFont": "应用字体",
+  "MonospaceFont": "等宽字体",
+  "FontDefault": "默认",
+  "CustomizeFontTitle": "自定义字体",
+
+  "MessageShotTopBarText": "截图",
+  "MessageShotPreview": "预览",
+  "MessageShotPreferences": "偏好",
+  "MessageShotCopy": "复制",
+  "MessageShotSave": "保存",
+  "MessageShotTheme": "主题",
+  "MessageShotThemeDefault": "默认",
+  "MessageShotThemeSelectTitle": "选择消息主题",
+  "MessageShotThemeApply": "应用",
+  "MessageShotShowBackground": "显示背景",
+  "MessageShotShowDate": "显示日期",
+  "MessageShotShowReactions": "显示反应",
+  "MessageShotShowColorfulReplies": "显示彩色回复",
+
+  "SendAsSticker": "作为贴纸发送",
+
+  "AyuForwardStatusPreparing": "正在转发消息",
+  "AyuForwardStatusLoadingMedia": "正在加载媒体",
+  "AyuForwardStatusForwarding": "正在转发消息",
+  "AyuForwardStatusFinished": "完成",
+  "AyuForwardStatusSentCount": "已发送 %1$d 个，共 %2$d 个"，
+  "AyuForwardStatusChunkCount": "第 %1$d 块，共 %2$d 块"，
+
+  "JumpToBeginning": "跳到开头"，
+
+  "ExpireMediaContextMenuText": "销毁"，
+  "ExpiringVoiceMessageNote": "此语音消息可以播放多次。"，
+  "ExpiringVideoMessageNote": "此视频消息可以播放多次。"，
+
+  "UserNotFoundMessage": "未找到用户。"，
+
+  "DeleteDateMenuText": "删除日期"，
+  "ReadDateMenuText": "阅读日期"，
+  "ContentsReadDateMenuText": "内容阅读日期"，
+
+  "UnforwardableContextMenuText": "不允许普通转发。"，
+
+  "LikelyOfflineStatus": "可能离线？"，
+
+  "GhostModeShortcut": "隐身进入"，
+
+  "SettingsShowMessageSeconds": "显示消息秒数"，
+
+  "ContextCopyID": "复制ID"，
+  "IDCopiedToast": "ID已复制到剪贴板。"，
+  "ContextHideMessage": "隐藏"，
+
+  "ContextCopyCallbackData": "复制回调数据"，
+
+  "RegisterURLScheme": "注册URL方案"，
+
+  "LocalPremiumNotice_PC": "您正在使用 **本地** Telegram 高级版。\n它 **不会** 给您带来任何好处。\n**享受昵称旁的星星吧！**"，
+  "LocalPremiumNotice_Android": "您正在使用 **本地** Telegram 高级版。\n您可以将其用于速率限制的翻译和一些 **本地** Telegram 高级功能。"，
+
+  "DonateInfoV0_Android": "请我们喝杯咖啡或保持我们的更新服务器运行。如果您需要徽章，请看上面 — 我们目前不提供。"，
+  "DonateInfoV1_Android": "请我们喝杯咖啡或保持我们的更新服务器运行。",
+  "DonateInfoV2_Android": "请我们喝杯咖啡或保持我们的更新服务器运行。捐赠后写信给 **%1$s**。",
+
+  "DeveloperPopup": "**{item}** 是 **exteraGram** 开发团队的成员。",
+  "SupporterPopup": "**{item}** 支持了 **exteraGram** 或 **AyuGram** 的开发，并获得了独家徽章。",
+
+  "SettingsWatermark": "AyuGram 由 Radolyn Labs 开发和维护。",
+  "SettingsDescription_Android": "只是一个以违反服务条款功能为目标的 exteraGram 客户端。",
+
+  "SecretMessageTecno_Android": "Tecno 手机是最好的。",
+  "SecretMessageXiaomiSuccess_Android": "您正在使用一部好手机。",
+  "SecretMessageXiaomiWarning_Android": "买 Pixel，不要碰小米。",
+  "SecretMessageXiaomiFailure_Android": "安装自定义 ROM。",
+  "SecretMessageNekogram_Android": "抱歉，这不是 Nekogram。",
+
+  "ConfirmationSticker": "您想发送此贴纸吗？",
+  "ConfirmationGIF": "您想发送此 GIF 吗？",
+  "ConfirmationVoice": "您想发送此语音消息吗？",
+
+  "IntroAbout": "欢迎使用 AyuGram 桌面版。\n让 Telegram 成为您的专属工具。",
+
+  "AboutText1": "基于 {api_link} 的违反服务条款的 Telegram 客户端。",
+
+  "UpdateAyuGram": "更新 AyuGram",
+
+  "UtilityRestartRequired": "应用将在5秒后关闭。"
+}
