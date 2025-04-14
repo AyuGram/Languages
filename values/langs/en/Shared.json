@@ -31,14 +31,14 @@
   "SaveDeletedMessages": "Save Deleted Messages",
   "SaveMessagesHistory": "Save Edits History",
 
-  "MessageSavingActionBarHeader": "Message Saving Preferences",
-  "MessageSavingSaveMedia": "Save Media",
-  "MessageSavingSaveMediaHint": "Click for More",
-  "MessageSavingSaveMediaInPrivateChats": "…in private chats",
-  "MessageSavingSaveMediaInPublicChannels": "…in public channels",
-  "MessageSavingSaveMediaInPrivateChannels": "…in private channels",
-  "MessageSavingSaveMediaInPublicGroups": "…in public groups",
-  "MessageSavingSaveMediaInPrivateGroups": "…in private groups",
+  "MessageSavingSaveMedia": "Save Attachments",
+  "MessageSavingSaveMediaHint": "Configure chats & limits",
+  "MessageSavingSaveMediaInPrivateChats": "Private Chats",
+  "MessageSavingSaveMediaInPublicChannels": "Public Channels",
+  "MessageSavingSaveMediaInPrivateChannels": "Private Channels",
+  "MessageSavingSaveMediaInPublicGroups": "Public Groups",
+  "MessageSavingSaveMediaInPrivateGroups": "Private Groups",
+  "MessageSavingSaveMediaHintPopup": "Make sure it's configured to your needs.",
 
   "MaximumMediaSizeCellular": "Media size limit (cellular data)",
   "MaximumMediaSizeWiFi": "Media size limit (WiFi)",
@@ -51,6 +51,12 @@
 
   "SpySaveReadMarks": "Save Read Date",
   "SpySaveReadMarksDescription": "Locally saves data about reading messages. This will be shown if Telegram does not provide read date.",
+
+  "SpySaveLocalOnline": "Save Last Seen Date",
+  "SpySaveLocalOnlineDescription": "Saves last online date for users with hidden online status based on their actions. You'll be able to see **very approximately** when they were last online.",
+
+  "ExportDatabaseButton": "Export Database",
+  "ImportDatabaseButton": "Import Database",
 
   "QoLTogglesHeader": "Useful features",
   "KeepAliveService": "AyuGram Push Service",
@@ -372,6 +378,8 @@
 
   "SendAsSticker": "Send as Sticker",
 
+  "SendWithSound": "Send With Sound",
+
   "AyuForwardStatusPreparing": "Forwarding messages",
   "AyuForwardStatusLoadingMedia": "Loading media",
   "AyuForwardStatusForwarding": "Forwarding messages",
@@ -406,6 +414,8 @@
   "ContextCopyCallbackData": "Copy Callback Data",
 
   "RegisterURLScheme": "Register URL Scheme",
+
+  "SessionTerminated": "Session **%1$s** was terminated. You may still browse cached messages.",
 
   "LocalPremiumNotice_PC": "You're using **local** Telegram Premium.\nIt **won't** give you any benefits.\n**Enjoy the star near your nickname!**",
   "LocalPremiumNotice_Android": "You're using **local** Telegram Premium.\nYou may use it for a rate-limited translator and some **local** Telegram Premium stuff.",
