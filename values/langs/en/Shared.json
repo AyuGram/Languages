@@ -14,18 +14,18 @@
   "DontSendOnlinePackets": "Don't Send Online",
   "DontSendUploadProgress": "Don't Send Typing",
   "SendOfflinePacketAfterOnline": "Go Offline Automatically",
-  "GhostModeOptionLongTapDescription": "Long tap on any option to prevent it from changing on toggling Ghost Mode.",
+  "GhostModeOptionLongTapDescription": "Long-press any option to prevent it from changing when toggling Ghost Mode.",
   "MarkReadAfterAction": "Read on Interact",
-  "MarkReadAfterActionDescription": "Automatically reads message when you send a new one or tap a reaction.",
+  "MarkReadAfterActionDescription": "Automatically marks a message as read when you send a new one or tap a reaction.",
   "MarkReadAfterSend": "Send",
   "MarkReadAfterReaction": "Reaction",
   "MarkReadAfterPoll": "Poll",
   "UseScheduledMessages": "Schedule Messages",
-  "UseScheduledMessagesDescription": "Automatically schedules outgoing messages for ~12 seconds, and more for media. Sending messages this way, you won't appear online.\nDon't use on bad networks.",
+  "UseScheduledMessagesDescription": "Automatically schedules outgoing messages to send after ~12 seconds (longer for media). Using this feature, you won't appear online.\nAvoid using on unreliable networks.",
   "SendWithoutSoundByDefault": "Send without Sound",
-  "SendWithoutSoundByDefaultDescription": "Automatically sends outgoing messages without sound.",
+  "SendWithoutSoundByDefaultDescription": "Sends outgoing messages without sound by default.",
   "SuggestGhostModeBeforeViewingStory": "Story Ghost Mode Alert",
-  "SuggestGhostModeBeforeViewingStoryDescription": "Shows an alert before opening the story, suggesting to turn on Ghost Mode.",
+  "SuggestGhostModeBeforeViewingStoryDescription": "Displays an alert before opening a story, suggesting you enable Ghost Mode.",
 
   "SpyEssentialsHeader": "Spy essentials",
   "SaveDeletedMessages": "Save Deleted Messages",
@@ -44,16 +44,15 @@
   "MaximumMediaSizeWiFi": "Media size limit (WiFi)",
 
   "MessageSavingOtherHeader": "Other",
-  "MessageSavingSaveReactions": "Save reactions",
   "MessageSavingSaveForBots": "Save in Bot Dialogs",
   "MessageSavingSavePath": "Attachments Folder",
   "MessageSavingSavePathTitle": "Choose folder",
 
   "SpySaveReadMarks": "Save Read Date",
-  "SpySaveReadMarksDescription": "Locally saves data about reading messages. This will be shown if Telegram does not provide read date.",
+  "SpySaveReadMarksDescription": "Locally saves data about reading messages. This will be shown if Telegram does not provide a read date.",
 
   "SpySaveLocalOnline": "Save Last Seen Date",
-  "SpySaveLocalOnlineDescription": "Saves last online date for users with hidden online status based on their actions. You'll be able to see **very approximately** when they were last online.",
+  "SpySaveLocalOnlineDescription": "Saves the last online date for users with hidden online status based on their actions. You'll be able to see **very approximately** when they were last online.",
 
   "ExportDatabaseButton": "Export Database",
   "ImportDatabaseButton": "Import Database",
@@ -88,7 +87,7 @@
   "SettingsShowID_Hide": "Hide",
   "SettingsShowMessageShot": "Show Message Shot",
   "SettingsRecentStickersCount": "Recent Stickers Count",
-  "SettingsCustomizationHint": "After making changes to the \"Customization\" section, you must restart the application.",
+  "SettingsCustomizationHint": "You must restart the application after making changes in the \"Customization\" section.",
 
   "SettingsContextMenuTitle": "Choose when to show the item",
   "SettingsContextMenuDescription": "Extended menu items will be displayed if you hold CTRL or SHIFT while right-clicking on the message.",
@@ -118,7 +117,7 @@
   "SettingsIncreaseWebviewWidth": "Increase Content Width",
 
   "ExportDataTitle": "Export AyuGram Database?",
-  "ExportDataDescription": "It will be exported to the public folder, to Saved Attachments.",
+  "ExportDataDescription": "It will be exported to the public folder under Saved Attachments.",
   "ExportDataConfirm": "Yes, export",
   "ExportDataCancel": "No, close window",
   "ExportDataSuccess": "Database exported successfully.",
@@ -158,7 +157,7 @@
   "EnableExpression": "Enable Filter",
   "CaseInsensitiveExpression": "Case Insensitive",
   "ReversedExpression": "Reversed",
-  "RegexFiltersAddDescription_Android": "You can use site <![CDATA[<a href=\"https://regex101.com/r/3XHb17\">regex101.com</a>]]> to test and debug your regular expression.",
+  "RegexFiltersAddDescription_Android": "You can use <![CDATA[<a href=\"https://regex101.com/r/3XHb17\">regex101.com</a>]]> to test and debug your regular expression.",
   "RegexFiltersAddAction_Android": "Open regex101",
   "RegexFiltersAddError": "Regex syntax error",
   "RegexFilterQuickAdd": "Add Filter",
@@ -342,10 +341,10 @@
   "ClearTelegramDatabaseWarning": "Are you sure you want to clear the **Telegram internal database**? This action cannot be undone.",
 
   "FirstLaunchAlert": "AyuGram is **free** software and should only be obtained from our **official sources**. You assume **full responsibility** for using this application with your account.",
-  "LocalPremiumAlert": "With local Telegram Premium you won't have increased limits and won't be able to send animated emojis. Other users won't see your premium emoji and quote color.",
+  "LocalPremiumAlert": "With local Telegram Premium, you won't get increased limits or be able to send animated emojis. Other users won't see your premium emoji and quote color.",
   "ExteraChatsAlert": "Don't ask questions related to **AyuGram** in **exteraGram** chats. If you need help, ask in the official **AyuGram** chat.",
 
-  "HideNextViewsDescriptionAyu": "Hide my views forever, until Ghost Mode disabled.",
+  "HideNextViewsDescriptionAyu": "Hide my views forever, until Ghost Mode is disabled.",
   "EnableGhostModeStories": "Enable Ghost Mode",
   "GhostModeIsActive": "Ghost Mode is Active",
 
@@ -427,8 +426,8 @@
   "DeveloperPopup": "**{item}** is a member of the **exteraGram** development team.",
   "SupporterPopup": "**{item}** supported the development of **exteraGram** or **AyuGram** and received an exclusive badge.",
 
-  "SettingsWatermark": "AyuGram developed and maintained by Radolyn Labs.",
-  "SettingsDescription_Android": "Just an exteraGram based client with ToS breaking features in mind.",
+  "SettingsWatermark": "AyuGram is developed and maintained by Radolyn Labs.",
+  "SettingsDescription_Android": "Just an exteraGram based client with ToS-breaking features in mind.",
 
   "SecretMessageTecno_Android": "Tecno phones are the best.",
   "SecretMessageXiaomiSuccess_Android": "You're using a good phone.",
@@ -446,5 +445,5 @@
 
   "UpdateAyuGram": "Update AyuGram",
 
-  "UtilityRestartRequired": "App will close in 5 seconds."
+  "UtilityRestartRequired": "The app will close in 5 seconds."
 }
