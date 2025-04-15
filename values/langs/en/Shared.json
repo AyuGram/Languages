@@ -248,7 +248,7 @@
 
   "AyuAttachments": "AyuGram Attachments Folder",
   "AyuDatabase": "AyuGram Messages Database",
-  "TelegramCacheDatabase": "Telegram Cache Database",
+  "TelegramCacheDatabase": "Telegram Messages Database",
 
   "ConfirmationsTitle": "Confirmations",
   "StickerConfirmation": "For Stickers",
