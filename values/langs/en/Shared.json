@@ -245,11 +245,10 @@
 
   "WALMode": "Enable WAL mode",
   "PushNotificationCount": "FCM notifications received",
-  "ClearAyuDatabase": "Clear Messages Database",
-  "ClearAyuAttachmentsNotification": "AyuGram attachments folder cleared",
-  "ClearTelegramDatabase": "Clear Telegram Database",
-  "ClearAyuDatabaseNotification": "AyuGram database cleared",
-  "ClearAyuAttachments": "Clear Attachments Folder",
+
+  "AyuAttachments": "AyuGram Attachments Folder",
+  "AyuDatabase": "AyuGram Messages Database",
+  "TelegramCacheDatabase": "Telegram Cache Database",
 
   "ConfirmationsTitle": "Confirmations",
   "StickerConfirmation": "For Stickers",
@@ -335,10 +334,6 @@
   "SuggestGhostModeStoryText": "Do you want to enable **Ghost Mode** before viewing the story?",
   "SuggestGhostModeStoryActionTextYes": "Yes",
   "SuggestGhostModeStoryActionTextNo": "No",
-
-  "ClearAttachmentsFolderWarning": "Are you sure you want to clear the **attachments folder**? This action cannot be undone.",
-  "ClearMessagesDatabaseWarning": "Are you sure you want to clear **all deleted & edited messages**? This action cannot be undone.",
-  "ClearTelegramDatabaseWarning": "Are you sure you want to clear the **Telegram internal database**? This action cannot be undone.",
 
   "FirstLaunchAlert": "AyuGram is **free** software and should only be obtained from our **official sources**. You assume **full responsibility** for using this application with your account.",
   "LocalPremiumAlert": "With local Telegram Premium, you won't get increased limits or be able to send animated emojis. Other users won't see your premium emoji and quote color.",
