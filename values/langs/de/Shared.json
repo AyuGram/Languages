@@ -329,6 +329,7 @@
   "LikelyOfflineStatus": "Offline ?",
   "GhostModeShortcut": "Im Geistmodus eintreten",
   "SettingsShowMessageSeconds": "Show Message Seconds",
+  "ShowOnlyAddedEmojisAndStickers": "Show Only Added Emojis & Stickers",
   "ContextCopyID": "ID kopieren",
   "IDCopiedToast": "ID in Zwischenablage kopiert",
   "ContextHideMessage": "Verstecken",
