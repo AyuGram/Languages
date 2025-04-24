@@ -401,6 +401,8 @@
 
   "SettingsShowMessageSeconds": "Show Message Seconds",
 
+  "ShowOnlyAddedEmojisAndStickers": "Show Only Added Emojis & Stickers",
+
   "ContextCopyID": "Copy ID",
   "IDCopiedToast": "ID copied to clipboard.",
   "ContextHideMessage": "Hide",
