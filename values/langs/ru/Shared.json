@@ -329,6 +329,7 @@
   "LikelyOfflineStatus": "офлайн ?",
   "GhostModeShortcut": "Войти с призраком",
   "SettingsShowMessageSeconds": "Показывать секунды у сообщений",
+  "ShowOnlyAddedEmojisAndStickers": "Show Only Added Emojis & Stickers",
   "ContextCopyID": "Скопировать ID",
   "IDCopiedToast": "ID скопирован в буфер обмена.",
   "ContextHideMessage": "Скрыть",
