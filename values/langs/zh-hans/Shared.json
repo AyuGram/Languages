@@ -209,6 +209,7 @@
   "IconNothing": "Nothing",
   "IconBard": "Google Bard",
   "IconYaPlus": "Yandex Plus",
+  "IconAyuTyan": "AyuTyan",
   "WALMode": "启用 WAL 模式",
   "PushNotificationCount": "接收到 FCM 通知",
   "AyuAttachments": "AyuGram 附件文件夹",
