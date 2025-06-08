@@ -129,6 +129,7 @@
   "RegexFiltersExcludedAmount_other": "%1$d выключана",
   "RegexFiltersHeader": "Фільтры",
   "RegexFiltersShared": "Агульныя фільтры",
+  "FiltersShadowBan": "Shadow Ban",
   "RegexFiltersExcluded": "Выключаныя фільтры",
   "RegexFiltersEnable": "Уключыць фільтры",
   "FiltersHideFromBlocked": "Схаваць ад заблакіраваных карыстальнікаў",
