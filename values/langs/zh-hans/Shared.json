@@ -129,6 +129,7 @@
   "RegexFiltersExcludedAmount_other": "%1$d 已排除",
   "RegexFiltersHeader": "过滤器",
   "RegexFiltersShared": "共享过滤器",
+  "FiltersShadowBan": "Shadow Ban",
   "RegexFiltersExcluded": "排除过滤器",
   "RegexFiltersEnable": "启用过滤器",
   "FiltersHideFromBlocked": "隐藏被屏蔽用户的消息",
