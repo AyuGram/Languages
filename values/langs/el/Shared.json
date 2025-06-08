@@ -129,6 +129,7 @@
   "RegexFiltersExcludedAmount_other": "%1$d εξαιρούμενα",
   "RegexFiltersHeader": "Φίλτρα",
   "RegexFiltersShared": "Κοινόχρηστα φίλτρα",
+  "FiltersShadowBan": "Shadow Ban",
   "RegexFiltersExcluded": "Εξαιρούμενα φίλτρα",
   "RegexFiltersEnable": "Ενεργοποίηση φίλτρων",
   "FiltersHideFromBlocked": "Απόκρυψη από αποκλεισμένους χρήστες",
