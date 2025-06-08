@@ -37,6 +37,8 @@
   "MessageSavingSaveMediaInPublicGroups": "Публичные чаты",
   "MessageSavingSaveMediaInPrivateGroups": "Приватные чаты",
   "MessageSavingSaveMediaHintPopup": "Убедитесь, что лимиты настроены под ваши нужды.",
+  "AttachmentsFolderMaxSizeHeader": "Max folder size",
+  "AttachmentsFolderMaxSizeDescription": "If folder size exceeds this limit, the oldest attachments will be removed from the device.",
   "MaximumMediaSizeCellular": "Лимит на размер (моб.)",
   "MaximumMediaSizeWiFi": "Лимит на размер (WiFi)",
   "MessageSavingOtherHeader": "Другое",
