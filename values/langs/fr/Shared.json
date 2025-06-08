@@ -129,6 +129,7 @@
   "RegexFiltersExcludedAmount_other": "%1$d exclu",
   "RegexFiltersHeader": "Filtres",
   "RegexFiltersShared": "Filtres partagés",
+  "FiltersShadowBan": "Shadow Ban",
   "RegexFiltersExcluded": "Filtres exclus",
   "RegexFiltersEnable": "Activer les Filtres",
   "FiltersHideFromBlocked": "Cacher aux utilisateurs bloqués",
