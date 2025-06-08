@@ -37,6 +37,8 @@
   "MessageSavingSaveMediaInPublicGroups": "公开群组",
   "MessageSavingSaveMediaInPrivateGroups": "私密群组",
   "MessageSavingSaveMediaHintPopup": "确保根据您的需求进行配置。",
+  "AttachmentsFolderMaxSizeHeader": "Max folder size",
+  "AttachmentsFolderMaxSizeDescription": "If folder size exceeds this limit, the oldest attachments will be removed from the device.",
   "MaximumMediaSizeCellular": "媒体大小限制 (移动数据)",
   "MaximumMediaSizeWiFi": "媒体大小限制 (WiFi)",
   "MessageSavingOtherHeader": "其他",
