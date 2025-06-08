@@ -37,6 +37,8 @@
   "MessageSavingSaveMediaInPublicGroups": "Public Groups",
   "MessageSavingSaveMediaInPrivateGroups": "Private Groups",
   "MessageSavingSaveMediaHintPopup": "Make sure it's configured to your needs.",
+  "AttachmentsFolderMaxSizeHeader": "Max folder size",
+  "AttachmentsFolderMaxSizeDescription": "If folder size exceeds this limit, the oldest attachments will be removed from the device.",
   "MaximumMediaSizeCellular": "Limite de taille de média (données cellulaires)",
   "MaximumMediaSizeWiFi": "Limite de taille du média (WiFi)",
   "MessageSavingOtherHeader": "Autres",
