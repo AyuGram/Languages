@@ -129,6 +129,7 @@
   "RegexFiltersExcludedAmount_other": "%1$d مستبعد",
   "RegexFiltersHeader": "تصنيف",
   "RegexFiltersShared": "خيارات المشاركة",
+  "FiltersShadowBan": "Shadow Ban",
   "RegexFiltersExcluded": "الفلات المستبعدة",
   "RegexFiltersEnable": "تمكين الفلاتر",
   "FiltersHideFromBlocked": "إخفاء من المستخدمين المحظورين",
