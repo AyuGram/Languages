@@ -129,6 +129,7 @@
   "RegexFiltersExcludedAmount_other": "%1$d לא נכלל",
   "RegexFiltersHeader": "מסננים",
   "RegexFiltersShared": "מסננים משותפים",
+  "FiltersShadowBan": "Shadow Ban",
   "RegexFiltersExcluded": "מסננים שלא נכללו",
   "RegexFiltersEnable": "מסננים פעילים",
   "FiltersHideFromBlocked": "הסתר ממשתמשים חסומים",
