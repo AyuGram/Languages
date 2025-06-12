@@ -150,6 +150,8 @@
   "RegexFilterBulletinText": "Filtro añadido a los **filtros compartidos**.",
   "RegexFilterBulletinAction": "To Current Chat",
   "RegexFiltersListEmpty": "No filters here yet.",
+  "FiltersQuickShadowBan": "Shadow Ban",
+  "FiltersQuickUnshadowBan": "Unshadow Ban",
   "FiltersMenuSelectChat": "Seleccionar chat",
   "FiltersMenuImport": "Importar",
   "FiltersMenuExport": "Exportar",
