@@ -150,6 +150,8 @@
   "RegexFilterBulletinText": "تمت إضافة الفلتر إلى **الفلاتر المشتركة**.",
   "RegexFilterBulletinAction": "إلى الدردشة الحالية",
   "RegexFiltersListEmpty": "No filters here yet.",
+  "FiltersQuickShadowBan": "Shadow Ban",
+  "FiltersQuickUnshadowBan": "Unshadow Ban",
   "FiltersMenuSelectChat": "اختيار المحادثة",
   "FiltersMenuImport": "إستيراد",
   "FiltersMenuExport": "تصدير",
