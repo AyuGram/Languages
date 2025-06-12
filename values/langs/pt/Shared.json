@@ -151,7 +151,7 @@
   "RegexFilterBulletinAction": "Para o chat atual",
   "RegexFiltersListEmpty": "Nenhum filtro aqui ainda.",
   "FiltersQuickShadowBan": "Banimento invisível",
-  "FiltersQuickUnshadowBan": "Unshadow Ban",
+  "FiltersQuickUnshadowBan": "Remover Banimento Invisível",
   "FiltersMenuSelectChat": "Selecione um Chat",
   "FiltersMenuImport": "Importar",
   "FiltersMenuExport": "Exportar",
