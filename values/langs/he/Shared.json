@@ -150,6 +150,8 @@
   "RegexFilterBulletinText": "מסנן נוסף ל**מסננים משותפים**.",
   "RegexFilterBulletinAction": "לצ'אט נוכחי",
   "RegexFiltersListEmpty": "No filters here yet.",
+  "FiltersQuickShadowBan": "Shadow Ban",
+  "FiltersQuickUnshadowBan": "Unshadow Ban",
   "FiltersMenuSelectChat": "בחר שיחה",
   "FiltersMenuImport": "ייבוא",
   "FiltersMenuExport": "ייצוא",
