@@ -150,6 +150,8 @@
   "RegexFilterBulletinText": "Фильтр добавлен в **Общие фильтры**.",
   "RegexFilterBulletinAction": "Перенести",
   "RegexFiltersListEmpty": "Здесь пока нет фильтров.",
+  "FiltersQuickShadowBan": "Shadow Ban",
+  "FiltersQuickUnshadowBan": "Unshadow Ban",
   "FiltersMenuSelectChat": "Выбрать чат",
   "FiltersMenuImport": "Импорт",
   "FiltersMenuExport": "Экспорт",
