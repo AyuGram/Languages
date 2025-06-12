@@ -150,6 +150,8 @@
   "RegexFilterBulletinText": "Фільтр дабаўлены ў **Агульныя фільтры**.",
   "RegexFilterBulletinAction": "Перанесці",
   "RegexFiltersListEmpty": "No filters here yet.",
+  "FiltersQuickShadowBan": "Shadow Ban",
+  "FiltersQuickUnshadowBan": "Unshadow Ban",
   "FiltersMenuSelectChat": "Выбраць чат",
   "FiltersMenuImport": "Імпарт",
   "FiltersMenuExport": "Экспарт",
