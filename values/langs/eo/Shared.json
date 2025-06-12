@@ -150,6 +150,8 @@
   "RegexFilterBulletinText": "Filtrilo aldonita al la **Kundividitaj filtriloj**.",
   "RegexFilterBulletinAction": "To Current Chat",
   "RegexFiltersListEmpty": "No filters here yet.",
+  "FiltersQuickShadowBan": "Shadow Ban",
+  "FiltersQuickUnshadowBan": "Unshadow Ban",
   "FiltersMenuSelectChat": "Select Chat",
   "FiltersMenuImport": "Import",
   "FiltersMenuExport": "Export",
