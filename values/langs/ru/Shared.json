@@ -47,7 +47,7 @@
   "MessageSavingSavePathTitle": "Выберите папку",
   "SpySaveReadMarks": "Сохранять дату чтения",
   "SpySaveReadMarksDescription": "Локально сохраняет данные о чтении сообщений. Будет использоваться, если Telegram не предоставит дату чтения.",
-  "SpySaveLocalOnline": "Сохранить последний онлайн",
+  "SpySaveLocalOnline": "Сохранять последний онлайн",
   "SpySaveLocalOnlineDescription": "Сохраняет последний известный онлайн для людей со скрытым последним посещением. Вы сможете **очень приблизительно** увидеть, когда они были последний раз онлайн.",
   "ExportDatabaseButton": "Экспорт базы данных",
   "ImportDatabaseButton": "Импорт базы данных",
