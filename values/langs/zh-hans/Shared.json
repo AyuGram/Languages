@@ -150,6 +150,8 @@
   "RegexFilterBulletinText": "过滤器已添加到 **共享过滤器**中",
   "RegexFilterBulletinAction": "应用于当前聊天",
   "RegexFiltersListEmpty": "这里还没有过滤器。",
+  "FiltersQuickShadowBan": "静默封禁",
+  "FiltersQuickUnshadowBan": "Unshadow Ban",
   "FiltersMenuSelectChat": "选择聊天",
   "FiltersMenuImport": "导入",
   "FiltersMenuExport": "导出",
