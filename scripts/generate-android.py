@@ -7,7 +7,8 @@ import os.path
 
 mappings = {
     'zh-hans': 'zh-rCN',
-    'zh-hant': 'zh-rTW'
+    'zh-hant': 'zh-rTW',
+    'he': 'iw'
 }
 
 if not os.path.exists('./values'):
