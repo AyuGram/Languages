@@ -60,6 +60,8 @@
   "LocalPremium": "Telegram Premium local",
   "DisplayGhostStatus": "Display Ghost Mode Status",
   "CopyUsernameAsLink": "Copy Username as Link",
+  "HideChannelReactions": "Hide Reactions in Channels",
+  "HideGroupReactions": "Hide Reactions in Groups",
   "CustomizationHeader": "Personalización",
   "DeletedMarkText": "Deleted Mark",
   "DeletedMarkNothing": "Nada",
