@@ -288,6 +288,8 @@
   "ClearDeletedMessagesTitle": "Ачысціць выдаленыя паведамленні",
   "ClearDeletedMessagesText": "Вы ўпэўненыя, што хочаце ачысціць усе выдаленыя паведамленні ў гэтым чаце?",
   "ClearDeletedMessagesActionText": "Ачысціць",
+  "DeleteOwnMessages": "Delete own messages",
+  "DeleteOwnMessagesConfirmation": "Are you sure you want to delete all your messages from this group?",
   "SuggestGhostModeTitle": "Рэжым Прывіду",
   "SuggestGhostModeStoryText": "Вы хочаце ўключыць **рэжым прывіду** перад праглядам гісторыі?",
   "SuggestGhostModeStoryActionTextYes": "Так",
