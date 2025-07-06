@@ -60,6 +60,8 @@
   "LocalPremium": "تفعيل الإصدار المدفوع من تيليجرام (بعض المميزات)",
   "DisplayGhostStatus": "Display Ghost Mode Status",
   "CopyUsernameAsLink": "نسخ الاسم المستخدم كرابط",
+  "HideChannelReactions": "Hide Reactions in Channels",
+  "HideGroupReactions": "Hide Reactions in Groups",
   "CustomizationHeader": "التخصيص",
   "DeletedMarkText": "الأيقونة الدالة على حذف الرسالة",
   "DeletedMarkNothing": "لا شيء",
