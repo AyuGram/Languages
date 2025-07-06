@@ -288,6 +288,8 @@
   "ClearDeletedMessagesTitle": "שמור הודעות שנמחקו",
   "ClearDeletedMessagesText": "האם אתה בטוח שברצונך למחוק את כל ההודעות שנמחקו בצ'אט הזה?",
   "ClearDeletedMessagesActionText": "נקה",
+  "DeleteOwnMessages": "Delete own messages",
+  "DeleteOwnMessagesConfirmation": "Are you sure you want to delete all your messages from this group?",
   "SuggestGhostModeTitle": "מצב רוח רפאים",
   "SuggestGhostModeStoryText": "האם אתה רוצה להפעיל את **מצב רוח רפאים** לפני הצפייה בסיפור?",
   "SuggestGhostModeStoryActionTextYes": "כן",
