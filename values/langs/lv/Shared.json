@@ -60,6 +60,8 @@
   "LocalPremium": "",
   "DisplayGhostStatus": "Display Ghost Mode Status",
   "CopyUsernameAsLink": "Copy Username as Link",
+  "HideChannelReactions": "Hide Reactions in Channels",
+  "HideGroupReactions": "Hide Reactions in Groups",
   "CustomizationHeader": "Customization",
   "DeletedMarkText": "",
   "DeletedMarkNothing": "Nothing",
