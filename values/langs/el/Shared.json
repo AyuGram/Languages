@@ -288,6 +288,8 @@
   "ClearDeletedMessagesTitle": "Εκκαθάριστη διαγραμμένων μηνυμάτων",
   "ClearDeletedMessagesText": "Είστε βέβαιοι ότι θέλετε να καθαρίσετε όλα τα διαγραμμένα μηνύματα σε αυτή τη συνομιλία;",
   "ClearDeletedMessagesActionText": "Εκκαθάριση",
+  "DeleteOwnMessages": "Delete own messages",
+  "DeleteOwnMessagesConfirmation": "Are you sure you want to delete all your messages from this group?",
   "SuggestGhostModeTitle": "Ανώνυμη Λειτουργία",
   "SuggestGhostModeStoryText": "Θέλετε να ενεργοποιήσετε την **Ανώνυμη Λειτουργία** πριν την προβολή της ιστορίας;",
   "SuggestGhostModeStoryActionTextYes": "Ναι",
