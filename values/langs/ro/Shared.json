@@ -288,6 +288,8 @@
   "ClearDeletedMessagesTitle": "Curățați mesajele șterse",
   "ClearDeletedMessagesText": "Sigur doriți să curățați toate mesajele șterse din această conversație?",
   "ClearDeletedMessagesActionText": "Curățați",
+  "DeleteOwnMessages": "Delete own messages",
+  "DeleteOwnMessagesConfirmation": "Are you sure you want to delete all your messages from this group?",
   "SuggestGhostModeTitle": "Mod fantomă",
   "SuggestGhostModeStoryText": "Doriți să activați **Modul fantomă** înainte de a vizualiza povestea?",
   "SuggestGhostModeStoryActionTextYes": "Da",
