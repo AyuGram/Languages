@@ -288,6 +288,8 @@
   "ClearDeletedMessagesTitle": "Borrar mensajes eliminados",
   "ClearDeletedMessagesText": "¿Estás seguro de que quieres borrar todos los mensajes eliminados de este chat?",
   "ClearDeletedMessagesActionText": "Borrar",
+  "DeleteOwnMessages": "Delete own messages",
+  "DeleteOwnMessagesConfirmation": "Are you sure you want to delete all your messages from this group?",
   "SuggestGhostModeTitle": "Modo fantasma",
   "SuggestGhostModeStoryText": "¿Quieres activar el **Modo Fantasma** antes de ver la historia?",
   "SuggestGhostModeStoryActionTextYes": "Sí",
