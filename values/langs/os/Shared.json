@@ -60,6 +60,8 @@
   "LocalPremium": "Локалон Telegram Premium",
   "DisplayGhostStatus": "Display Ghost Mode Status",
   "CopyUsernameAsLink": "Рафӕзм ном ӕрвитӕнӕй",
+  "HideChannelReactions": "Hide Reactions in Channels",
+  "HideGroupReactions": "Hide Reactions in Groups",
   "CustomizationHeader": "Хицӕнхуызонгонд",
   "DeletedMarkText": "Схӕфтыты нысан",
   "DeletedMarkNothing": "Nothing",
