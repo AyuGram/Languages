@@ -343,6 +343,9 @@
   "ClearDeletedMessagesText": "Are you sure you want to clear all deleted messages in this chat?",
   "ClearDeletedMessagesActionText": "Clear",
 
+  "DeleteOwnMessages": "Delete own messages",
+  "DeleteOwnMessagesConfirmation": "Are you sure you want to delete all your messages from this group?",
+
   "SuggestGhostModeTitle": "Ghost Mode",
   "SuggestGhostModeStoryText": "Do you want to enable **Ghost Mode** before viewing the story?",
   "SuggestGhostModeStoryActionTextYes": "Yes",
