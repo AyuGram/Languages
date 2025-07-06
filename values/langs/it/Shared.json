@@ -288,6 +288,8 @@
   "ClearDeletedMessagesTitle": "Pulisci messaggi eliminati",
   "ClearDeletedMessagesText": "Sei sicuro di voler pulire tutti i messaggi eliminati in questa chat?",
   "ClearDeletedMessagesActionText": "Pulisci",
+  "DeleteOwnMessages": "Delete own messages",
+  "DeleteOwnMessagesConfirmation": "Are you sure you want to delete all your messages from this group?",
   "SuggestGhostModeTitle": "Modalità Fantasma",
   "SuggestGhostModeStoryText": "Vuoi attivare la **Modalità Fantasma** prima di visualizzare la storia?",
   "SuggestGhostModeStoryActionTextYes": "Sì",
