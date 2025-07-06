@@ -60,6 +60,8 @@
   "LocalPremium": "本地 Telegram 進階版",
   "DisplayGhostStatus": "Display Ghost Mode Status",
   "CopyUsernameAsLink": "Copy Username as Link",
+  "HideChannelReactions": "Hide Reactions in Channels",
+  "HideGroupReactions": "Hide Reactions in Groups",
   "CustomizationHeader": "自訂",
   "DeletedMarkText": "Deleted Mark",
   "DeletedMarkNothing": "Nothing",
