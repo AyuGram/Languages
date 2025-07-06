@@ -60,6 +60,8 @@
   "LocalPremium": "טלגרם פרימיום מקומי",
   "DisplayGhostStatus": "הצג סטטוס מצב גוסט",
   "CopyUsernameAsLink": "העתק את שם המשתמש כקישור",
+  "HideChannelReactions": "Hide Reactions in Channels",
+  "HideGroupReactions": "Hide Reactions in Groups",
   "CustomizationHeader": "התאמה אישית",
   "DeletedMarkText": "סמן נמחק",
   "DeletedMarkNothing": "כלום",
