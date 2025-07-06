@@ -288,6 +288,8 @@
   "ClearDeletedMessagesTitle": "Clear deleted messages",
   "ClearDeletedMessagesText": "Vai tiešām vēlaties notīrīt visus dzēstos ziņojumus šajā tērzēšanas sarunā?",
   "ClearDeletedMessagesActionText": "Clear",
+  "DeleteOwnMessages": "Delete own messages",
+  "DeleteOwnMessagesConfirmation": "Are you sure you want to delete all your messages from this group?",
   "SuggestGhostModeTitle": "Spoku režīms 👻",
   "SuggestGhostModeStoryText": "Do you want to enable **Ghost Mode** before viewing the story?",
   "SuggestGhostModeStoryActionTextYes": "Jā",
