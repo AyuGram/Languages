@@ -288,6 +288,8 @@
   "ClearDeletedMessagesTitle": "Purigi forigitajn mesaĝojn",
   "ClearDeletedMessagesText": "Ĉu vi estas certa, ke vi volas forigi ĉiujn forigitajn mesaĝojn en ĉi tiu babilejo?",
   "ClearDeletedMessagesActionText": "Purigi",
+  "DeleteOwnMessages": "Delete own messages",
+  "DeleteOwnMessagesConfirmation": "Are you sure you want to delete all your messages from this group?",
   "SuggestGhostModeTitle": "Fantoma reĝimo",
   "SuggestGhostModeStoryText": "Ĉu vi volas enŝalti **Fantoman Reĝimon** antaŭ vidi la historion?",
   "SuggestGhostModeStoryActionTextYes": "Jes",
