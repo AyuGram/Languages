@@ -288,6 +288,8 @@
   "ClearDeletedMessagesTitle": "Silinen mesajları temizle",
   "ClearDeletedMessagesText": "Bu sohbetteki tüm silinen mesajları temizlemek istediğinizden emin misiniz?",
   "ClearDeletedMessagesActionText": "Temizle",
+  "DeleteOwnMessages": "Delete own messages",
+  "DeleteOwnMessagesConfirmation": "Are you sure you want to delete all your messages from this group?",
   "SuggestGhostModeTitle": "Hayalet Modu",
   "SuggestGhostModeStoryText": "Hikayeyi görüntülemeden önce **Hayalet Modu**'nu etkinleştirmek istiyor musunuz?",
   "SuggestGhostModeStoryActionTextYes": "Evet",
