@@ -288,6 +288,8 @@
   "ClearDeletedMessagesTitle": "Очищение удалёнок",
   "ClearDeletedMessagesText": "Вы точно хотите очистить удалёнки?",
   "ClearDeletedMessagesActionText": "Очистить",
+  "DeleteOwnMessages": "Delete own messages",
+  "DeleteOwnMessagesConfirmation": "Are you sure you want to delete all your messages from this group?",
   "SuggestGhostModeTitle": "Режим призрака",
   "SuggestGhostModeStoryText": "Вы хотите включить **Режим призрака** перед просмотром истории?",
   "SuggestGhostModeStoryActionTextYes": "Да",
