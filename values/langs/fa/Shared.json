@@ -288,6 +288,8 @@
   "ClearDeletedMessagesTitle": "پاکسازی پیام های حذف شده",
   "ClearDeletedMessagesText": "آیا مطمئن هستید که میخواهید تمام پیام های حذف شده در این چت را پاکسازی کنید؟",
   "ClearDeletedMessagesActionText": "پاک کردن",
+  "DeleteOwnMessages": "Delete own messages",
+  "DeleteOwnMessagesConfirmation": "Are you sure you want to delete all your messages from this group?",
   "SuggestGhostModeTitle": "حالت روح",
   "SuggestGhostModeStoryText": "آیا می‌خواهید حالت «روح» را قبل از دیدن استوری فعال کنید؟",
   "SuggestGhostModeStoryActionTextYes": "بله",
