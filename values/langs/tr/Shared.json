@@ -60,6 +60,8 @@
   "LocalPremium": "Yerel Telegram Premium",
   "DisplayGhostStatus": "Hayalet Modu Durumunu Göster",
   "CopyUsernameAsLink": "Kullanıcı Adını Bağlantı Olarak Kopyala",
+  "HideChannelReactions": "Hide Reactions in Channels",
+  "HideGroupReactions": "Hide Reactions in Groups",
   "CustomizationHeader": "Özelleştirme",
   "DeletedMarkText": "Silinmiş İşareti",
   "DeletedMarkNothing": "Hiçbir Şey",
