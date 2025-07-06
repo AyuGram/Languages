@@ -60,6 +60,8 @@
   "LocalPremium": "Lokale Telegram Premium",
   "DisplayGhostStatus": "Geistermodus-Status anzeigen",
   "CopyUsernameAsLink": "Benutzernamen als Link kopieren",
+  "HideChannelReactions": "Hide Reactions in Channels",
+  "HideGroupReactions": "Hide Reactions in Groups",
   "CustomizationHeader": "Personalisieren",
   "DeletedMarkText": "Markierung Löschen",
   "DeletedMarkNothing": "Nichts",
