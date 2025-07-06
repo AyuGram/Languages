@@ -60,6 +60,8 @@
   "LocalPremium": "تلگرام پرمیوم محلی",
   "DisplayGhostStatus": "نمایش دادن وضعیت حالت روح",
   "CopyUsernameAsLink": "کپی کردن نام کاربری به عنوان لینک",
+  "HideChannelReactions": "Hide Reactions in Channels",
+  "HideGroupReactions": "Hide Reactions in Groups",
   "CustomizationHeader": "شخصی سازی",
   "DeletedMarkText": "علامت پیام حذف شده",
   "DeletedMarkNothing": "هیچ",
