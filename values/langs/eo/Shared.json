@@ -60,6 +60,8 @@
   "LocalPremium": "Loka Telegram Premium",
   "DisplayGhostStatus": "Display Ghost Mode Status",
   "CopyUsernameAsLink": "Copy Username as Link",
+  "HideChannelReactions": "Hide Reactions in Channels",
+  "HideGroupReactions": "Hide Reactions in Groups",
   "CustomizationHeader": "Laŭplaĉigado",
   "DeletedMarkText": "Deleted Mark",
   "DeletedMarkNothing": "Nenio",
