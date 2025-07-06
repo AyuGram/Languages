@@ -60,6 +60,8 @@
   "LocalPremium": "Локальный Telegram Premium",
   "DisplayGhostStatus": "Статус призрака в списке диалогов",
   "CopyUsernameAsLink": "Копировать юзернейм как ссылку",
+  "HideChannelReactions": "Hide Reactions in Channels",
+  "HideGroupReactions": "Hide Reactions in Groups",
   "CustomizationHeader": "Персонализация",
   "DeletedMarkText": "Метка удалёнок",
   "DeletedMarkNothing": "Убрать значок",
