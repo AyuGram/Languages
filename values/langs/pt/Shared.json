@@ -288,6 +288,8 @@
   "ClearDeletedMessagesTitle": "Apagar mensagens excluídas",
   "ClearDeletedMessagesText": "Você tem certeza de que deseja apagar todas as mensagens excluídas nesta conversa?",
   "ClearDeletedMessagesActionText": "Limpar",
+  "DeleteOwnMessages": "Delete own messages",
+  "DeleteOwnMessagesConfirmation": "Are you sure you want to delete all your messages from this group?",
   "SuggestGhostModeTitle": "Modo Fantasma",
   "SuggestGhostModeStoryText": "Você deseja ativar o **Modo Fantasma** antes de visualizar os stories?",
   "SuggestGhostModeStoryActionTextYes": "Sim",
