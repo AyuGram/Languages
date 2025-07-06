@@ -288,6 +288,8 @@
   "ClearDeletedMessagesTitle": "Очистити видалені повідомлення",
   "ClearDeletedMessagesText": "Ви дійсно хочете очистити всі видалені повідомлення в цьому чаті?",
   "ClearDeletedMessagesActionText": "Очистити",
+  "DeleteOwnMessages": "Delete own messages",
+  "DeleteOwnMessagesConfirmation": "Are you sure you want to delete all your messages from this group?",
   "SuggestGhostModeTitle": "Режим привида",
   "SuggestGhostModeStoryText": "Увімкнути режим привида перед переглядом історії?",
   "SuggestGhostModeStoryActionTextYes": "Так",
