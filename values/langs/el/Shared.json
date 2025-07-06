@@ -60,6 +60,8 @@
   "LocalPremium": "Τοπικό Telegram Premium",
   "DisplayGhostStatus": "Display Ghost Mode Status",
   "CopyUsernameAsLink": "Αντιγραφή ονόματος χρήστη ως σύνδεσμο",
+  "HideChannelReactions": "Hide Reactions in Channels",
+  "HideGroupReactions": "Hide Reactions in Groups",
   "CustomizationHeader": "Προσαρμογή",
   "DeletedMarkText": "Σημάδι διαγραμμένου μηνύματος",
   "DeletedMarkNothing": "Τίποτα",
