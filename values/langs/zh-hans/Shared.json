@@ -288,6 +288,8 @@
   "ClearDeletedMessagesTitle": "清除已删除的消息",
   "ClearDeletedMessagesText": "您确定要清除此聊天中所有已删除的消息？",
   "ClearDeletedMessagesActionText": "清除",
+  "DeleteOwnMessages": "Delete own messages",
+  "DeleteOwnMessagesConfirmation": "Are you sure you want to delete all your messages from this group?",
   "SuggestGhostModeTitle": "隐身模式",
   "SuggestGhostModeStoryText": "您想在查看动态前启用 **隐身模式** 吗？",
   "SuggestGhostModeStoryActionTextYes": "是",
