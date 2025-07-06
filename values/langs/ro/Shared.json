@@ -60,6 +60,8 @@
   "LocalPremium": "Telegram premium local",
   "DisplayGhostStatus": "Afișează starea modului fantomă",
   "CopyUsernameAsLink": "Copiați numele de utilizator ca link",
+  "HideChannelReactions": "Hide Reactions in Channels",
+  "HideGroupReactions": "Hide Reactions in Groups",
   "CustomizationHeader": "Personalizări",
   "DeletedMarkText": "Marcaj șters",
   "DeletedMarkNothing": "Nimic",
