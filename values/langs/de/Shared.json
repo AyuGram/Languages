@@ -288,6 +288,8 @@
   "ClearDeletedMessagesTitle": "Gelöschte Nachrichten entfernen",
   "ClearDeletedMessagesText": "Wirklich alle gelöschten Nachrichten entfernen?",
   "ClearDeletedMessagesActionText": "Entfernen",
+  "DeleteOwnMessages": "Delete own messages",
+  "DeleteOwnMessagesConfirmation": "Are you sure you want to delete all your messages from this group?",
   "SuggestGhostModeTitle": "Geistmodus",
   "SuggestGhostModeStoryText": "Do you want to enable **Ghost Mode** before viewing the story?",
   "SuggestGhostModeStoryActionTextYes": "Ja",
