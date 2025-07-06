@@ -288,6 +288,8 @@
   "ClearDeletedMessagesTitle": "Ссыгъдӕг кӕн хафт фыстӕджытӕ",
   "ClearDeletedMessagesText": "Ӕцӕг дӕ фӕнды ссыгъдӕг кӕнын ам схафт фыстӕджытӕ?",
   "ClearDeletedMessagesActionText": "Схафын",
+  "DeleteOwnMessages": "Delete own messages",
+  "DeleteOwnMessagesConfirmation": "Are you sure you want to delete all your messages from this group?",
   "SuggestGhostModeTitle": "Гамхуды режим",
   "SuggestGhostModeStoryText": "Фӕнды дӕ скусын кӕнын **Гамхуды режим** историйы ӕркасты размӕ?",
   "SuggestGhostModeStoryActionTextYes": "Гъо",
