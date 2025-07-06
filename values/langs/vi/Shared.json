@@ -288,6 +288,8 @@
   "ClearDeletedMessagesTitle": "Xoá sạch tin nhắn",
   "ClearDeletedMessagesText": "Bạn có chắc chắn muốn xóa tất cả tin nhắn đã xóa trong cuộc trò chuyện này không?",
   "ClearDeletedMessagesActionText": "Xoá",
+  "DeleteOwnMessages": "Delete own messages",
+  "DeleteOwnMessagesConfirmation": "Are you sure you want to delete all your messages from this group?",
   "SuggestGhostModeTitle": "Chế Độ Ghost",
   "SuggestGhostModeStoryText": "Bạn có muốn bật **Chế độ ma** trước khi xem truyện không?",
   "SuggestGhostModeStoryActionTextYes": "Đồng ý",
