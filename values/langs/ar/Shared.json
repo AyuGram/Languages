@@ -288,6 +288,8 @@
   "ClearDeletedMessagesTitle": "مسح الرسائل المحذوفة",
   "ClearDeletedMessagesText": "هل أنت متأكد من أنك تريد مسح جميع الرسائل المحذوفة في هذه المحادثة؟",
   "ClearDeletedMessagesActionText": "مسح",
+  "DeleteOwnMessages": "Delete own messages",
+  "DeleteOwnMessagesConfirmation": "Are you sure you want to delete all your messages from this group?",
   "SuggestGhostModeTitle": "وضع الشبح 👻",
   "SuggestGhostModeStoryText": "هل تريد تمكين وضع الشبح قبل مشاهدة القصة؟",
   "SuggestGhostModeStoryActionTextYes": "نعم",
