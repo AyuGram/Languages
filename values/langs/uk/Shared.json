@@ -60,6 +60,8 @@
   "LocalPremium": "Локальний Telegram Преміум",
   "DisplayGhostStatus": "Статус режиму привида в списку діалогів",
   "CopyUsernameAsLink": "Копіювати ім'я користувача як посилання",
+  "HideChannelReactions": "Hide Reactions in Channels",
+  "HideGroupReactions": "Hide Reactions in Groups",
   "CustomizationHeader": "Персоналізація",
   "DeletedMarkText": "Позначка \"видалено\"",
   "DeletedMarkNothing": "Нічого",
