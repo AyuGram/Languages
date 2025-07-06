@@ -60,6 +60,8 @@
   "LocalPremium": "Telegram địa phương cao cấp",
   "DisplayGhostStatus": "Display Ghost Mode Status",
   "CopyUsernameAsLink": "Sao chép tên người dùng làm liên kết",
+  "HideChannelReactions": "Hide Reactions in Channels",
+  "HideGroupReactions": "Hide Reactions in Groups",
   "CustomizationHeader": "Tùy chỉnh",
   "DeletedMarkText": "Xoá đánh dấu",
   "DeletedMarkNothing": "Không có gì",
