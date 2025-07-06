@@ -60,6 +60,8 @@
   "LocalPremium": "Лакальны Telegram Premium",
   "DisplayGhostStatus": "Статус здані ў спісе дыялогаў",
   "CopyUsernameAsLink": "Скапіраваць імя карыстальніка як спасылку",
+  "HideChannelReactions": "Hide Reactions in Channels",
+  "HideGroupReactions": "Hide Reactions in Groups",
   "CustomizationHeader": "Наладжваньне",
   "DeletedMarkText": "Адзнака аддаленых",
   "DeletedMarkNothing": "Нічога",
