@@ -367,7 +367,7 @@
   "ConfirmationGIF": "Θέλετε να στείλετε αυτό το GIF;",
   "ConfirmationVoice": "Θέλετε να στείλετε αυτό το φωνητικό μήνυμα;",
   "IntroAbout": "Καλώς ήρθατε στο AyuGram Desktop.\nΚάντε το Telegram δικό σας.",
-  "AboutText1": "Πρόγραμμα Telegram με απαγορευμένη λειτουργικότητα βασισμένο στο {api_link}.",
+  "AboutText1": "ToS breaking Telegram client based on {api_link}.",
   "UpdateAyuGram": "Ενημέρωση του AyuGram",
   "UtilityRestartRequired": "The app will close in 5 seconds."
 }
