@@ -388,6 +388,7 @@
   "IDCopiedToast": "ID copiat în clipboard.",
   "ContextHideMessage": "Ascundeți",
   "ContextCopyCallbackData": "Copiați datele de apel invers",
+  "RepeatMessage": "Repeat Message",
   "RegisterURLScheme": "Înregistrați schema URL",
   "SessionTerminated": "Session **%1$s** was terminated. You may still browse cached messages.",
   "LocalPremiumNotice_PC": "Folosiți Telegram Premium **local**. **Nu** vă va oferi niciun beneficiu. **Bucurați-vă de steaua lângă porecla dumneavoastră!**",
