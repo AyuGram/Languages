@@ -388,6 +388,7 @@
   "IDCopiedToast": "شناسه در کلیپ‌بورد کپی شد.",
   "ContextHideMessage": "مخفی کردن",
   "ContextCopyCallbackData": "کپی داده های بازخورد",
+  "RepeatMessage": "Repeat Message",
   "RegisterURLScheme": "ثبت طرح URL",
   "SessionTerminated": "Session **%1$s** was terminated. You may still browse cached messages.",
   "LocalPremiumNotice_PC": "شما دارید از تلگرام پرمیوم **محلی** استفاده میکنید.\nاین **هرگز** به شما مزایای دیگری نمیده،\n**از ستاره‌ی کنار اسمتون لذت ببرید!**",
