@@ -388,6 +388,7 @@
   "IDCopiedToast": "ה-id הועתק ללוח.",
   "ContextHideMessage": "הסתר",
   "ContextCopyCallbackData": "העתק את הנתונים של הכפתור",
+  "RepeatMessage": "Repeat Message",
   "RegisterURLScheme": "Register URL Scheme",
   "SessionTerminated": "הסשן **%1$s** הסתיים. עדיין ניתן לעיין בהודעות המאוחסנות במטמון.",
   "LocalPremiumNotice_PC": "אתה משתמש **מקומי** בטלגרם פרימיום.\n זה **לא** ייתן לך שום הטבות.\n **תהנה מהכוכב ליד הכינוי שלך!**",
