@@ -388,6 +388,7 @@
   "IDCopiedToast": "تم نسخ المعرف إلى الحافظة",
   "ContextHideMessage": "إخفاء ",
   "ContextCopyCallbackData": "نسخ معلومات معاودة الاتصال",
+  "RepeatMessage": "Repeat Message",
   "RegisterURLScheme": "نظام تسجيل URL",
   "SessionTerminated": "Session **%1$s** was terminated. You may still browse cached messages.",
   "LocalPremiumNotice_PC": "You're using **local** Telegram Premium.\nIt **won't** give you any benefits.\n**Enjoy the star near your nickname!**",
