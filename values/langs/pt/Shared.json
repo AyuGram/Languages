@@ -388,6 +388,7 @@
   "IDCopiedToast": "ID copiado para a área de transferência.",
   "ContextHideMessage": "Ocultar",
   "ContextCopyCallbackData": "Copiar dados de callback",
+  "RepeatMessage": "Repeat Message",
   "RegisterURLScheme": "Registrar esquema de URL",
   "SessionTerminated": "Sessão **%1$s** foi encerrada. Você ainda pode procurar mensagens em cache.",
   "LocalPremiumNotice_PC": "Você está usando o Telegram Premium **local**.\nEle **não** lhe dará nenhum benefício.\n**Aproveite a estrela do lado do seu nome!**",
