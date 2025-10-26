@@ -388,6 +388,7 @@
   "IDCopiedToast": "ID đã được sao chép vào bộ nhớ tạm",
   "ContextHideMessage": "Ẩn",
   "ContextCopyCallbackData": "Copy Callback Data",
+  "RepeatMessage": "Repeat Message",
   "RegisterURLScheme": "Register URL Scheme",
   "SessionTerminated": "Session **%1$s** was terminated. You may still browse cached messages.",
   "LocalPremiumNotice_PC": "You're using **local** Telegram Premium.\nIt **won't** give you any benefits.\n**Enjoy the star near your nickname!**",
