@@ -388,6 +388,7 @@
   "IDCopiedToast": "ID скопійовано до буфера обміну.",
   "ContextHideMessage": "Сховати",
   "ContextCopyCallbackData": "Копіювати callback-дані",
+  "RepeatMessage": "Repeat Message",
   "RegisterURLScheme": "Асоціювати посилання з AyuGram",
   "SessionTerminated": "Сесію **%1$s** було припинено. Ви все ще можете переглядати кешовані повідомлення.",
   "LocalPremiumNotice_PC": "Ви використовуєте **локальний** Telegram Premium.\n Це **не** дасть вам жодних переваг.\n **Насолоджуйтеся зіркою біля свого імені!**",
