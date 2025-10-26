@@ -388,6 +388,7 @@
   "IDCopiedToast": "Kimlik panoya kopyalandı.",
   "ContextHideMessage": "Gizle",
   "ContextCopyCallbackData": "Geri Çağırma Verisini Kopyala",
+  "RepeatMessage": "Repeat Message",
   "RegisterURLScheme": "URL Şemasını Kaydet",
   "SessionTerminated": "**%1$s** oturumu sonlandırıldı. Önbelleğe alınmış mesajları hala görüntüleyebilirsiniz.",
   "LocalPremiumNotice_PC": "**Yerel** Telegram Premium kullanıyorsunuz.\nBu size herhangi bir avantaj **sağlamaz**.\n**Takma adınızın yanındaki yıldızın keyfini çıkarın!**",
