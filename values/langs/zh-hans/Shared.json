@@ -388,6 +388,7 @@
   "IDCopiedToast": "ID 已复制到剪贴板",
   "ContextHideMessage": "隐藏",
   "ContextCopyCallbackData": "复制回调数据",
+  "RepeatMessage": "Repeat Message",
   "RegisterURLScheme": "注册 URL 方案",
   "SessionTerminated": "会话 **%1$s** 已终止。您仍可浏览缓存的信息。",
   "LocalPremiumNotice_PC": "您正在使用 **本地** Telegram Premium。\n它 **不会** 给您带来任何好处。\n**享受您昵称附近的星星！**",
