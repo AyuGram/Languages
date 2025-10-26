@@ -480,6 +480,8 @@
 
   "ContextCopyCallbackData": "Copy Callback Data",
 
+  "RepeatMessage": "Repeat Message",
+
   "RegisterURLScheme": "Register URL Scheme",
 
   "SessionTerminated": "Session **%1$s** was terminated. You may still browse cached messages.",
