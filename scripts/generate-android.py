@@ -39,7 +39,7 @@ for lang in langs:
         if k.endswith('_Android'):
             k = k.replace('_Android', '')
 
-        if k == 'HideAllChats':
+        if k == 'HideAllChats' or k == 'TranslationProvider':
             continue
 
         string = et.SubElement(root, 'string', {'name': k})
