@@ -70,6 +70,7 @@
 
   "QoLTogglesHeader": "Useful features",
   "KeepAliveService": "AyuGram Push Service",
+  "KeepAliveServiceNote": "We recommend migrating to **FCM** version.",
   "DisableAds": "Disable Ads",
   "DisableStories": "Disable Stories",
   "DisableCustomBackgrounds": "Disable Custom Backgrounds",
@@ -369,6 +370,8 @@
   "ClearDeletedMenuText": "Clear Deleted",
   "ViewDeletedMenuText": "View Deleted",
   "ViewFiltersMenuText": "View Filters",
+  "ShowFilteredMessagesMenuText": "Show Filtered",
+  "HideFilteredMessagesMenuText": "Hide Filtered",
   "ReadExclusionMenuText": "Read Exclusion",
   "TypingExclusionMenuText": "Typing Exclusion",
 
@@ -457,6 +460,8 @@
   "ExpireMediaContextMenuText": "Burn",
   "ExpiringVoiceMessageNote": "This voice message can be played as many times as you want.",
   "ExpiringVideoMessageNote": "This video message can be played as many times as you want.",
+  "OncePhotoMessageNote": "This photo can be viewed indefinitely.",
+  "OnceVideoMessageNote": "This video can be viewed indefinitely.",
 
   "UserNotFoundMessage": "User not found.",
 
