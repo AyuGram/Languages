@@ -298,7 +298,7 @@
   "GhostModeEnabled": "Режим призрака включён",
   "GhostModeDisabled": "Режим призрака выключен",
   "GhostModeGlobalSettings": "Общие настройки",
-  "GhostModeGlobalSettingsDescription": "Одинаковые для всех аккаунтов",
+  "GhostModeGlobalSettingsDescription": "Для всех аккаунтов",
   "GhostModeSwitchedToGlobalSettings": "Переключено на одинаковые настройки для всех аккаунтов.",
   "GhostModeSwitchedToIndividualSettings": "Переключено на отдельные настройки для каждого аккаунта.",
   "StreamerModeToggle": "Режим стримера",
