@@ -101,7 +101,7 @@
 
   "SupportHeader": "Support",
   "SupportDescription1": "Support Development",
-  "SupportDescription2": "{item} and get an unique badge!",
+  "SupportDescription2": "{item} and get a unique badge!",
 
   "SupportBoxHeader_PC": "Support Development",
   "SupportBoxInfo_PC": "By supporting the project, you not only contribute to its development but also get a unique badge.",
@@ -499,7 +499,7 @@
   "DonateInfoV2_Android": "Buy us a coffee or keep our update server running. Write to **%1$s** after **donation**.",
 
   "DeveloperPopup": "**{item}** is a member of the **exteraGram** development team.",
-  "SupporterPopup": "**{item}** supported the development of **exteraGram** or **AyuGram** and received an unique badge.",
+  "SupporterPopup": "**{item}** supported the development of **exteraGram** or **AyuGram** and received a unique badge.",
   "OfficialResourcePopup": "**{item}** is the official resource of **exteraGram** or **AyuGram**.",
 
   "SettingsWatermark": "AyuGram is developed and maintained by Radolyn Labs.",
