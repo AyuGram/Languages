@@ -51,8 +51,10 @@ for k, v in strings.items():
         v = v.replace('%1$d', '{count}')
     elif '%1$d' in v and '%2$d' in v:
         v = v.replace('%1$d', '{count1}').replace('%2$d', '{count2}')
-    elif '%1$s' in v:
+    elif '%1$s' in v and not '%2$s' in v:
         v = v.replace('%1$s', '{item}')
+    elif '%1$s' in v and '%2$s' in v:
+        v = v.replace('%1$s', '{item1}').replace('%2$s', '{item2}')
 
     escaped = v.replace('"', '\\"').replace('\n', '\\n')
     data += f'"ayu_{k}" = "{escaped}";\n'
