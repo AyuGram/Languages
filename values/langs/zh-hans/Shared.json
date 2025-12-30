@@ -404,6 +404,7 @@
   "RepeatMessage": "再次发送消息",
   "RegisterURLScheme": "注册 URL 方案",
   "SessionTerminated": "会话 **%1$s** 已终止。您仍可浏览缓存的信息。",
+  "InvalidConnectionLayerNote": "You should re-login due to an error during the update.",
   "LocalPremiumNotice_PC": "您正在使用 **本地** Telegram Premium。\n它 **不会** 给您带来任何好处。\n**享受您昵称附近的星星！**",
   "LocalPremiumNotice_Android": "您正在使用 **本地** Telegram Premium。\n您可以用它来使用受限的翻译功能以及一些 **本地** Telegram Premium 特性。",
   "DonateInfoV0_Android": "请我们喝杯咖啡或保持我们的更新服务器运行。如果您需要徽章，请查看上方 - 我们目前不提供。",
