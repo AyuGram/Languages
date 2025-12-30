@@ -404,6 +404,7 @@
   "RepeatMessage": "Repeat Message",
   "RegisterURLScheme": "Înregistrați schema URL",
   "SessionTerminated": "Sesiunea **%1$s** a fost încheiată. Puteți naviga în continuare prin mesaje cache.",
+  "InvalidConnectionLayerNote": "You should re-login due to an error during the update.",
   "LocalPremiumNotice_PC": "Folosiți Telegram Premium **local**. **Nu** vă va oferi niciun beneficiu. **Bucurați-vă de steaua lângă porecla dumneavoastră!**",
   "LocalPremiumNotice_Android": "Folosiți Telegram Premium **local**. Îl puteți folosi pentru un traducător cu tarif limitat și pentru unele lucruri **locale** Telegram Premium.",
   "DonateInfoV0_Android": "Cumpărați-ne o cafea pentru a păstra serverul nostru de actualizare în funcțiune. Dacă aveți nevoie de o insignă, uitați-vă mai sus - noi nu oferim momentan.",
