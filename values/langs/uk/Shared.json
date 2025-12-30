@@ -404,6 +404,7 @@
   "RepeatMessage": "Повторити повідомлення",
   "RegisterURLScheme": "Асоціювати посилання з AyuGram",
   "SessionTerminated": "Сесію **%1$s** було припинено. Ви все ще можете переглядати кешовані повідомлення.",
+  "InvalidConnectionLayerNote": "You should re-login due to an error during the update.",
   "LocalPremiumNotice_PC": "Ви використовуєте **локальний** Telegram Premium.\n Це **не** дасть вам жодних переваг.\n **Насолоджуйтеся зіркою біля свого імені!**",
   "LocalPremiumNotice_Android": "Ви використовуєте **локальний** Telegram Premium.\nВам доступний обмежений перекладач та деякі **локальні** фічі Telegram Premium.",
   "DonateInfoV0_Android": "Пригостіть нас кавою або допоможіть продовжувати роботу нашого сервера для оновлень. Якщо вам потрібен значок, подивіться вище - ми поки що не видаємо їх.",
