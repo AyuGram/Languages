@@ -404,6 +404,7 @@
   "RepeatMessage": "Repeat Message",
   "RegisterURLScheme": "ثبت طرح URL",
   "SessionTerminated": "Session **%1$s** was terminated. You may still browse cached messages.",
+  "InvalidConnectionLayerNote": "You should re-login due to an error during the update.",
   "LocalPremiumNotice_PC": "شما دارید از تلگرام پرمیوم **محلی** استفاده میکنید.\nاین **هرگز** به شما مزایای دیگری نمیده،\n**از ستاره‌ی کنار اسمتون لذت ببرید!**",
   "LocalPremiumNotice_Android": "شما درحال استفاده از تلگرام پرمیوم **محلی** هستید.\nمی‌توانید از آن برای یک مترجم به صورت محدود شده و برخی موارد **محلی** تلگرام پرمیوم استفاده کنید.",
   "DonateInfoV0_Android": "Buy us a coffee or keep our update server running. If you need a badge, look above — we don't give it at the moment.",
