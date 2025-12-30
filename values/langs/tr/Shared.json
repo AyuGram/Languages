@@ -404,6 +404,7 @@
   "RepeatMessage": "Mesajı Tekrarla",
   "RegisterURLScheme": "URL Şemasını Kaydet",
   "SessionTerminated": "**%1$s** oturumu sonlandırıldı. Önbelleğe alınmış mesajları hala görüntüleyebilirsiniz.",
+  "InvalidConnectionLayerNote": "You should re-login due to an error during the update.",
   "LocalPremiumNotice_PC": "**Yerel** Telegram Premium kullanıyorsunuz.\nBu size herhangi bir avantaj **sağlamaz**.\n**Takma adınızın yanındaki yıldızın keyfini çıkarın!**",
   "LocalPremiumNotice_Android": "**Yerel** Telegram Premium kullanıyorsunuz.\nBunu hız sınırlamalı bir çevirmen ve bazı **yerel** Telegram Premium özellikleri için kullanabilirsiniz.",
   "DonateInfoV0_Android": "Bize bir kahve ısmarlayın veya güncelleme sunucumuzu çalışır durumda tutun. Bir rozete ihtiyacınız varsa, yukarıya bakın — şu anda vermiyoruz.",
