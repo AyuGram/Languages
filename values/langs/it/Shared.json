@@ -404,6 +404,7 @@
   "RepeatMessage": "Repeat Message",
   "RegisterURLScheme": "Registra Schema URL",
   "SessionTerminated": "Session **%1$s** was terminated. You may still browse cached messages.",
+  "InvalidConnectionLayerNote": "You should re-login due to an error during the update.",
   "LocalPremiumNotice_PC": "Stai usando Telegram Premium **in locale**.\n**Non** ti darà alcun beneficio.\n**Goditi la stella vicino al tuo nickname!**",
   "LocalPremiumNotice_Android": "Stai usando Telegram Premium **in locale**.\nPuoi usarlo per un traduttore con limitazioni e alcune funzioni **in locale** di Telegram Premium.",
   "DonateInfoV0_Android": "Buy us a coffee or keep our update server running. If you need a badge, look above — we don't give it at the moment.",
