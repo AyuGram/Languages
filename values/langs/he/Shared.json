@@ -404,6 +404,7 @@
   "RepeatMessage": "הודעה חוזרת",
   "RegisterURLScheme": "Register URL Scheme",
   "SessionTerminated": "הסשן **%1$s** הסתיים. עדיין ניתן לעיין בהודעות המאוחסנות במטמון.",
+  "InvalidConnectionLayerNote": "You should re-login due to an error during the update.",
   "LocalPremiumNotice_PC": "אתה משתמש **מקומי** בטלגרם פרימיום.\n זה **לא** ייתן לך שום הטבות.\n **תהנה מהכוכב ליד הכינוי שלך!**",
   "LocalPremiumNotice_Android": "אתה משתמש **מקומי** בטלגרם פרימיום.\n אתה יכול להשתמש בו עבור מתרגם מוגבל בתעריף וכמה דברים **מקומיים** של טלגרם פרימיום.",
   "DonateInfoV0_Android": "קנה לנו קפה או השאר את שרת העדכונים שלנו פועל. אם אתה צריך תג, הסתכל למעלה - אנחנו לא נותנים אותו כרגע.",
