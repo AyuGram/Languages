@@ -404,7 +404,7 @@
   "RepeatMessage": "Powtórz wiadomość",
   "RegisterURLScheme": "Zarejestruj schemat URL",
   "SessionTerminated": "Sesja **%1$s** została zakończona. Nadal możesz przeglądać zapisane w pamięci wiadomości.",
-  "InvalidConnectionLayerNote": "You should re-login due to an error during the update.",
+  "InvalidConnectionLayerNote": "Wystąpił błąd podczas aktualizacji. Zaloguj się ponownie.",
   "LocalPremiumNotice_PC": "Używasz **lokalnego** Telegram Premium.\nTo **nie daje** żadnych korzyści.\n**Ciesz się gwiazdką obok swojego nicka!**",
   "LocalPremiumNotice_Android": "Używasz **lokalnego** Telegram Premium.\nMożesz korzystać z niego do tłumacza z limitem i kilku **lokalnych** funkcji Premium.",
   "DonateInfoV0_Android": "Postaw nam kawę lub pomóż utrzymać serwer aktualizacji. Jeśli chcesz odznakę, spójrz wyżej — na razie jej nie przyznajemy.",
