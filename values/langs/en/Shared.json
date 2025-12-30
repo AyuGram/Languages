@@ -500,6 +500,8 @@
 
   "SessionTerminated": "Session **%1$s** was terminated. You may still browse cached messages.",
 
+  "InvalidConnectionLayerNote": "You should re-login due to an error during the update.",
+
   "LocalPremiumNotice_PC": "You're using **local** Telegram Premium.\nIt **won't** give you any benefits.\n**Enjoy the star near your nickname!**",
   "LocalPremiumNotice_Android": "You're using **local** Telegram Premium.\nYou may use it for a rate-limited translator and some **local** Telegram Premium stuff.",
 
