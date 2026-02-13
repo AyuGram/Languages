@@ -485,6 +485,8 @@
   "GhostModeShortcut": "Enter with Ghost",
 
   "SettingsShowMessageSeconds": "Show Message Seconds",
+  "FilterZalgo_PC": "Filter Zalgo",
+  "ImproveLinkPreviews": "Improve Link Previews",
 
   "ShowOnlyAddedEmojisAndStickers": "Show Only Added Emojis & Stickers",
 
@@ -492,11 +494,18 @@
   "IDCopiedToast": "ID copied to clipboard.",
   "ContextHideMessage": "Hide",
 
+  "SearchByIDResults": "Found by ID",
+
   "ContextCopyCallbackData": "Copy Callback Data",
 
   "RepeatMessage": "Repeat Message",
 
   "RegisterURLScheme": "Register URL Scheme",
+
+  "PluginVersion_PC": "Version",
+  "PluginNoDescription_PC": "No description provided.",
+  "PluginNoAuthor_PC": "Unknown Author",
+  "PluginsNotAvailable_PC": "Plugins are not supported by AyuGram Desktop yet.",
 
   "SessionTerminated": "Session **%1$s** was terminated. You may still browse cached messages.",
 
