@@ -84,8 +84,9 @@
   "HideGroupReactions": "Hide Reactions in Groups",
 
   "HideReactions_PC": "Hide Reactions",
-  "HideReactionsInChannels_PC": "In Channels",
-  "HideReactionsInGroups_PC": "In Groups",
+  "HideReactionsInChannels_PC": "Channels",
+  "HideReactionsInGroups_PC": "Groups",
+  "HideReactionsInPrivateChats_PC": "Private Chats",
 
   "QuickAdminShortcuts": "Quick Admin Shortcuts",
 
