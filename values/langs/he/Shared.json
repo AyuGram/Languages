@@ -110,6 +110,8 @@
   "HideNotificationBadge": "הסתר את תוכן ההתראות",
   "HideNotificationBadgeDescription": "מסתיר את מונה ההתראות בסמל האפליקציה בשורת המשימות ובמגש.",
   "AvatarCorners_PC": "Avatar Corners",
+  "AvatarCornersCircle_PC": "Circle",
+  "AvatarCornersSquare_PC": "Square",
   "SingleCornerRadius_PC": "Single Corner Radius",
   "SingleCornerRadiusDescription_PC": "Forums will have the same avatar shape as chats.",
   "HideAllChats": "הסתרת כרטיסיית \"כל הצ'אטים\"",
