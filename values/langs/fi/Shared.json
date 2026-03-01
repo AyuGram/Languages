@@ -110,6 +110,8 @@
   "HideNotificationBadge": "Piilota ilmoitusmerkki",
   "HideNotificationBadgeDescription": "Piilottaa ilmoituslaskurin tehtäväpalkin ja järjestelmäalustan sovelluskuvakkeesta.",
   "AvatarCorners_PC": "Avatar Corners",
+  "AvatarCornersCircle_PC": "Circle",
+  "AvatarCornersSquare_PC": "Square",
   "SingleCornerRadius_PC": "Single Corner Radius",
   "SingleCornerRadiusDescription_PC": "Forums will have the same avatar shape as chats.",
   "HideAllChats": "Piilota ”Kaikki keskustelut” -välilehti",
