@@ -110,6 +110,8 @@
   "HideNotificationBadge": "Ocultar ícone de Notificação",
   "HideNotificationBadgeDescription": "Oculta o contador de notificações no ícone do app na barra de tarefas e na bandeja.",
   "AvatarCorners_PC": "Avatar Corners",
+  "AvatarCornersCircle_PC": "Circle",
+  "AvatarCornersSquare_PC": "Square",
   "SingleCornerRadius_PC": "Single Corner Radius",
   "SingleCornerRadiusDescription_PC": "Forums will have the same avatar shape as chats.",
   "HideAllChats": "Ocultar \"Todos os bate-papos\"",
