@@ -110,6 +110,8 @@
   "HideNotificationBadge": "隐藏通知角标",
   "HideNotificationBadgeDescription": "隐藏任务栏和托盘中应用图标上的通知徽章。",
   "AvatarCorners_PC": "Avatar Corners",
+  "AvatarCornersCircle_PC": "Circle",
+  "AvatarCornersSquare_PC": "Square",
   "SingleCornerRadius_PC": "Single Corner Radius",
   "SingleCornerRadiusDescription_PC": "Forums will have the same avatar shape as chats.",
   "HideAllChats": "隐藏“所有聊天”标签",
