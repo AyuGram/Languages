@@ -110,6 +110,8 @@
   "HideNotificationBadge": "Απόκρυψη Εμβλήματος Ειδοποιήσεων",
   "HideNotificationBadgeDescription": "Απόκρυψη του μετρητή ειδοποιήσεων στο εικονίδιο της εφαρμογής στη γραμμή εργασιών και στο συρτάρι της γραμμής εργασιών.",
   "AvatarCorners_PC": "Avatar Corners",
+  "AvatarCornersCircle_PC": "Circle",
+  "AvatarCornersSquare_PC": "Square",
   "SingleCornerRadius_PC": "Single Corner Radius",
   "SingleCornerRadiusDescription_PC": "Forums will have the same avatar shape as chats.",
   "HideAllChats": "Απόκρυψη Καρτέλας «All Chats»",
