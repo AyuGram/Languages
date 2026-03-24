@@ -144,7 +144,7 @@
   "MessageFieldElementTTL": "TTL",
   "MessageFieldElementEmoji": "Emoji",
   "MessageFieldElementVoice": "Głos",
-  "DrawerElementsHeader": "Elementy szuflady",
+  "DrawerElementsHeader": "Elementy panelu bocznego",
   "TrayElementsHeader": "Elementy zasobnika",
   "SettingsWideMultiplier": "Mnożnik szerokości wiadomości",
   "SettingsWideMultiplierDescription": "Możesz zmienić szerokość wiadomości dla lepszego wyświetlania na szerokich monitorach.",
