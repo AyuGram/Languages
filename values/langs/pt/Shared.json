@@ -399,6 +399,7 @@
   "ReadDateMenuText": "Data de leitura",
   "ContentsReadDateMenuText": "Data de leitura do conteúdo",
   "UnforwardableContextMenuText": "O encaminhamento simples não é permitido.",
+  "LastSeenPillAutoRefresh": "Auto-Refresh",
   "LikelyOfflineStatus": "offline ?",
   "GhostModeShortcut": "Entrar com o fantasma",
   "SettingsShowMessageSeconds": "Mostrar segundos da mensagem",
