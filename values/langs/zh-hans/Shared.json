@@ -55,7 +55,7 @@
   "SpySaveLocalOnlineDescription": "根据用户的操作，保存那些隐藏在线状态用户的最后在线日期。你将能够**非常大致地**看到他们最后一次在线的时间。",
   "ExportDatabaseButton": "导出数据库",
   "ImportDatabaseButton": "导入数据库",
-  "QoLTogglesHeader": "有用特性",
+  "QoLTogglesHeader": "实用特性",
   "KeepAliveService": "AyuGram 推送服务",
   "KeepAliveServiceNote": "我们建议你迁移到 **FCM** 的版本。",
   "DisableAds": "禁用广告",
