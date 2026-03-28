@@ -399,6 +399,7 @@
   "ReadDateMenuText": "Fecha de lectura",
   "ContentsReadDateMenuText": "Fecha de lectura del contenido",
   "UnforwardableContextMenuText": "Plain forwarding is not allowed.",
+  "LastSeenPillAutoRefresh": "Auto-Refresh",
   "LikelyOfflineStatus": "offline ?",
   "GhostModeShortcut": "Entrar con modo fantasma",
   "SettingsShowMessageSeconds": "Show Message Seconds",
