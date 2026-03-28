@@ -399,6 +399,7 @@
   "ReadDateMenuText": "Luettu Päivämäärä",
   "ContentsReadDateMenuText": "Sisällön lukupäivämäärä",
   "UnforwardableContextMenuText": "Pelkkä välittäminen ei ole sallittua.",
+  "LastSeenPillAutoRefresh": "Auto-Refresh",
   "LikelyOfflineStatus": "offline-tilassa ?",
   "GhostModeShortcut": "Mene haamutilassa",
   "SettingsShowMessageSeconds": "Näytä viestien sekunnit",
