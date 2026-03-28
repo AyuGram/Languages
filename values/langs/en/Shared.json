@@ -486,6 +486,8 @@
 
   "UnforwardableContextMenuText": "Plain forwarding is not allowed.",
 
+  "LastSeenPillAutoRefresh": "Auto-Refresh",
+
   "LikelyOfflineStatus": "offline ?",
 
   "GhostModeShortcut": "Enter with Ghost",
