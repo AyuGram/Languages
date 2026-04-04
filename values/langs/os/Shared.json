@@ -146,6 +146,7 @@
   "MessageFieldElementVoice": "Voice",
   "DrawerElementsHeader": "Лагъзы элементтӕ",
   "TrayElementsHeader": "Тӕбӕгъы элементтӕ",
+  "MessageBubbleRadius": "Message Bubble Radius",
   "SettingsWideMultiplier": "Wide Messages Multiplier",
   "SettingsWideMultiplierDescription": "You can change message width for better display on wide monitors.",
   "SettingsSpoofWebviewAsAndroid": "Spoof Client as Android",
