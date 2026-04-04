@@ -146,6 +146,7 @@
   "MessageFieldElementVoice": "Voz",
   "DrawerElementsHeader": "Elementos do menu",
   "TrayElementsHeader": "Elementos de bandeja",
+  "MessageBubbleRadius": "Message Bubble Radius",
   "SettingsWideMultiplier": "Multiplicador de mensagens amplas",
   "SettingsWideMultiplierDescription": "Você pode alterar a largura da mensagem para melhor exibição em monitores largos.",
   "SettingsSpoofWebviewAsAndroid": "Spoof Client como Android",
