@@ -146,6 +146,7 @@
   "MessageFieldElementVoice": "Голас",
   "DrawerElementsHeader": "Элементы бакавога меню",
   "TrayElementsHeader": "Элементы бакавога меню",
+  "MessageBubbleRadius": "Message Bubble Radius",
   "SettingsWideMultiplier": "Памер паведамленняў (мультыплікатар)",
   "SettingsWideMultiplierDescription": "Вы можаце змяніць шырыню паведамленняў для лепшай адаптыўнасці на вузкіх маніторах.",
   "SettingsSpoofWebviewAsAndroid": "Падмяніць платформу як Android",
