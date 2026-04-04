@@ -146,6 +146,7 @@
   "MessageFieldElementVoice": "Głos",
   "DrawerElementsHeader": "Elementy panelu bocznego",
   "TrayElementsHeader": "Elementy zasobnika",
+  "MessageBubbleRadius": "Message Bubble Radius",
   "SettingsWideMultiplier": "Mnożnik szerokości wiadomości",
   "SettingsWideMultiplierDescription": "Możesz zmienić szerokość wiadomości dla lepszego wyświetlania na szerokich monitorach.",
   "SettingsSpoofWebviewAsAndroid": "Podszywaj się pod Androida",
