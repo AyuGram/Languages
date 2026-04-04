@@ -146,6 +146,7 @@
   "MessageFieldElementVoice": "Запис голосового повідомлення",
   "DrawerElementsHeader": "Елементи меню",
   "TrayElementsHeader": "Склад лотка",
+  "MessageBubbleRadius": "Message Bubble Radius",
   "SettingsWideMultiplier": "Розмір повідомлень (мультиплікатор)",
   "SettingsWideMultiplierDescription": "Ви можете змінити ширину повідомлень для зручнішого відображення на широких моніторах.",
   "SettingsSpoofWebviewAsAndroid": "Імітувати Android",
