@@ -146,6 +146,7 @@
   "MessageFieldElementVoice": "קול",
   "DrawerElementsHeader": "אלמנטים למגירה",
   "TrayElementsHeader": "רכיבי מגש",
+  "MessageBubbleRadius": "Message Bubble Radius",
   "SettingsWideMultiplier": "מכפיל הודעות רחב",
   "SettingsWideMultiplierDescription": "ניתן לשנות את רוחב ההודעה לתצוגה טובה יותר על גבי מסכים רחבים.",
   "SettingsSpoofWebviewAsAndroid": "לקוח זיוף כאנדרואיד",
