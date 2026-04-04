@@ -146,6 +146,7 @@
   "MessageFieldElementVoice": "Giọng nói",
   "DrawerElementsHeader": "Yếu tố ngăn kéo",
   "TrayElementsHeader": "Thành phần khay",
+  "MessageBubbleRadius": "Message Bubble Radius",
   "SettingsWideMultiplier": "Mở rộng chiều rộng tin nhắn",
   "SettingsWideMultiplierDescription": "Bạn có thể thay đổi độ rộng tin nhắn để hiển thị tốt hơn trên màn hình rộng.",
   "SettingsSpoofWebviewAsAndroid": "Giả mạo client thành Android",
