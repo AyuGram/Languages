@@ -532,6 +532,7 @@
   "OfficialResourcePopup": "**{item}** is the official resource of **exteraGram** or **AyuGram**.",
 
   "MutualContactInfo_PC": "This contact is mutual.",
+  "SessionInfoOfficialApp": "Official app",
 
   "SettingsWatermark": "AyuGram is developed and maintained by Radolyn Labs.",
   "SettingsDescription_Android": "Just an exteraGram based client with ToS-breaking features in mind.",
