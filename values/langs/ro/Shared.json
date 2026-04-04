@@ -146,6 +146,7 @@
   "MessageFieldElementVoice": "Voce",
   "DrawerElementsHeader": "Elemente de sertar",
   "TrayElementsHeader": "Elemente de tavă",
+  "MessageBubbleRadius": "Message Bubble Radius",
   "SettingsWideMultiplier": "Multiplicator de mesaje late",
   "SettingsWideMultiplierDescription": "Puteți modifica lățimea mesajului pentru o mai bună afișare pe monitoare largi.",
   "SettingsSpoofWebviewAsAndroid": "Falsificarea clientului ca fiind android",
