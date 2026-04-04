@@ -146,6 +146,7 @@
   "MessageFieldElementVoice": "Ääni",
   "DrawerElementsHeader": "Sovellusvalikon Elementit",
   "TrayElementsHeader": "Sovellusvalikon Elementit",
+  "MessageBubbleRadius": "Message Bubble Radius",
   "SettingsWideMultiplier": "Leveiden Viestien Kerroin",
   "SettingsWideMultiplierDescription": "Voit muuttaa viestin leveyttä, jotta se näkyy paremmin leveillä näytöillä.",
   "SettingsSpoofWebviewAsAndroid": "Väärennetty asiakasohjelma Androidina",
