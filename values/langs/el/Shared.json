@@ -146,6 +146,7 @@
   "MessageFieldElementVoice": "Φωνή",
   "DrawerElementsHeader": "Στοιχεία Συρταριού",
   "TrayElementsHeader": "Στοιχεία Συρταριού Γραμμής Εργασιών",
+  "MessageBubbleRadius": "Message Bubble Radius",
   "SettingsWideMultiplier": "Πολλαπλασιαστής Μεγέθους Μηνυμάτων",
   "SettingsWideMultiplierDescription": "Μπορείτε να αλλάξετε το πλάτος του μηνύματος για καλύτερη προβολή σε ευρείες οθόνες.",
   "SettingsSpoofWebviewAsAndroid": "Παραποίηση του πελάτη ως Android",
