@@ -146,6 +146,7 @@
   "MessageFieldElementVoice": "صدا",
   "DrawerElementsHeader": "گزینه‌های کشوی کناری",
   "TrayElementsHeader": "گزینه‌های کشوی کناری",
+  "MessageBubbleRadius": "Message Bubble Radius",
   "SettingsWideMultiplier": "چند‌برابر کننده پیام های عریض",
   "SettingsWideMultiplierDescription": "You can change message width for better display on wide monitors.",
   "SettingsSpoofWebviewAsAndroid": "جعل کلاینت به عنوان اندروید",
