@@ -531,6 +531,8 @@
   "SupporterPopup": "**{item}** supported the development of **exteraGram** or **AyuGram** and received an unique badge.",
   "OfficialResourcePopup": "**{item}** is the official resource of **exteraGram** or **AyuGram**.",
 
+  "MutualContactInfo_PC": "This contact is mutual.",
+
   "SettingsWatermark": "AyuGram is developed and maintained by Radolyn Labs.",
   "SettingsDescription_Android": "Just an exteraGram based client with ToS-breaking features in mind.",
   "SettingsDescription_PC": "Telegram Desktop fork focused on customization and ToS-breaking features.",
