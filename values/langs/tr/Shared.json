@@ -146,6 +146,7 @@
   "MessageFieldElementVoice": "Ses",
   "DrawerElementsHeader": "Çekmece Öğeleri",
   "TrayElementsHeader": "Tepsi Öğeleri",
+  "MessageBubbleRadius": "Message Bubble Radius",
   "SettingsWideMultiplier": "Geniş Mesajlar Çarpanı",
   "SettingsWideMultiplierDescription": "Geniş monitörlerde daha iyi görüntüleme için mesaj genişliğini değiştirebilirsiniz.",
   "SettingsSpoofWebviewAsAndroid": "İstemciyi Android Olarak Taklit Et",
