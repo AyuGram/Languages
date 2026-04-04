@@ -146,6 +146,7 @@
   "MessageFieldElementVoice": "Voice",
   "DrawerElementsHeader": "Éléments du tiroir",
   "TrayElementsHeader": "Éléments de la zone de notification",
+  "MessageBubbleRadius": "Message Bubble Radius",
   "SettingsWideMultiplier": "Wide Messages Multiplier",
   "SettingsWideMultiplierDescription": "You can change message width for better display on wide monitors.",
   "SettingsSpoofWebviewAsAndroid": "Usurper l'identité du client en tant qu'Android",
