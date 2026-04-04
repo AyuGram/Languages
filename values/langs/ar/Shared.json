@@ -146,6 +146,7 @@
   "MessageFieldElementVoice": "صوت",
   "DrawerElementsHeader": "عناصر القائمة",
   "TrayElementsHeader": "عناصر القائمة",
+  "MessageBubbleRadius": "Message Bubble Radius",
   "SettingsWideMultiplier": "مضاعِف عرض الرسائل",
   "SettingsWideMultiplierDescription": "يمكنك تغيير عرض الرسائل لتحسين عرضها على الشاشات العريضة.",
   "SettingsSpoofWebviewAsAndroid": "تقميص العميل علي انه أندرويد",
