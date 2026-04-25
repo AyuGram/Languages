@@ -374,6 +374,7 @@
   "MessageShotShowBackground": "Εμφάνιση φόντου",
   "MessageShotShowDate": "Εμφάνιση ημερομηνίας",
   "MessageShotShowReactions": "Εμφάνιση αντιδράσεων",
+  "MessageShotShowHeaderDecorations": "Show header decorations",
   "MessageShotShowColorfulReplies": "Εμφάνιση πολύχρωμων απαντήσεων",
   "MessageShotRevealSpoilers": "Reveal spoilers",
   "SendAsSticker": "Αποστολή ως Αυτοκόλλητο",
