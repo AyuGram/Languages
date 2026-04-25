@@ -374,6 +374,7 @@
   "MessageShotShowBackground": "Afficher le fond",
   "MessageShotShowDate": "Afficher la date",
   "MessageShotShowReactions": "Afficher les réactions",
+  "MessageShotShowHeaderDecorations": "Show header decorations",
   "MessageShotShowColorfulReplies": "Afficher les réponses colorées",
   "MessageShotRevealSpoilers": "Reveal spoilers",
   "SendAsSticker": "Envoyer sous forme d'autocollant",
