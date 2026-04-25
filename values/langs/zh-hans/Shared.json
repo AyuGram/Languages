@@ -374,6 +374,7 @@
   "MessageShotShowBackground": "显示背景",
   "MessageShotShowDate": "显示日期",
   "MessageShotShowReactions": "显示表情回应菜单",
+  "MessageShotShowHeaderDecorations": "Show header decorations",
   "MessageShotShowColorfulReplies": "显示彩色回复",
   "MessageShotRevealSpoilers": "显示剧透内容",
   "SendAsSticker": "发送为贴纸",
