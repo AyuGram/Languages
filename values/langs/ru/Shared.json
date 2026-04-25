@@ -374,6 +374,7 @@
   "MessageShotShowBackground": "Показывать фон",
   "MessageShotShowDate": "Показывать дату",
   "MessageShotShowReactions": "Показывать реакции",
+  "MessageShotShowHeaderDecorations": "Show header decorations",
   "MessageShotShowColorfulReplies": "Показывать цветные ответы",
   "MessageShotRevealSpoilers": "Reveal spoilers",
   "SendAsSticker": "Отправить как стикер",
