@@ -374,6 +374,7 @@
   "MessageShotShowBackground": "Arka planı göster",
   "MessageShotShowDate": "Tarihi göster",
   "MessageShotShowReactions": "Tepkileri göster",
+  "MessageShotShowHeaderDecorations": "Show header decorations",
   "MessageShotShowColorfulReplies": "Renkli yanıtları göster",
   "MessageShotRevealSpoilers": "Reveal spoilers",
   "SendAsSticker": "Çıkartma Olarak Gönder",
