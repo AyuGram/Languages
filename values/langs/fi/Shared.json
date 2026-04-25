@@ -374,6 +374,7 @@
   "MessageShotShowBackground": "Näytä tausta",
   "MessageShotShowDate": "Näytä päivämäärä",
   "MessageShotShowReactions": "Näytä reaktiot",
+  "MessageShotShowHeaderDecorations": "Show header decorations",
   "MessageShotShowColorfulReplies": "Näytä värikkäitä vastauksia",
   "MessageShotRevealSpoilers": "Reveal spoilers",
   "SendAsSticker": "Lähetä tarrana",
