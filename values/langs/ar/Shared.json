@@ -16,6 +16,7 @@
   "DontSendUploadProgress": "إخفاء \"جاري الكتابة...\"",
   "SendOfflinePacketAfterOnline": "اذهب دون اتصال تلقائي",
   "GhostModeOptionLongTapDescription": "اضغط مطولًا على أي خِيار لمنع تغيّره عند تفعيل أو إلغاء تفعيل وضع الشبح.",
+  "GhostModeOptionShiftDescription": "Click with SHIFT on any option to prevent it from changing when toggling Ghost Mode.",
   "MarkReadAfterAction": "القراءة عند التفاعل",
   "MarkReadAfterActionDescription": "يُعلِّم الرسالة كمقروءة تلقائيًا عند إرسال رسالة جديدة أو عند النقر على تفاعل.",
   "MarkReadAfterSend": "إرسال",
