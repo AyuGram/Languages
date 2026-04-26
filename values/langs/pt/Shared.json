@@ -16,6 +16,7 @@
   "DontSendUploadProgress": "Ocultar Digitando",
   "SendOfflinePacketAfterOnline": "Ficar off-line automaticamente",
   "GhostModeOptionLongTapDescription": "Pressione e segure qualquer opção para impedir que altere quando mudar o Modo Fantasma.",
+  "GhostModeOptionShiftDescription": "Click with SHIFT on any option to prevent it from changing when toggling Ghost Mode.",
   "MarkReadAfterAction": "Ler ao interagir",
   "MarkReadAfterActionDescription": "Marcar automaticamente uma mensagem como lida quando você envia uma nova ou toca em uma reação.",
   "MarkReadAfterSend": "Enviar",
