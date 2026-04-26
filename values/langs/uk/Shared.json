@@ -16,6 +16,7 @@
   "DontSendUploadProgress": "Не надсилати «друкую»",
   "SendOfflinePacketAfterOnline": "Автоматичний «офлайн»",
   "GhostModeOptionLongTapDescription": "Утримуйте будь-який параметр, щоб зафіксувати його значення переключаючи режим привида.",
+  "GhostModeOptionShiftDescription": "Click with SHIFT on any option to prevent it from changing when toggling Ghost Mode.",
   "MarkReadAfterAction": "Читати при взаємодіях",
   "MarkReadAfterActionDescription": "Автоматично читає повідомлення при надсиланні нового або при реакції на нього.",
   "MarkReadAfterSend": "При відправленні",
