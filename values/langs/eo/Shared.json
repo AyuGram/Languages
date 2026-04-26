@@ -16,6 +16,7 @@
   "DontSendUploadProgress": "Ne sendi tajpadon",
   "SendOfflinePacketAfterOnline": "Senkonekta aŭtomate",
   "GhostModeOptionLongTapDescription": "Longe premu iun ajn opcion por preventi ĝian ŝanĝadon.",
+  "GhostModeOptionShiftDescription": "Click with SHIFT on any option to prevent it from changing when toggling Ghost Mode.",
   "MarkReadAfterAction": "Legi dum interagoj",
   "MarkReadAfterActionDescription": "Automatically marks a message as read when you send a new one or tap a reaction.",
   "MarkReadAfterSend": "Sendi",
