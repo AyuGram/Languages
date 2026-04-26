@@ -16,7 +16,7 @@
   "DontSendUploadProgress": "Nie wysyłaj wpisywania",
   "SendOfflinePacketAfterOnline": "Przechodź offline automatycznie",
   "GhostModeOptionLongTapDescription": "Przytrzymaj dowolną opcję, aby zablokować jej zmianę podczas przełączania trybu ducha.",
-  "GhostModeOptionShiftDescription": "Click with SHIFT on any option to prevent it from changing when toggling Ghost Mode.",
+  "GhostModeOptionShiftDescription": "Kliknij dowolną opcję ze wciśniętym klawiszem SHIFT, aby zablokować jej zmianę podczas przełączania trybu ducha.",
   "MarkReadAfterAction": "Oznacz jako przeczytane po interakcji",
   "MarkReadAfterActionDescription": "Automatycznie oznacza wiadomość jako przeczytaną, gdy wyślesz nową lub dodasz reakcję.",
   "MarkReadAfterSend": "Wysyłanie",
