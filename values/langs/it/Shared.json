@@ -16,6 +16,7 @@
   "DontSendUploadProgress": "Non Inviare Digitazione",
   "SendOfflinePacketAfterOnline": "Vai Offline Automaticamente",
   "GhostModeOptionLongTapDescription": "Long-press any option to prevent it from changing when toggling Ghost Mode.",
+  "GhostModeOptionShiftDescription": "Click with SHIFT on any option to prevent it from changing when toggling Ghost Mode.",
   "MarkReadAfterAction": "Leggi con Interazione",
   "MarkReadAfterActionDescription": "Automatically marks a message as read when you send a new one or tap a reaction.",
   "MarkReadAfterSend": "Invia",
