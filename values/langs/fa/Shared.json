@@ -16,6 +16,7 @@
   "DontSendUploadProgress": "درحال نوشتن رو نشون نده",
   "SendOfflinePacketAfterOnline": "آفلاین شدن به‌صورت خودکار",
   "GhostModeOptionLongTapDescription": "روی هر گزینه‌ای ضربه طولانی بزنید تا از تغییر آن موقع روشن کردن حالت روح جلوگیری شود.",
+  "GhostModeOptionShiftDescription": "Click with SHIFT on any option to prevent it from changing when toggling Ghost Mode.",
   "MarkReadAfterAction": "خوانده شدن با هرگونه تعامل",
   "MarkReadAfterActionDescription": "وقتی یک پیام جدید ارسال می‌کنید یا یک ری‌اکشن را اضافه می‌کنید، به صورت خودکار آن را به عنوان خوانده‌شده علامت‌گذاری می‌کند.",
   "MarkReadAfterSend": "ارسال",
