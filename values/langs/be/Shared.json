@@ -16,6 +16,7 @@
   "DontSendUploadProgress": "Не адпраўляць \"друкуе\"",
   "SendOfflinePacketAfterOnline": "Аўтаматычны \"афлайн\"",
   "GhostModeOptionLongTapDescription": "Зацісніце любую опцыю, каб зафіксаваць яе значэнне.",
+  "GhostModeOptionShiftDescription": "Click with SHIFT on any option to prevent it from changing when toggling Ghost Mode.",
   "MarkReadAfterAction": "Чытаць пры дзеяннях",
   "MarkReadAfterActionDescription": "Аўтаматычна пазначае паведамленне як прачытанае, калі вы адпраўляеце новае або націскаеце на рэакцыю.",
   "MarkReadAfterSend": "Пасля адпраўкі",
