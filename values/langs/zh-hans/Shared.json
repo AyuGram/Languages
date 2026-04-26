@@ -16,6 +16,7 @@
   "DontSendUploadProgress": "不发送输入状态",
   "SendOfflinePacketAfterOnline": "在线后自动离线",
   "GhostModeOptionLongTapDescription": "长按任何选项以防止其在切换隐身模式时发生变化。",
+  "GhostModeOptionShiftDescription": "Click with SHIFT on any option to prevent it from changing when toggling Ghost Mode.",
   "MarkReadAfterAction": "交互后标记已读",
   "MarkReadAfterActionDescription": "当你发送新消息或回应时，自动将消息标记为已读。",
   "MarkReadAfterSend": "发送",
