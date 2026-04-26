@@ -16,6 +16,7 @@
   "DontSendUploadProgress": "Älä Lähetä Kirjoittamista",
   "SendOfflinePacketAfterOnline": "Siirry Offline-tilaan Automaattisesti",
   "GhostModeOptionLongTapDescription": "Paina pitkään mitä tahansa vaihtoehtoa estääksesi sen muuttumisen, kun vaihdat Ghost-tilaan.",
+  "GhostModeOptionShiftDescription": "Click with SHIFT on any option to prevent it from changing when toggling Ghost Mode.",
   "MarkReadAfterAction": "Lue vuorovaikutuksessa",
   "MarkReadAfterActionDescription": "Merkitsee viestin automaattisesti luetuksi, kun lähetät uuden viestin tai napautat reaktiota.",
   "MarkReadAfterSend": "Lähetä",
