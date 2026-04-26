@@ -16,6 +16,7 @@
   "DontSendUploadProgress": "אל תראה שאתה מקליד/ה",
   "SendOfflinePacketAfterOnline": "עבור למצב לא מחובר באופן אוטומטי",
   "GhostModeOptionLongTapDescription": "הקש ארוך על כל אפשרות כדי למנוע לשנות את מצב הגוסט.",
+  "GhostModeOptionShiftDescription": "Click with SHIFT on any option to prevent it from changing when toggling Ghost Mode.",
   "MarkReadAfterAction": "קרא על אינטראקט",
   "MarkReadAfterActionDescription": "קורא באופן אוטומטי הודעה כאשר אתה שולח הודעה חדשה או מקיש על תגובה.",
   "MarkReadAfterSend": "שלח",
