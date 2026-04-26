@@ -16,6 +16,7 @@
   "DontSendUploadProgress": "Ẩn trạng thái đang gõ văn bản",
   "SendOfflinePacketAfterOnline": "Tự động ngoại tuyến",
   "GhostModeOptionLongTapDescription": "Nhấn giữ vào tùy chọn để giữ nguyên khi bật hoặc tắt Chế độ Ẩn - Ghost Mode.",
+  "GhostModeOptionShiftDescription": "Click with SHIFT on any option to prevent it from changing when toggling Ghost Mode.",
   "MarkReadAfterAction": "Đánh dấu đã đọc khi tương tác",
   "MarkReadAfterActionDescription": "Khi bạn gửi tin nhắn mới hoặc thả cảm xúc, đoạn chat sẽ được đánh dấu là đã đọc.",
   "MarkReadAfterSend": "Gửi ",
