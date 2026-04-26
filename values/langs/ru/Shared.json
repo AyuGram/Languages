@@ -16,6 +16,7 @@
   "DontSendUploadProgress": "Не отправлять «печатает»",
   "SendOfflinePacketAfterOnline": "Автоматический «офлайн»",
   "GhostModeOptionLongTapDescription": "Зажмите любую опцию, чтобы зафиксировать её значение.",
+  "GhostModeOptionShiftDescription": "Click with SHIFT on any option to prevent it from changing when toggling Ghost Mode.",
   "MarkReadAfterAction": "Читать при действиях",
   "MarkReadAfterActionDescription": "Автоматически читает сообщение при отправке нового или при реакции на сообщение.",
   "MarkReadAfterSend": "При отправке",
