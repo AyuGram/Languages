@@ -16,6 +16,7 @@
   "DontSendUploadProgress": "No enviar Escribiendo",
   "SendOfflinePacketAfterOnline": "Desconectarse automáticamente",
   "GhostModeOptionLongTapDescription": "Mantén presionada cualquier opción para evitar que cambie al activar o desactivar el Modo Fantasma.",
+  "GhostModeOptionShiftDescription": "Click with SHIFT on any option to prevent it from changing when toggling Ghost Mode.",
   "MarkReadAfterAction": "Leer al interactuar",
   "MarkReadAfterActionDescription": "Marca automáticamente un mensaje como leído cuando envías uno nuevo o tocas una reacción.",
   "MarkReadAfterSend": "Enviar",
