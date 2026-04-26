@@ -16,6 +16,7 @@
   "DontSendUploadProgress": "Nu trimiteți statusul de \"Scrie...\"",
   "SendOfflinePacketAfterOnline": "Deconectare automat",
   "GhostModeOptionLongTapDescription": "Apăsați lung orice opțiune pentru a preveni schimbarea ei când comutați modul fantomă.",
+  "GhostModeOptionShiftDescription": "Click with SHIFT on any option to prevent it from changing when toggling Ghost Mode.",
   "MarkReadAfterAction": "Citiți după ce interacționați",
   "MarkReadAfterActionDescription": "Marcați automat un mesaj ca fiind citit atunci când trimiteți unul nou sau atingeți o reacție.",
   "MarkReadAfterSend": "Trimite",
