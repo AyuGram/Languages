@@ -16,6 +16,7 @@
   "DontSendUploadProgress": "Αόρατη Πληκτρολόγηση",
   "SendOfflinePacketAfterOnline": "Αυτόματη Μετάβαση Offline",
   "GhostModeOptionLongTapDescription": "Πατήστε παρατεταμένα μια ρύθμιση για να μην αλλάζει κατά την ενεργοποίηση ή απενεργοποίηση της Αόρατης Λειτουργίας.",
+  "GhostModeOptionShiftDescription": "Click with SHIFT on any option to prevent it from changing when toggling Ghost Mode.",
   "MarkReadAfterAction": "Ανάγνωση κατά την αλληλεπίδραση",
   "MarkReadAfterActionDescription": "Αυτόματη σήμανση μηνύματος ως αναγνωσμένο όταν στέλνετε νέο ή αντιδράσετε σε κάποιο.",
   "MarkReadAfterSend": "Αποστολή μηνύματος",
