@@ -16,6 +16,7 @@
   "DontSendUploadProgress": "Yazıyor Bilgisini Gönderme",
   "SendOfflinePacketAfterOnline": "Otomatik Olarak Çevrimdışı Ol",
   "GhostModeOptionLongTapDescription": "Hayalet Modu'nu açıp kapatırken değişmesini önlemek için herhangi bir seçeneğe uzun basın.",
+  "GhostModeOptionShiftDescription": "Click with SHIFT on any option to prevent it from changing when toggling Ghost Mode.",
   "MarkReadAfterAction": "Etkileşimde Okundu Olarak İşaretle",
   "MarkReadAfterActionDescription": "Yeni bir mesaj gönderdiğinizde veya bir tepkiye dokunduğunuzda mesajı otomatik olarak okundu olarak işaretler.",
   "MarkReadAfterSend": "Gönder",
