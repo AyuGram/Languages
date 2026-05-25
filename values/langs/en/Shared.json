@@ -393,6 +393,7 @@
   "ExclusionAlwaysType": "Always Type",
 
   "PeekOnlineSuccess": "Peeked via",
+  "PeekOnlineFailed": "Couldn't peek online",
 
   "OneViewTTL": "one view",
   "OnePlayTTL": "one play",
