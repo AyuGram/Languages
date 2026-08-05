@@ -93,6 +93,8 @@
 
   "QuickAdminShortcuts": "Quick Admin Shortcuts",
 
+  "DisableGreetingSticker_PC": "Disable Greeting Sticker",
+
   "TranslationProvider": "Translation Provider",
 
   "LinksHeader": "Links",
@@ -151,7 +153,7 @@
   "SettingsShowID_Hide": "Hide",
   "SettingsShowMessageShot": "Show Message Shot",
   "SettingsShowMessageShotDescription": "Allows taking a screenshot of the selected messages.",
-  "SettingsRecentStickersCount": "Recent Stickers Count",
+  "SettingsUnlimitedRecentStickers": "Unlimited Recent Stickers",
   "SettingsCustomizationHint": "You must restart the application after making changes in the \"Customization\" section.",
 
   "MaterialSwitches": "MD3 Switch Style",
@@ -329,10 +331,11 @@
   "AyuDatabase": "AyuGram Messages Database",
   "TelegramCacheDatabase": "Telegram Messages Database",
 
-  "ConfirmationsTitle": "Confirmations",
-  "StickerConfirmation": "For Stickers",
-  "GIFConfirmation": "For GIFs",
-  "VoiceConfirmation": "For Voice Messages",
+  "ConfirmationsTitle": "Send Confirmations",
+  "StickerConfirmation": "Stickers",
+  "GIFConfirmation": "GIFs",
+  "VoiceConfirmation": "Voice Messages",
+  "RoundConfirmation": "Round Videos",
 
   "MessageDetailsPC": "Details",
   "MessageDetailsViewsPC": "Views",
@@ -553,6 +556,11 @@
   "ConfirmationSticker": "Do you want to send this sticker?",
   "ConfirmationGIF": "Do you want to send this GIF?",
   "ConfirmationVoice": "Do you want to send this voice message?",
+  "ConfirmationRound": "Do you want to send this round video?",
+
+  "LoginCompat": "Compatibility mode",
+  "LoginCompatInfo": "May help you sign in if you're having issues. Don't enable it unless you need to.",
+  "LoginCompatFailed": "Compatibility mode didn't work",
 
   "IntroAbout": "Welcome to the AyuGram Desktop.\nMake Telegram your own.",
 
