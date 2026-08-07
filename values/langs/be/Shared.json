@@ -68,6 +68,7 @@
   "DisableNotificationsDelay": "Адключыць затрымку паведамленняў",
   "LocalPremium": "Лакальны Telegram Premium",
   "DisplayGhostStatus": "Статус здані ў спісе дыялогаў",
+  "DisplayGhostStatusDescription": "Ghost Mode status will be visible in the chat list title.",
   "CopyUsernameAsLink": "Скапіраваць імя карыстальніка як спасылку",
   "HideChannelReactions": "Схаваць рэакцыі ў каналах",
   "HideGroupReactions": "Схаваць рэакцыі ў групах",
