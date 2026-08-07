@@ -68,6 +68,7 @@
   "DisableNotificationsDelay": "Dezactivați întârzierea notificării",
   "LocalPremium": "Telegram premium local",
   "DisplayGhostStatus": "Afișează starea modului fantomă",
+  "DisplayGhostStatusDescription": "Ghost Mode status will be visible in the chat list title.",
   "CopyUsernameAsLink": "Copiați numele de utilizator ca link",
   "HideChannelReactions": "Ascundeți reacțiile în canale",
   "HideGroupReactions": "Ascundeți reacțiile în grupuri",
