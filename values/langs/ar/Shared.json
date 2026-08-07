@@ -68,6 +68,7 @@
   "DisableNotificationsDelay": "تعطيل تأخير الإشعارات",
   "LocalPremium": "تفعيل الإصدار المدفوع من تيليجرام (بعض المميزات)",
   "DisplayGhostStatus": "عرض حالة وضع الشبح",
+  "DisplayGhostStatusDescription": "Ghost Mode status will be visible in the chat list title.",
   "CopyUsernameAsLink": "نسخ الاسم المستخدم كرابط",
   "HideChannelReactions": "إخفاء التفاعلات في القنوات",
   "HideGroupReactions": "إخفاء التفاعلات في المجموعات",
