@@ -68,6 +68,7 @@
   "DisableNotificationsDelay": "Desativar atraso de notificação",
   "LocalPremium": "Telegram Premium local",
   "DisplayGhostStatus": "Exibir status do modo fantasma",
+  "DisplayGhostStatusDescription": "Ghost Mode status will be visible in the chat list title.",
   "CopyUsernameAsLink": "Copiar nome de usuário como link",
   "HideChannelReactions": "Ocultar Reações nos Canais",
   "HideGroupReactions": "Ocultar Reações nos Grupos",
