@@ -68,6 +68,7 @@
   "DisableNotificationsDelay": "Απενεργοποίηση Καθυστέρησης Ειδοποιήσεων",
   "LocalPremium": "Τοπικό Telegram Premium",
   "DisplayGhostStatus": "Εμφάνιση Κατάστασης Αόρατης Λειτουργίας",
+  "DisplayGhostStatusDescription": "Ghost Mode status will be visible in the chat list title.",
   "CopyUsernameAsLink": "Αντιγραφή ονόματος χρήστη ως σύνδεσμο",
   "HideChannelReactions": "Απόκρυψη αντιδράσεων σε Κανάλια",
   "HideGroupReactions": "Απόκρυψη αντιδράσεων σε Ομάδες",
