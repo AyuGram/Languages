@@ -68,6 +68,7 @@
   "DisableNotificationsDelay": "Poista ilmoitusten viive käytöstä",
   "LocalPremium": "Paikallinen Telegram Premium",
   "DisplayGhostStatus": "Näytä haamutilan tila",
+  "DisplayGhostStatusDescription": "Ghost Mode status will be visible in the chat list title.",
   "CopyUsernameAsLink": "Kopioi käyttäjänimi linkkinä",
   "HideChannelReactions": "Piilota reaktiot kanavissa",
   "HideGroupReactions": "Piilota reaktiot ryhmissä",
