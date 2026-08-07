@@ -68,6 +68,7 @@
   "DisableNotificationsDelay": "Отключить задержку уведомлений",
   "LocalPremium": "Локальный Telegram Premium",
   "DisplayGhostStatus": "Статус призрака в списке диалогов",
+  "DisplayGhostStatusDescription": "Ghost Mode status will be visible in the chat list title.",
   "CopyUsernameAsLink": "Копировать юзернейм как ссылку",
   "HideChannelReactions": "Скрыть реакции в каналах",
   "HideGroupReactions": "Скрыть реакции в группах",
