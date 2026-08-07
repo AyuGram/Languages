@@ -68,7 +68,7 @@
   "DisableNotificationsDelay": "Wyłącz opóźnienie powiadomień",
   "LocalPremium": "Lokalne Telegram Premium",
   "DisplayGhostStatus": "Pokaż status trybu ducha",
-  "DisplayGhostStatusDescription": "Ghost Mode status will be visible in the chat list title.",
+  "DisplayGhostStatusDescription": "Status trybu ducha będzie widoczny w tytule listy czatów.",
   "CopyUsernameAsLink": "Kopiuj nazwę użytkownika jako link",
   "HideChannelReactions": "Ukryj reakcje na kanałach",
   "HideGroupReactions": "Ukryj reakcje w grupach",
