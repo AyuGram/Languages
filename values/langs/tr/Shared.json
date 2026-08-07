@@ -68,6 +68,7 @@
   "DisableNotificationsDelay": "Bildirim Gecikmesini Devre Dışı Bırak",
   "LocalPremium": "Yerel Telegram Premium",
   "DisplayGhostStatus": "Hayalet Modu Durumunu Göster",
+  "DisplayGhostStatusDescription": "Ghost Mode status will be visible in the chat list title.",
   "CopyUsernameAsLink": "Kullanıcı Adını Bağlantı Olarak Kopyala",
   "HideChannelReactions": "Kanallarda Tepkileri Gizle",
   "HideGroupReactions": "Gruplarda Tepkileri Gizle",
