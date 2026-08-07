@@ -68,6 +68,7 @@
   "DisableNotificationsDelay": "غیرفعالسازی تاخیر اطلاع رسانی",
   "LocalPremium": "تلگرام پرمیوم محلی",
   "DisplayGhostStatus": "نمایش دادن وضعیت حالت روح",
+  "DisplayGhostStatusDescription": "Ghost Mode status will be visible in the chat list title.",
   "CopyUsernameAsLink": "کپی کردن نام کاربری به عنوان لینک",
   "HideChannelReactions": "Hide Reactions in Channels",
   "HideGroupReactions": "Hide Reactions in Groups",
