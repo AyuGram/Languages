@@ -68,6 +68,7 @@
   "DisableNotificationsDelay": "禁用通知延迟",
   "LocalPremium": "本地 Telegram 高级版",
   "DisplayGhostStatus": "显示隐身模式状态",
+  "DisplayGhostStatusDescription": "Ghost Mode status will be visible in the chat list title.",
   "CopyUsernameAsLink": "复制用户名为链接",
   "HideChannelReactions": "隐藏频道中的表情回应",
   "HideGroupReactions": "隐藏群组中的表情回应",
