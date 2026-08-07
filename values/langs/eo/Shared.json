@@ -68,6 +68,7 @@
   "DisableNotificationsDelay": "Malŝalti sciigan prokraston",
   "LocalPremium": "Loka Telegram Premium",
   "DisplayGhostStatus": "Montri staton de Fantoma reĝiimo",
+  "DisplayGhostStatusDescription": "Ghost Mode status will be visible in the chat list title.",
   "CopyUsernameAsLink": "Kopii uzantnomon kiel ligilon",
   "HideChannelReactions": "Kaŝi reagojn en kanaloj",
   "HideGroupReactions": "Hide Reactions in Groups",
