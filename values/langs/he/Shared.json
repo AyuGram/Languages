@@ -68,6 +68,7 @@
   "DisableNotificationsDelay": "השבת עיכוב הודעה",
   "LocalPremium": "טלגרם פרימיום מקומי",
   "DisplayGhostStatus": "הצג סטטוס מצב גוסט",
+  "DisplayGhostStatusDescription": "Ghost Mode status will be visible in the chat list title.",
   "CopyUsernameAsLink": "העתק את שם המשתמש כקישור",
   "HideChannelReactions": "הסתר תגובות בערוצים",
   "HideGroupReactions": "הסתר תגובות בקבוצות",
