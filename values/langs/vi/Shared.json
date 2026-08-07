@@ -68,6 +68,7 @@
   "DisableNotificationsDelay": "Tắt thông báo trễ",
   "LocalPremium": "Telegram địa phương cao cấp",
   "DisplayGhostStatus": "Hiển thị trạng thái Chế độ Ẩn (Ghost Mode)",
+  "DisplayGhostStatusDescription": "Ghost Mode status will be visible in the chat list title.",
   "CopyUsernameAsLink": "Sao chép tên người dùng làm liên kết",
   "HideChannelReactions": "Ẩn biểu cảm trong kênh",
   "HideGroupReactions": "Ẩn biểu cảm trong nhóm",
