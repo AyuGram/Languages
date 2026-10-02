@@ -194,6 +194,7 @@
   "FiltersShadowBan": "איסור צללים",
   "RegexFiltersExcluded": "מסננים שלא נכללו",
   "RegexFiltersEnable": "מסננים פעילים",
+  "RegexFiltersEnableInfo": "Enable filters to hide messages matching keywords or regular expressions, shadow ban users, and hide messages from blocked users.",
   "FiltersHideFromBlocked": "הסתר ממשתמשים חסומים",
   "FiltersHideFromBlockedNote": "מסנני הודעות הופעלו.",
   "RegexFiltersEnableSharedInChats": "אפשר מסננים משותפים בצ'אטים",
