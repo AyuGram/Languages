@@ -194,6 +194,7 @@
   "FiltersShadowBan": "Ombra blokado",
   "RegexFiltersExcluded": "Excluded Filters",
   "RegexFiltersEnable": "Enŝalti filtrilojn",
+  "RegexFiltersEnableInfo": "Enable filters to hide messages matching keywords or regular expressions, shadow ban users, and hide messages from blocked users.",
   "FiltersHideFromBlocked": "Hide from Blocked Users",
   "FiltersHideFromBlockedNote": "Mesaĝaj filtriloj estis enŝaltitaj.",
   "RegexFiltersEnableSharedInChats": "Enable Shared Filters in Chats",
