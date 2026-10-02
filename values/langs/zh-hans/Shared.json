@@ -194,6 +194,7 @@
   "FiltersShadowBan": "静默屏蔽",
   "RegexFiltersExcluded": "已排除的过滤器",
   "RegexFiltersEnable": "启用过滤器",
+  "RegexFiltersEnableInfo": "Enable filters to hide messages matching keywords or regular expressions, shadow ban users, and hide messages from blocked users.",
   "FiltersHideFromBlocked": "隐藏已屏蔽用户的消息",
   "FiltersHideFromBlockedNote": "消息过滤器已启用。",
   "RegexFiltersEnableSharedInChats": "在聊天中启用共享过滤器",
