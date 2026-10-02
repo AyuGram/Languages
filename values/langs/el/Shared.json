@@ -194,6 +194,7 @@
   "FiltersShadowBan": "Shadow Ban",
   "RegexFiltersExcluded": "Εξαιρούμενα Φίλτρα",
   "RegexFiltersEnable": "Ενεργοποίηση Φίλτρων",
+  "RegexFiltersEnableInfo": "Enable filters to hide messages matching keywords or regular expressions, shadow ban users, and hide messages from blocked users.",
   "FiltersHideFromBlocked": "Απόκρυψη από Αποκλεισμένους Χρήστες",
   "FiltersHideFromBlockedNote": "Τα φίλτρα μηνυμάτων ενεργοποιήθηκαν.",
   "RegexFiltersEnableSharedInChats": "Ενεργοποίηση Κοινόχρηστων Φίλτρων σε Συνομιλίες",
