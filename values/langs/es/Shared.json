@@ -194,6 +194,7 @@
   "FiltersShadowBan": "Shadow Ban",
   "RegexFiltersExcluded": "Filtros excluidos",
   "RegexFiltersEnable": "Habilitar Filtros",
+  "RegexFiltersEnableInfo": "Enable filters to hide messages matching keywords or regular expressions, shadow ban users, and hide messages from blocked users.",
   "FiltersHideFromBlocked": "Ocultar de usuarios bloqueados",
   "FiltersHideFromBlockedNote": "Filtros de mensajes habilitados.",
   "RegexFiltersEnableSharedInChats": "Habilitar filtros compartidos en chats",
