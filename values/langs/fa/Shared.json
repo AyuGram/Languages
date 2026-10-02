@@ -194,6 +194,7 @@
   "FiltersShadowBan": "Shadow Ban",
   "RegexFiltersExcluded": "فیلتر های محروم شده",
   "RegexFiltersEnable": "فعالسازی فیلترها",
+  "RegexFiltersEnableInfo": "Enable filters to hide messages matching keywords or regular expressions, shadow ban users, and hide messages from blocked users.",
   "FiltersHideFromBlocked": "پنهان از کاربر های بلاک شده",
   "FiltersHideFromBlockedNote": "فیلتر های مسیج فعال شدند.",
   "RegexFiltersEnableSharedInChats": "فعالسازی فیلتر های شیر شده در چت ها",
