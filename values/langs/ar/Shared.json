@@ -194,6 +194,7 @@
   "FiltersShadowBan": "الحظر الصامت",
   "RegexFiltersExcluded": "الفلات المستبعدة",
   "RegexFiltersEnable": "تمكين الفلاتر",
+  "RegexFiltersEnableInfo": "Enable filters to hide messages matching keywords or regular expressions, shadow ban users, and hide messages from blocked users.",
   "FiltersHideFromBlocked": "إخفاء من المستخدمين المحظورين",
   "FiltersHideFromBlockedNote": "تم تمكين فلاتر الرسالة.",
   "RegexFiltersEnableSharedInChats": "تمكين الفلاتر المشتركة في المحادثة",
