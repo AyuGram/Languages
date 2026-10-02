@@ -194,6 +194,7 @@
   "FiltersShadowBan": "Cấm ngầm",
   "RegexFiltersExcluded": "Bộ lọc bị loại trừ",
   "RegexFiltersEnable": "Kích hoạt bộ lọc",
+  "RegexFiltersEnableInfo": "Enable filters to hide messages matching keywords or regular expressions, shadow ban users, and hide messages from blocked users.",
   "FiltersHideFromBlocked": "Không hiển thị cho người bị chặn",
   "FiltersHideFromBlockedNote": "Bộ lọc tin nhắn đã được bật.",
   "RegexFiltersEnableSharedInChats": "Kích hoạt bộ lọc dùng chung trong danh sách trò chuyện",
