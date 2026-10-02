@@ -194,6 +194,7 @@
   "FiltersShadowBan": "Теневой бан",
   "RegexFiltersExcluded": "Исключённые фильтры",
   "RegexFiltersEnable": "Включить фильтры",
+  "RegexFiltersEnableInfo": "Enable filters to hide messages matching keywords or regular expressions, shadow ban users, and hide messages from blocked users.",
   "FiltersHideFromBlocked": "Скрывать от пользователей в ЧС",
   "FiltersHideFromBlockedNote": "Фильтры сообщений включены.",
   "RegexFiltersEnableSharedInChats": "Включить общие фильтры в чатах",
