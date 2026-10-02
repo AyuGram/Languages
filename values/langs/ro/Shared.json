@@ -194,6 +194,7 @@
   "FiltersShadowBan": "Interdicție fantomă",
   "RegexFiltersExcluded": "Filtre excluse",
   "RegexFiltersEnable": "Activați filtrele",
+  "RegexFiltersEnableInfo": "Enable filters to hide messages matching keywords or regular expressions, shadow ban users, and hide messages from blocked users.",
   "FiltersHideFromBlocked": "Ascundeți de utilizatorii blocați",
   "FiltersHideFromBlockedNote": "Filtrele de mesaje au fost activate.",
   "RegexFiltersEnableSharedInChats": "Activați filtrele partajate în chat",
