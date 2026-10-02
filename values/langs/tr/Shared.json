@@ -194,6 +194,7 @@
   "FiltersShadowBan": "Hızlı Gizli Yasak Filtreleri",
   "RegexFiltersExcluded": "Hariç Tutulan Filtreler",
   "RegexFiltersEnable": "Filtreleri Etkinleştir",
+  "RegexFiltersEnableInfo": "Enable filters to hide messages matching keywords or regular expressions, shadow ban users, and hide messages from blocked users.",
   "FiltersHideFromBlocked": "Engellenen Kullanıcılardan Gizle",
   "FiltersHideFromBlockedNote": "Mesaj filtreleri etkinleştirildi.",
   "RegexFiltersEnableSharedInChats": "Sohbetlerde Paylaşılan Filtreleri Etkinleştir",
