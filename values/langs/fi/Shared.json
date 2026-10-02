@@ -194,6 +194,7 @@
   "FiltersShadowBan": "Varjokielto",
   "RegexFiltersExcluded": "Poisjätetyt Suodattimet",
   "RegexFiltersEnable": "Ota Suodattimet käyttöön",
+  "RegexFiltersEnableInfo": "Enable filters to hide messages matching keywords or regular expressions, shadow ban users, and hide messages from blocked users.",
   "FiltersHideFromBlocked": "Piilota estetyiltä käyttäjiltä",
   "FiltersHideFromBlockedNote": "Viestin suodattimet otettiin käyttöön.",
   "RegexFiltersEnableSharedInChats": "Ota käyttöön jaetut suodattimet chateissa",
