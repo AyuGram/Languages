@@ -50,13 +50,29 @@
   "MessageSavingSaveMediaHintPopup": "Make sure it's configured to your needs.",
 
   "AttachmentsFolderMaxSizeHeader": "Max folder size",
-  "AttachmentsFolderMaxSizeDescription": "If folder size exceeds this limit, the oldest attachments will be removed from the device.",
+  "AttachmentsFolderMaxSizeDescription": "The oldest attachments are removed when the limit is reached.",
+  "AttachmentsFolderNoLimitDescription": "Attachments are never removed automatically.",
+  "AttachmentsFolderUsage": "%1$s of %2$s used.",
+  "AttachmentsFolderUsageNoLimit": "%1$s used.",
 
   "MaximumMediaSizeCellular": "Media size limit (cellular data)",
   "MaximumMediaSizeWiFi": "Media size limit (WiFi)",
 
   "MessageSavingOtherHeader": "Other",
   "MessageSavingSaveForBots": "Save in Bot Dialogs",
+  "SaveExceptions": "Manage Exclusions",
+  "SaveExceptionsTopInfo": "Choose the chats where deleted messages and edit history are kept.",
+  "SaveExceptionsModeHeader": "Saving mode",
+  "SaveExceptionsOnlySelected": "Only Selected Chats",
+  "SaveExceptionsAllChatsInfo": "Deleted messages and edit history are saved everywhere, except in the chats you exclude below.",
+  "SaveExceptionsSelectedChatsInfo": "Deleted messages and edit history are saved only in the chats you add below.",
+  "SaveExceptionsNothingSaved": "**Nothing is saved until you add at least one.**",
+  "SaveExceptionsNeverSave": "Never Save In",
+  "SaveExceptionsAlwaysSave": "Always Save In",
+  "SaveExceptionsInfo": "Add individual chats or entire chat types. **Bot Messages** covers messages sent by bots in any chat, including groups.",
+  "SaveExceptionsDiscardAlert": "You have changed the list of chats. Apply changes?",
+  "SaveExceptionsBotDialogs": "Bot Dialogs",
+  "SaveExceptionsBotMessages": "Bot Messages",
   "MessageSavingSavePath": "Attachments Folder",
   "MessageSavingSavePathTitle": "Choose folder",
 
@@ -394,6 +410,9 @@
   "HideFilteredMessagesMenuText": "Hide Filtered",
   "ReadExclusionMenuText": "Read Exclusion",
   "TypingExclusionMenuText": "Typing Exclusion",
+  "SavingExclusionMenuText": "Saving Exclusion",
+  "ExclusionDontSave": "Never Save",
+  "ExclusionAlwaysSave": "Always Save",
 
   "ExclusionTitle": "Select exclusion type",
   "ExclusionUseDefault": "Default",
@@ -575,5 +594,7 @@
 
   "UpdateAyuGram": "Update AyuGram",
 
-  "UtilityRestartRequired": "The app will close in 5 seconds."
+  "UtilityRestartRequired": "The app will close in 5 seconds.",
+  "GesturesInfo": "Double-tap and swipe actions on messages",
+  "CustomizationOtherSectionsInfo": "You can find more AyuGram features in the sections above."
 }
