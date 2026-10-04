@@ -43,7 +43,7 @@
   "MessageSavingSaveMediaInPrivateGroups": "私密群组",
   "MessageSavingSaveMediaHintPopup": "请确认设置符合您的需要。",
   "AttachmentsFolderMaxSizeHeader": "文件夹大小上限",
-  "AttachmentsFolderMaxSizeDescription": "The oldest attachments are removed when the limit is reached.",
+  "AttachmentsFolderMaxSizeDescription": "达到大小上限后，将自动删除最旧的附件。",
   "AttachmentsFolderNoLimitDescription": "Attachments are never removed automatically.",
   "AttachmentsFolderUsage": "%1$s of %2$s used.",
   "AttachmentsFolderUsageNoLimit": "%1$s used.",
