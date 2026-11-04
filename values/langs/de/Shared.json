@@ -109,7 +109,7 @@
   "SupportBoxHeader_PC": "Entwicklung unterstützen",
   "SupportBoxInfo_PC": "Wenn Du das Projekt unterstützt, trägst Du nicht nur zu seiner Entwicklung bei, sondern erhältst auch ein einzigartiges Abzeichen.",
   "SupportBoxMakeDonationHeader_PC": "Spenden",
-  "SupportBoxMakeDonationInfo_PC": "Transfer an amount of {amount1} ({amount2}) to any of the project's payment details. These can be found in the **Other** section of the app settings.",
+  "SupportBoxMakeDonationInfo_PC": "Überweise einen Betrag von {amount1} ({amount2}) auf die Zahlungsdaten des Projekts. Diese findest Du im Abschnitt **Anderes** der Einstellungen.",
   "SupportBoxSendProofHeader_PC": "Zahlungsnachweis senden",
   "SupportBoxSendProofInfo_PC": "Send a photo of the payment confirmation to **{item}**. Make sure the photo clearly shows the amount, date, and time of the transfer.",
   "SupportBoxReceiveBadgeHeader_PC": "Erhalte dein Abzeichen",
