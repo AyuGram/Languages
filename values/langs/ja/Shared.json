@@ -424,7 +424,7 @@
   "CreationDateSelfApproximately_PC": "あなたのアカウントは、およそ**%1$s**に作成されました。",
   "CreationDateSelfEarlier_PC": "あなたのアカウントは、**%1$s**より前に作成されました。",
   "CreationDateSelfLater_PC": "あなたのアカウントは、**%1$s**より後に作成されました。",
-  "JoinDateChat_PC": "You joined **%1$s** on **%2$s**.",
+  "JoinDateChat_PC": "あなたは**%1$s**に**%2$s**に参加しました。",
   "JumpToBeginning": "To Beginning",
   "ExpireMediaContextMenuText": "Burn",
   "ExpiringVoiceMessageNote": "この音声メッセージは好きなだけ再生できます。",
